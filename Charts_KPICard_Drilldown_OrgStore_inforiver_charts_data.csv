@@ -1,0 +1,5 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Sum(Orders.Profit),CountNonNull(Orders.Country),
+2017,93439.26960000032,3312,Consumer
+2016,81795.1743,2587,Consumer
+2015,61618.60369999988,2102,Consumer
+2014,49543.97409999975,1993,Consumer

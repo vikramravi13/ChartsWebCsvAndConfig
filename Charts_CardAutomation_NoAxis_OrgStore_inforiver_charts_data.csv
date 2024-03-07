@@ -1,0 +1,13 @@
+Orders.Segment,Orders.Region,blank-axis-row,Sum(Orders.Profit),Sum(Orders.Sales)
+Consumer,West,(Blank),57450.60400000006,362880.773
+Consumer,East,(Blank),41190.98429999995,350908.167
+Consumer,South,(Blank),26913.57279999999,195580.971
+Consumer,Central,(Blank),8564.048099999993,252031.434
+Corporate,West,(Blank),34437.42989999997,225855.2745
+Corporate,East,(Blank),23622.578900000022,200409.347
+Corporate,South,(Blank),15215.223200000008,121885.9325
+Corporate,Central,(Blank),18703.902000000013,157995.8128
+Home Office,West,(Blank),16530.41499999999,136721.777
+Home Office,East,(Blank),26709.2168,127463.726
+Home Office,South,(Blank),4620.6343,74255.0015
+Home Office,Central,(Blank),12438.412399999987,91212.644
