@@ -1,0 +1,81 @@
+financials.Date.Variation.Date Hierarchy.Year,financials.Date.Variation.Date Hierarchy.Quarter,financials.Date.Variation.Date Hierarchy.Month,financials.Date.Variation.Date Hierarchy.Day,financials.Country,Sum(financials. Sales),Sum(financials.COGS)
+2013,Qtr 3,September,1,United States of America,981022.8699999999,799377
+2013,Qtr 3,September,1,Canada,939195.2100000001,843838
+2013,Qtr 3,September,1,France,821599.5900000001,645677
+2013,Qtr 3,September,1,Germany,1095488.1600000001,896960
+2013,Qtr 3,September,1,Mexico,646694.2000000001,534545
+2013,Qtr 4,October,1,United States of America,1954030.74,1735196
+2013,Qtr 4,October,1,Canada,1229608.2799999998,960804
+2013,Qtr 4,October,1,France,2390476.9600000004,1958678
+2013,Qtr 4,October,1,Germany,2555442.5600000005,1958406
+2013,Qtr 4,October,1,Mexico,1166052.5599999998,1024732
+2013,Qtr 4,November,1,United States of America,1526745.6400000001,1423981
+2013,Qtr 4,November,1,Canada,1419826.1,1216056
+2013,Qtr 4,November,1,France,985577.2999999999,865170
+2013,Qtr 4,November,1,Germany,1718947.9,1535035
+2013,Qtr 4,November,1,Mexico,1616106.36,1461459
+2013,Qtr 4,December,1,United States of America,662615.5800000001,613290
+2013,Qtr 4,December,1,Canada,1587259.19,1351519
+2013,Qtr 4,December,1,France,935141.3200000001,851938
+2013,Qtr 4,December,1,Germany,857856.8500000001,719115
+2013,Qtr 4,December,1,Mexico,1325568.1400000001,1141015
+2014,Qtr 3,September,1,United States of America,1429253.48,1242441
+2014,Qtr 3,September,1,Canada,938647.6099999999,814555
+2014,Qtr 3,September,1,France,1753192.99,1417353
+2014,Qtr 3,September,1,Germany,1255161.9000000001,1035040
+2014,Qtr 3,September,1,Mexico,1022441.2599999999,866176
+2014,Qtr 3,July,1,United States of America,2308798.125,2000353.5
+2014,Qtr 3,July,1,Canada,2109549.285,1856538
+2014,Qtr 3,July,1,France,1148065.08,1016334
+2014,Qtr 3,July,1,Germany,1609549.75,1485031
+2014,Qtr 3,July,1,Mexico,926957.94,820798
+2014,Qtr 3,August,1,United States of America,2007266.1199999999,1763703
+2014,Qtr 3,August,1,Canada,952043.0399999999,787112
+2014,Qtr 3,August,1,France,779802.09,688145
+2014,Qtr 3,August,1,Germany,1046755.1699999999,949662
+2014,Qtr 3,August,1,Mexico,1078756,884934
+2014,Qtr 4,October,1,United States of America,1503072.26,1307654
+2014,Qtr 4,October,1,Canada,2215924.4799999995,1981430
+2014,Qtr 4,October,1,France,3379661.5599999996,2898108
+2014,Qtr 4,October,1,Germany,3421587.32,2801692
+2014,Qtr 4,October,1,Mexico,1855574.2999999996,1604950
+2014,Qtr 4,November,1,United States of America,1566757.01,1362274
+2014,Qtr 4,November,1,Canada,952833.26,881053
+2014,Qtr 4,November,1,France,1123994.5899999999,979251
+2014,Qtr 4,November,1,Germany,617106.5,549491
+2014,Qtr 4,November,1,Mexico,1123522.84,1007545
+2014,Qtr 4,December,1,United States of America,1731892.1,1576504
+2014,Qtr 4,December,1,Canada,3959729.44,3208746
+2014,Qtr 4,December,1,France,2389929.2,1934480
+2014,Qtr 4,December,1,Germany,2283342.440000001,1874918
+2014,Qtr 4,December,1,Mexico,1633894.72,1378374
+2014,Qtr 1,January,1,United States of America,1346026.485,1228465.5
+2014,Qtr 1,January,1,Canada,1186256.49,1047493.5
+2014,Qtr 1,January,1,France,1544720.745,1297212
+2014,Qtr 1,January,1,Germany,874935.11,815027
+2014,Qtr 1,January,1,Mexico,1655822.85,1405535
+2014,Qtr 1,February,1,United States of America,1332890.66,1165414
+2014,Qtr 1,February,1,Canada,1482165.98,1231691
+2014,Qtr 1,February,1,France,1537438.46,1214280
+2014,Qtr 1,February,1,Germany,1347335.8699999999,1155588
+2014,Qtr 1,February,1,Mexico,1597700.42,1382011
+2014,Qtr 1,March,1,United States of America,1789974.47,1593940
+2014,Qtr 1,March,1,Canada,811132.5,727234
+2014,Qtr 1,March,1,France,1559748.75,1428256
+2014,Qtr 1,March,1,Germany,479509.59,394658
+2014,Qtr 1,March,1,Mexico,946494.56,772905
+2014,Qtr 2,April,1,United States of America,1616624.475,1411231.5
+2014,Qtr 2,April,1,Canada,1593562.95,1353856.5
+2014,Qtr 2,April,1,France,1332862.6950000003,1196365.5
+2014,Qtr 2,April,1,Germany,1394813.46,1217414
+2014,Qtr 2,April,1,Mexico,1026911.49,855923
+2014,Qtr 2,May,1,United States of America,1949249.3499999999,1714543
+2014,Qtr 2,May,1,Canada,783941.6699999999,703442
+2014,Qtr 2,May,1,France,1042776.97,886258
+2014,Qtr 2,May,1,Germany,1317483,1114765
+2014,Qtr 2,May,1,Mexico,1116760.07,962563
+2014,Qtr 2,June,1,United States of America,1323610.8,1095922
+2014,Qtr 2,June,1,Canada,2725979.4,2393058
+2014,Qtr 2,June,1,France,1629183.98,1295646
+2014,Qtr 2,June,1,Germany,1630025.24,1322150
+2014,Qtr 2,June,1,Mexico,2210094.4,1938364

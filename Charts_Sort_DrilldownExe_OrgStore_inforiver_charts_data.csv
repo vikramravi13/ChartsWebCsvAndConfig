@@ -1,21 +1,200 @@
-financials.Discount Band,financials.Country,Sum(financials. Sales)
-High,United States of America,11140926.280000001
-High,Canada,8657237.659999998
-High,France,5865834.735
-High,Germany,4878794.360000001
-High,Mexico,6829693.690000001
-Low,United States of America,6273404.135000001
-Low,Canada,6537899.370000001
-Low,France,5913163.185
-Low,Germany,10316608.08
-Low,Mexico,5588703.93
-Medium,United States of America,7168350.749999999
-Medium,Canada,7865428.355
-Medium,France,10057889.36
-Medium,Germany,5824029.879999998
-Medium,Mexico,7864732.489999999
-None,United States of America,447149
-None,Canada,1827089.5
-None,France,2517285
-None,Germany,2485908.5
-None,Mexico,666222
+financials.Discount Band,financials.Country,financials.COGS,Sum(financials. Sales)
+High,United States of America,573500,1238760
+High,United States of America,873750,922680
+High,United States of America,729820,884205
+High,United States of America,748250,808110
+High,United States of America,601380,728595
+High,United States of America,643500,656370
+High,United States of America,635250,655578
+High,United States of America,615000,634680
+High,United States of America,256360,607376
+High,United States of America,521820,597082.5
+High,United States of America,252500,521160
+High,United States of America,413460,387618.75
+High,United States of America,306020,354277
+High,United States of America,341280,305730
+High,United States of America,255450,299171.25
+High,United States of America,286440,262570
+High,United States of America,292560,259037.5
+High,United States of America,216480,202950
+High,United States of America,191520,179550
+High,United States of America,70200,83160
+High,United States of America,25670,66998.7
+High,United States of America,69480,65137.5
+High,United States of America,8742,60144.96
+High,United States of America,26410,45953.4
+High,United States of America,31995,42713.325
+High,United States of America,14980,36071.84
+High,United States of America,25480,33633.6
+High,United States of America,17430,29979.6
+High,United States of America,17670,22794.3
+High,United States of America,6045,20794.8
+High,United States of America,2742,18645.6
+High,United States of America,5418,18421.2
+High,United States of America,11640,14666.4
+High,United States of America,7900,10665
+High,United States of America,6060,10423.2
+High,United States of America,7895,9837.17
+High,United States of America,2670,9078
+High,United States of America,6770,8936.4
+High,United States of America,7192.5,8760.465
+High,United States of America,1158,8337.6
+High,United States of America,6490,7904.82
+High,United States of America,1900,2367.4
+High,Canada,17430,44969.4
+High,Canada,684320,1602888
+High,Canada,374000,771936
+High,Canada,582400,705600
+High,Canada,579150,670477.5
+High,Canada,547170,655551.75
+High,Canada,341500,364722
+High,Canada,189960,344302.5
+High,Canada,354480,313862.5
+High,Canada,303480,284512.5
+High,Canada,239980,281053.5
+High,Canada,289920,265760
+High,Canada,218250,233091
+High,Canada,222000,229104
+High,Canada,183820,222705
+High,Canada,229920,215550
+High,Canada,182000,210700
+High,Canada,161980,191884
+High,Canada,199080,180416.25
+High,Canada,67250,138804
+High,Canada,52000,60200
+High,Canada,23000,59340
+High,Canada,29350,52243
+High,Canada,12490,43465.2
+High,Canada,12078,42997.68
+High,Canada,23940,42613.2
+High,Canada,24280,41761.6
+High,Canada,15650,40846.5
+High,Canada,10561.5,38021.399999999994
+High,Canada,26890,35494.8
+High,Canada,13670,33682.88
+High,Canada,25590,32627.25
+High,Canada,24700,31863
+High,Canada,8283,29156.16
+High,Canada,6666,22931.04
+High,Canada,6327,22271.04
+High,Canada,15600,20826
+High,Canada,5811,20687.16
+High,Canada,16140,20578.5
+High,Canada,8655,14713.5
+High,Canada,9040,11263.84
+High,Canada,3840,5126.4
+High,Canada,3615,4301.85
+High,Canada,1940,2335.76
+High,France,79560,70443.75
+High,France,8655,20841.239999999998
+High,France,618750,631125
+High,France,499720,578522
+High,France,465400,545055
+High,France,292920,543122.5
+High,France,414440,490952
+High,France,443250,468072
+High,France,213250,460620
+High,France,333060,385581
+High,France,296500,313104
+High,France,166140,201285
+High,France,177840,166725
+High,France,171960,159421.25
+High,France,140880,124737.5
+High,France,122760,109972.5
+High,France,21670,58509
+High,France,20720,55944
+High,France,39975,52167.375
+High,France,38745,51143.399999999994
+High,France,28050,49929
+High,France,25215,44378.399999999994
+High,France,28260,36031.5
+High,France,19540,35172
+High,France,4179,28751.52
+High,France,7276.5,25904.340000000004
+High,France,3594,25589.28
+High,France,7425,25542
+High,France,17107.5,21076.44
+High,France,5202,18519.12
+High,France,13480,16418.64
+High,France,12660,15774.36
+High,France,5950,14494.2
+High,France,2930,9962
+High,France,7455,9184.56
+High,France,1465,1763.8600000000001
+High,Germany,702750,750537
+High,Germany,634000,654288
+High,Germany,486200,589050
+High,Germany,311740,360899
+High,Germany,339750,358776
+High,Germany,379800,352106.25
+High,Germany,332040,293993.75
+High,Germany,205920,246708
+High,Germany,199160,238609
+High,Germany,130200,230562.5
+High,Germany,201750,210627
+High,Germany,92820,108706.5
+High,Germany,29920,106515.2
+High,Germany,66240,58650
+High,Germany,15310,53891.2
+High,Germany,27080,47119.2
+High,Germany,11750,29962.5
+High,Germany,7722,27799.2
+High,Germany,3039,21151.44
+High,Germany,11580,19686
+High,Germany,15130,19517.7
+High,Germany,5310,18478.8
+High,Germany,13325,16789.5
+High,Germany,1416,10081.92
+High,Germany,6810,9193.5
+High,Germany,2410,8676
+High,Germany,6600,8613
+High,Germany,4420,7690.8
+High,Germany,5100,6885
+High,Germany,4920,6273
+High,Germany,2780,3586.2
+High,Germany,1400,3371.2
+High,Mexico,338520,303257.5
+High,Mexico,741260,848172.5
+High,Mexico,651250,679905
+High,Mexico,559260,639922.5
+High,Mexico,537500,567600
+High,Mexico,230360,545776
+High,Mexico,258720,474320
+High,Mexico,362700,429660
+High,Mexico,311220,368676
+High,Mexico,136500,278460
+High,Mexico,89440,214312
+High,Mexico,200250,206658
+High,Mexico,189000,169312.5
+High,Mexico,147750,159570
+High,Mexico,108000,116640
+High,Mexico,113640,105353.75
+High,Mexico,66480,61632.5
+High,Mexico,17150,60368
+High,Mexico,21570,57591.9
+High,Mexico,26290,46796.2
+High,Mexico,25790,44358.8
+High,Mexico,12330,43401.6
+High,Mexico,22550,39237
+High,Mexico,40920,38362.5
+High,Mexico,20390,36702
+High,Mexico,9050,31856
+High,Mexico,7983,28100.16
+High,Mexico,19840,26486.4
+High,Mexico,18700,24123
+High,Mexico,8635,20793.08
+High,Mexico,11220,19971.6
+High,Mexico,14515,17476.06
+High,Mexico,13530,16858.38
+High,Mexico,12675,15083.25
+High,Mexico,12100,14907.2
+High,Mexico,1812,12611.52
+High,Mexico,3015,10733.4
+High,Mexico,6550,8744.25
+High,Mexico,6410,8653.5
+High,Mexico,1230,8560.8
+High,Mexico,6840,8139.6
+High,Mexico,1713,5961.24
+High,Mexico,1500,5100
+High,Mexico,3800,5016
+High,Mexico,2600,4472
