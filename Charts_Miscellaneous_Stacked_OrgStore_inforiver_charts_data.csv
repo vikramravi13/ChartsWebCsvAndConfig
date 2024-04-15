@@ -1,0 +1,452 @@
+financials.Discount Band,DUMMY_IDENTIFIER,financials.Country,financials.Product,financials.Segment,Sum(financials.COGS)
+High,,Canada,Paseo,Government,1477815
+High,,Canada,Paseo,Small Business,559750
+High,,Canada,Paseo,Enterprise,189960
+High,,Canada,Paseo,Midmarket,99510
+High,,Canada,Paseo,Channel Partners,18744
+High,,Canada,VTT,Government,199985
+High,,Canada,VTT,Small Business,441250
+High,,Canada,VTT,Enterprise,847920
+High,,Canada,VTT,Midmarket,15650
+High,,Canada,VTT,Channel Partners,6327
+High,,Canada,Velo,Government,693360
+High,,Canada,Velo,Small Business,67250
+High,,Canada,Velo,Enterprise,229920
+High,,Canada,Velo,Midmarket,3840
+High,,Canada,Amarilla,Government,779890
+High,,Canada,Amarilla,Small Business,222000
+High,,Canada,Amarilla,Enterprise,199080
+High,,Canada,Amarilla,Midmarket,17430
+High,,Canada,Amarilla,Channel Partners,18844.5
+High,,Canada,Montana,Government,659250
+High,,Canada,Montana,Midmarket,23000
+High,,Canada,Carretera,Government,239980
+High,,Canada,Carretera,Small Business,374000
+High,,Canada,Carretera,Enterprise,289920
+High,,Canada,Carretera,Midmarket,65490
+High,,Canada,Carretera,Channel Partners,5811
+High,,France,Paseo,Government,971425
+High,,France,Paseo,Enterprise,292920
+High,,France,Paseo,Midmarket,21670
+High,,France,Paseo,Channel Partners,15049.5
+High,,France,VTT,Government,343445
+High,,France,VTT,Midmarket,60415
+High,,France,VTT,Channel Partners,5202
+High,,France,Velo,Government,200140
+High,,France,Velo,Small Business,213250
+High,,France,Velo,Enterprise,79560
+High,,France,Velo,Midmarket,68235
+High,,France,Amarilla,Government,31712.5
+High,,France,Amarilla,Small Business,832000
+High,,France,Amarilla,Enterprise,171960
+High,,France,Amarilla,Midmarket,20720
+High,,France,Amarilla,Channel Partners,11604
+High,,France,Montana,Government,1465
+High,,France,Montana,Small Business,739750
+High,,France,Montana,Midmarket,20720
+High,,France,Carretera,Government,490615
+High,,France,Carretera,Enterprise,734400
+High,,France,Carretera,Channel Partners,3594
+High,,Germany,Paseo,Government,179120
+High,,Germany,Paseo,Small Business,541500
+High,,Germany,Paseo,Enterprise,130200
+High,,Germany,Paseo,Midmarket,14530
+High,,Germany,Paseo,Channel Partners,3039
+High,,Germany,VTT,Government,502910
+High,,Germany,VTT,Enterprise,66240
+High,,Germany,VTT,Midmarket,16670
+High,,Germany,Velo,Government,15735
+High,,Germany,Velo,Small Business,634000
+High,,Germany,Velo,Midmarket,18510
+High,,Germany,Velo,Channel Partners,4455
+High,,Germany,Amarilla,Enterprise,379800
+High,,Germany,Amarilla,Channel Partners,14448
+High,,Germany,Montana,Government,540820
+High,,Germany,Carretera,Government,211740
+High,,Germany,Carretera,Small Business,702750
+High,,Germany,Carretera,Enterprise,462240
+High,,Germany,Carretera,Midmarket,15130
+High,,Mexico,Paseo,Government,1907125
+High,,Mexico,Paseo,Small Business,685250
+High,,Mexico,Paseo,Enterprise,258720
+High,,Mexico,Paseo,Midmarket,23640
+High,,Mexico,Paseo,Channel Partners,1713
+High,,Mexico,VTT,Government,26845
+High,,Mexico,VTT,Small Business,108000
+High,,Mexico,VTT,Enterprise,107400
+High,,Mexico,VTT,Midmarket,6410
+High,,Mexico,VTT,Channel Partners,3015
+High,,Mexico,Velo,Government,461190
+High,,Mexico,Velo,Small Business,651250
+High,,Mexico,Velo,Enterprise,189000
+High,,Mexico,Velo,Midmarket,6550
+High,,Mexico,Velo,Channel Partners,4542
+High,,Mexico,Amarilla,Government,144755
+High,,Mexico,Amarilla,Small Business,136500
+High,,Mexico,Amarilla,Enterprise,113640
+High,,Mexico,Amarilla,Midmarket,40270
+High,,Mexico,Amarilla,Channel Partners,1230
+High,,Mexico,Montana,Government,67275
+High,,Mexico,Montana,Small Business,136500
+High,,Mexico,Montana,Midmarket,21570
+High,,Mexico,Montana,Channel Partners,9795
+High,,Mexico,Carretera,Government,269680
+High,,Mexico,Carretera,Small Business,200250
+High,,Mexico,Carretera,Enterprise,597240
+High,,United States of America,Paseo,Government,866012.5
+High,,United States of America,Paseo,Small Business,873750
+High,,United States of America,Paseo,Midmarket,17670
+High,,United States of America,Paseo,Channel Partners,12642
+High,,United States of America,VTT,Government,996745
+High,,United States of America,VTT,Small Business,1461250
+High,,United States of America,VTT,Enterprise,286440
+High,,United States of America,VTT,Midmarket,25670
+High,,United States of America,VTT,Channel Partners,5418
+High,,United States of America,Velo,Government,262420
+High,,United States of America,Velo,Small Business,1832000
+High,,United States of America,Velo,Enterprise,484080
+High,,United States of America,Velo,Midmarket,7900
+High,,United States of America,Velo,Channel Partners,2742
+High,,United States of America,Amarilla,Government,70200
+High,,United States of America,Amarilla,Small Business,748250
+High,,United States of America,Amarilla,Enterprise,410760
+High,,United States of America,Amarilla,Midmarket,57475
+High,,United States of America,Amarilla,Channel Partners,14787
+High,,United States of America,Montana,Government,889940
+High,,United States of America,Montana,Enterprise,216480
+High,,United States of America,Montana,Midmarket,6770
+High,,United States of America,Carretera,Government,32410
+High,,United States of America,Carretera,Small Business,252500
+High,,United States of America,Carretera,Enterprise,413460
+High,,United States of America,Carretera,Midmarket,25670
+High,,United States of America,Carretera,Channel Partners,1158
+Low,,Canada,Paseo,Government,783515
+Low,,Canada,Paseo,Small Business,479000
+Low,,Canada,Paseo,Enterprise,781440
+Low,,Canada,Paseo,Midmarket,25810
+Low,,Canada,Paseo,Channel Partners,3885
+Low,,Canada,VTT,Government,251940
+Low,,Canada,VTT,Small Business,468500
+Low,,Canada,VTT,Enterprise,327480
+Low,,Canada,Velo,Government,75425
+Low,,Canada,Velo,Enterprise,351840
+Low,,Canada,Amarilla,Government,462280
+Low,,Canada,Amarilla,Small Business,479000
+Low,,Canada,Montana,Government,23405
+Low,,Canada,Montana,Midmarket,19670
+Low,,Canada,Carretera,Government,764085
+Low,,Canada,Carretera,Enterprise,89100
+Low,,Canada,Carretera,Channel Partners,10944
+Low,,France,Paseo,Government,585175
+Low,,France,Paseo,Small Business,838125
+Low,,France,Paseo,Enterprise,607440
+Low,,France,Paseo,Midmarket,45570
+Low,,France,Paseo,Channel Partners,14223
+Low,,France,VTT,Government,566020
+Low,,France,VTT,Enterprise,303720
+Low,,France,VTT,Channel Partners,2598
+Low,,France,Velo,Government,607855
+Low,,France,Velo,Channel Partners,3165
+Low,,France,Amarilla,Government,9410
+Low,,France,Amarilla,Midmarket,3210
+Low,,France,Montana,Government,16475
+Low,,France,Montana,Enterprise,154440
+Low,,France,Montana,Channel Partners,5703
+Low,,France,Carretera,Government,571025
+Low,,France,Carretera,Enterprise,509220
+Low,,France,Carretera,Channel Partners,8013
+Low,,Germany,Paseo,Small Business,957875
+Low,,Germany,Paseo,Enterprise,585600
+Low,,Germany,Paseo,Midmarket,26920
+Low,,Germany,Paseo,Channel Partners,2298
+Low,,Germany,VTT,Government,749335
+Low,,Germany,VTT,Small Business,300000
+Low,,Germany,VTT,Enterprise,188400
+Low,,Germany,VTT,Midmarket,19450
+Low,,Germany,VTT,Channel Partners,7437
+Low,,Germany,Velo,Government,1519180
+Low,,Germany,Velo,Enterprise,97080
+Low,,Germany,Amarilla,Government,1266980
+Low,,Germany,Amarilla,Small Business,64750
+Low,,Germany,Amarilla,Enterprise,273120
+Low,,Germany,Montana,Government,477010
+Low,,Germany,Montana,Small Business,970000
+Low,,Germany,Montana,Enterprise,204720
+Low,,Germany,Carretera,Government,25800
+Low,,Germany,Carretera,Small Business,731000
+Low,,Germany,Carretera,Channel Partners,2298
+Low,,Mexico,Paseo,Government,8800
+Low,,Mexico,Paseo,Enterprise,692160
+Low,,Mexico,Paseo,Midmarket,35450
+Low,,Mexico,Paseo,Channel Partners,3252
+Low,,Mexico,VTT,Government,1294540
+Low,,Mexico,VTT,Small Business,123500
+Low,,Mexico,VTT,Enterprise,79440
+Low,,Mexico,VTT,Midmarket,15140
+Low,,Mexico,VTT,Channel Partners,5748
+Low,,Mexico,Velo,Government,7250
+Low,,Mexico,Velo,Enterprise,257400
+Low,,Mexico,Velo,Channel Partners,3252
+Low,,Mexico,Amarilla,Government,484900
+Low,,Mexico,Amarilla,Small Business,275250
+Low,,Mexico,Amarilla,Enterprise,128880
+Low,,Mexico,Montana,Enterprise,335760
+Low,,Mexico,Montana,Midmarket,42450
+Low,,Mexico,Montana,Channel Partners,2070
+Low,,Mexico,Carretera,Government,677820
+Low,,Mexico,Carretera,Small Business,123500
+Low,,United States of America,Paseo,Government,1011327.5
+Low,,United States of America,Paseo,Small Business,1455750
+Low,,United States of America,Paseo,Enterprise,87240
+Low,,United States of America,Paseo,Midmarket,41100
+Low,,United States of America,Paseo,Channel Partners,7534.5
+Low,,United States of America,VTT,Government,159900
+Low,,United States of America,VTT,Small Business,711000
+Low,,United States of America,VTT,Enterprise,87240
+Low,,United States of America,Velo,Government,23020
+Low,,United States of America,Velo,Enterprise,79560
+Low,,United States of America,Velo,Channel Partners,4395
+Low,,United States of America,Amarilla,Government,12360
+Low,,United States of America,Amarilla,Midmarket,6710
+Low,,United States of America,Amarilla,Channel Partners,5967
+Low,,United States of America,Montana,Government,15660
+Low,,United States of America,Montana,Small Business,1199750
+Low,,United States of America,Montana,Enterprise,79560
+Low,,United States of America,Montana,Channel Partners,3426
+Low,,United States of America,Carretera,Government,83885
+Low,,United States of America,Carretera,Enterprise,39600
+Low,,United States of America,Carretera,Channel Partners,11415
+Medium,,Canada,Paseo,Government,364220
+Medium,,Canada,Paseo,Small Business,1050000
+Medium,,Canada,Paseo,Channel Partners,14190
+Medium,,Canada,VTT,Government,21800
+Medium,,Canada,VTT,Small Business,1142500
+Medium,,Canada,VTT,Midmarket,28440
+Medium,,Canada,VTT,Channel Partners,9733.5
+Medium,,Canada,Velo,Government,343525
+Medium,,Canada,Velo,Small Business,948375
+Medium,,Canada,Velo,Enterprise,182280
+Medium,,Canada,Velo,Midmarket,12620
+Medium,,Canada,Velo,Channel Partners,9087
+Medium,,Canada,Amarilla,Government,816675
+Medium,,Canada,Amarilla,Enterprise,197400
+Medium,,Canada,Amarilla,Midmarket,16305
+Medium,,Canada,Montana,Government,17575
+Medium,,Canada,Montana,Small Business,1271375
+Medium,,Canada,Montana,Channel Partners,6963
+Medium,,Canada,Carretera,Government,4095
+Medium,,Canada,Carretera,Small Business,273500
+Medium,,Canada,Carretera,Midmarket,28440
+Medium,,Canada,Carretera,Channel Partners,12549
+Medium,,France,Paseo,Government,450745
+Medium,,France,Paseo,Small Business,443000
+Medium,,France,Paseo,Enterprise,370680
+Medium,,France,Paseo,Midmarket,97490
+Medium,,France,VTT,Government,287685
+Medium,,France,VTT,Small Business,545000
+Medium,,France,VTT,Midmarket,12270
+Medium,,France,VTT,Channel Partners,11917.5
+Medium,,France,Velo,Government,974600
+Medium,,France,Velo,Small Business,816500
+Medium,,France,Velo,Enterprise,84480
+Medium,,France,Velo,Channel Partners,5901
+Medium,,France,Amarilla,Government,1294535
+Medium,,France,Amarilla,Enterprise,238500
+Medium,,France,Amarilla,Channel Partners,918
+Medium,,France,Montana,Government,837475
+Medium,,France,Montana,Small Business,1016250
+Medium,,France,Montana,Enterprise,222840
+Medium,,France,Montana,Midmarket,25010
+Medium,,France,Montana,Channel Partners,7026
+Medium,,France,Carretera,Government,28065
+Medium,,France,Carretera,Small Business,657250
+Medium,,France,Carretera,Midmarket,4900
+Medium,,France,Carretera,Channel Partners,5595
+Medium,,Germany,Paseo,Government,642050
+Medium,,Germany,Paseo,Small Business,280750
+Medium,,Germany,Paseo,Enterprise,421560
+Medium,,Germany,Paseo,Midmarket,38590
+Medium,,Germany,Paseo,Channel Partners,5325
+Medium,,Germany,VTT,Government,146180
+Medium,,Germany,VTT,Small Business,664750
+Medium,,Germany,VTT,Channel Partners,9285
+Medium,,Germany,Velo,Government,367400
+Medium,,Germany,Velo,Small Business,312500
+Medium,,Germany,Velo,Enterprise,347280
+Medium,,Germany,Velo,Midmarket,15300
+Medium,,Germany,Amarilla,Government,385655
+Medium,,Germany,Amarilla,Small Business,312500
+Medium,,Germany,Amarilla,Enterprise,119280
+Medium,,Germany,Amarilla,Midmarket,16810
+Medium,,Germany,Montana,Government,391845
+Medium,,Germany,Montana,Small Business,83500
+Medium,,Germany,Montana,Enterprise,300000
+Medium,,Germany,Montana,Midmarket,7110
+Medium,,Germany,Montana,Channel Partners,7026
+Medium,,Germany,Carretera,Government,11710
+Medium,,Germany,Carretera,Enterprise,106440
+Medium,,Germany,Carretera,Channel Partners,8088
+Medium,,Mexico,Paseo,Government,1046025
+Medium,,Mexico,Paseo,Small Business,1658000
+Medium,,Mexico,Paseo,Enterprise,133680
+Medium,,Mexico,Paseo,Channel Partners,9390
+Medium,,Mexico,VTT,Government,34770
+Medium,,Mexico,VTT,Small Business,686750
+Medium,,Mexico,VTT,Enterprise,105240
+Medium,,Mexico,Velo,Government,20245
+Medium,,Mexico,Velo,Small Business,158750
+Medium,,Mexico,Velo,Enterprise,253200
+Medium,,Mexico,Velo,Midmarket,57340
+Medium,,Mexico,Amarilla,Government,472275
+Medium,,Mexico,Amarilla,Small Business,773750
+Medium,,Mexico,Amarilla,Channel Partners,7494
+Medium,,Mexico,Montana,Government,442000
+Medium,,Mexico,Montana,Small Business,275000
+Medium,,Mexico,Montana,Channel Partners,7020
+Medium,,Mexico,Carretera,Government,375065
+Medium,,Mexico,Carretera,Enterprise,184800
+Medium,,Mexico,Carretera,Midmarket,27910
+Medium,,Mexico,Carretera,Channel Partners,4968
+Medium,,United States of America,Paseo,Government,396925
+Medium,,United States of America,Paseo,Small Business,247750
+Medium,,United States of America,Paseo,Enterprise,798000
+Medium,,United States of America,Paseo,Midmarket,99570
+Medium,,United States of America,VTT,Government,397885
+Medium,,United States of America,VTT,Small Business,668750
+Medium,,United States of America,VTT,Midmarket,11530
+Medium,,United States of America,VTT,Channel Partners,5868
+Medium,,United States of America,Velo,Government,216320
+Medium,,United States of America,Velo,Small Business,343000
+Medium,,United States of America,Velo,Enterprise,433920
+Medium,,United States of America,Velo,Midmarket,5550
+Medium,,United States of America,Amarilla,Government,754835
+Medium,,United States of America,Amarilla,Small Business,343000
+Medium,,United States of America,Montana,Government,12820
+Medium,,United States of America,Montana,Enterprise,770880
+Medium,,United States of America,Montana,Channel Partners,8169
+Medium,,United States of America,Carretera,Government,473200
+Medium,,United States of America,Carretera,Small Business,247750
+Medium,,United States of America,Carretera,Midmarket,20300
+None,,Canada,Paseo,Government,469590
+None,,Canada,Paseo,Midmarket,21520
+None,,Canada,Paseo,Channel Partners,7554
+None,,Canada,VTT,Government,18170
+None,,Canada,VTT,Small Business,500250
+None,,Canada,Velo,Enterprise,41400
+None,,Canada,Montana,Enterprise,361260
+None,,Canada,Montana,Channel Partners,7554
+None,,Canada,Carretera,Government,16185
+None,,France,Paseo,Midmarket,5490
+None,,France,VTT,Government,397020
+None,,France,VTT,Small Business,537750
+None,,France,VTT,Midmarket,21780
+None,,France,Velo,Enterprise,216480
+None,,France,Amarilla,Government,733990
+None,,France,Montana,Government,18990
+None,,France,Carretera,Midmarket,21780
+None,,Germany,Paseo,Government,654940
+None,,Germany,Paseo,Channel Partners,1101
+None,,Germany,VTT,Midmarket,8880
+None,,Germany,VTT,Channel Partners,8514
+None,,Germany,Velo,Government,261560
+None,,Germany,Velo,Channel Partners,11118
+None,,Germany,Amarilla,Government,8430
+None,,Germany,Amarilla,Enterprise,506340
+None,,Germany,Montana,Government,10730
+None,,Germany,Montana,Midmarket,9210
+None,,Germany,Montana,Channel Partners,4635
+None,,Germany,Carretera,Government,406590
+None,,Germany,Carretera,Midmarket,8880
+None,,Mexico,Paseo,Government,4415
+None,,Mexico,Paseo,Small Business,197000
+None,,Mexico,Paseo,Midmarket,34460
+None,,Mexico,Velo,Government,7465
+None,,Mexico,Montana,Small Business,239500
+None,,Mexico,Montana,Midmarket,24700
+None,,Mexico,Carretera,Midmarket,24700
+None,,United States of America,Paseo,Government,5715
+None,,United States of America,Paseo,Channel Partners,2736
+None,,United States of America,Velo,Enterprise,338520
+None,,United States of America,Amarilla,Government,5715
+None,,United States of America,Amarilla,Midmarket,6150
+None,,United States of America,Amarilla,Channel Partners,12282
+None,,United States of America,Montana,Midmarket,6150
+High,,United States of America,Paseo,Government,5401497.5
+High,,United States of America,Paseo,Small Business,2660250
+High,,United States of America,Paseo,Midmarket,177020
+High,,United States of America,Paseo,Channel Partners,51187.5
+High,,United States of America,VTT,Government,2069930
+High,,United States of America,VTT,Small Business,2010500
+High,,United States of America,VTT,Enterprise,1308000
+High,,United States of America,VTT,Midmarket,124815
+High,,United States of America,VTT,Channel Partners,19962
+High,,United States of America,Velo,Government,1632845
+High,,United States of America,Velo,Small Business,3397750
+High,,United States of America,Velo,Enterprise,982560
+High,,United States of America,Velo,Midmarket,105035
+High,,United States of America,Amarilla,Government,1026557.5
+High,,United States of America,Amarilla,Small Business,1938750
+High,,United States of America,Amarilla,Enterprise,1275240
+High,,United States of America,Amarilla,Midmarket,135895
+High,,United States of America,Amarilla,Channel Partners,60913.5
+High,,United States of America,Montana,Government,2158750
+High,,United States of America,Montana,Midmarket,72060
+High,,United States of America,Carretera,Government,1244425
+High,,United States of America,Carretera,Small Business,1529500
+High,,United States of America,Carretera,Enterprise,2497260
+High,,United States of America,Carretera,Midmarket,106290
+High,,United States of America,Carretera,Channel Partners,10563
+High,,United States of America,Velo,Channel Partners,11739
+High,,United States of America,Montana,Enterprise,216480
+Low,,Germany,Paseo,Small Business,3730750
+Low,,Germany,Paseo,Enterprise,2753880
+Low,,Germany,Paseo,Midmarket,174850
+Low,,Germany,Paseo,Channel Partners,31192.5
+Low,,Germany,VTT,Government,3021735
+Low,,Germany,VTT,Small Business,1603000
+Low,,Germany,VTT,Enterprise,986280
+Low,,Germany,Velo,Government,2232730
+Low,,Germany,Velo,Enterprise,785880
+Low,,Germany,Amarilla,Government,2235930
+Low,,Germany,Amarilla,Small Business,819000
+Low,,Germany,Montana,Government,532550
+Low,,Germany,Carretera,Government,2122615
+Low,,Germany,Carretera,Channel Partners,32670
+Low,,Germany,VTT,Channel Partners,15783
+Low,,Germany,Montana,Enterprise,774480
+Low,,Germany,VTT,Midmarket,34590
+Low,,Germany,Amarilla,Enterprise,402000
+Low,,Germany,Montana,Small Business,2169750
+Low,,Germany,Carretera,Small Business,854500
+Medium,,France,Paseo,Government,2899965
+Medium,,France,Paseo,Small Business,3679500
+Medium,,France,VTT,Government,888320
+Medium,,France,VTT,Small Business,3707750
+Medium,,France,VTT,Midmarket,52240
+Medium,,France,VTT,Channel Partners,36804
+Medium,,France,Velo,Government,1922090
+Medium,,France,Velo,Small Business,2579125
+Medium,,France,Velo,Enterprise,1301160
+Medium,,France,Velo,Channel Partners,14988
+Medium,,France,Amarilla,Government,3723975
+Medium,,France,Amarilla,Enterprise,555180
+Medium,,France,Montana,Government,1701715
+Medium,,France,Montana,Small Business,2646125
+Medium,,France,Montana,Channel Partners,36204
+Medium,,France,Carretera,Government,892135
+Medium,,France,Carretera,Small Business,1178500
+Medium,,France,Carretera,Midmarket,81550
+Medium,,France,Carretera,Channel Partners,31200
+Medium,,France,Paseo,Enterprise,1723920
+Medium,,France,Paseo,Midmarket,235650
+Medium,,France,Amarilla,Channel Partners,8412
+Medium,,France,Montana,Enterprise,1293720
+Medium,,France,Montana,Midmarket,32120
+None,,France,Paseo,Midmarket,61470
+None,,France,VTT,Government,415190
+None,,France,VTT,Small Business,1038000
+None,,France,Velo,Enterprise,596400
+None,,France,VTT,Midmarket,30660
+None,,France,Amarilla,Government,748135
+None,,France,Montana,Government,29720
+None,,France,Carretera,Midmarket,55360
