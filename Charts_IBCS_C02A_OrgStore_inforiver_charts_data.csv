@@ -1,0 +1,64 @@
+C02.Channel Partner,"C02.Country ",Sum(C02.Sales)
+Direct,Switzerland,172
+Direct,Germany,160
+Direct,Austria,102
+Direct,France,178
+Direct,USA,82
+Direct,UK,79
+Direct,Poland,87
+Direct,Spain,83
+Direct,Rest of Europe,41
+Direct,Portugal,61
+Direct,Brazil,52
+Direct,Sweden,42
+Direct,Ireland,56
+Direct,Finland,48
+Direct,Rest of world,39
+Direct,Japan,22
+Direct,Denmark,7
+Direct,South Korea,10
+Direct,India,11
+Direct,Canada,15
+Direct,Norway,4
+Retail,Switzerland,136
+Retail,Germany,135
+Retail,Austria,188
+Retail,France,88
+Retail,USA,96
+Retail,UK,105
+Retail,Poland,100
+Retail,Spain,83
+Retail,Rest of Europe,88
+Retail,Portugal,44
+Retail,Brazil,36
+Retail,Sweden,42
+Retail,Ireland,34
+Retail,Finland,35
+Retail,Rest of world,15
+Retail,Japan,16
+Retail,Denmark,24
+Retail,South Korea,16
+Retail,India,7
+Retail,Canada,5
+Retail,Norway,5
+Wholesale,Switzerland,146
+Wholesale,Germany,142
+Wholesale,Austria,125
+Wholesale,France,78
+Wholesale,USA,109
+Wholesale,UK,84
+Wholesale,Poland,66
+Wholesale,Spain,58
+Wholesale,Rest of Europe,47
+Wholesale,Portugal,12
+Wholesale,Brazil,27
+Wholesale,Sweden,17
+Wholesale,Ireland,7
+Wholesale,Finland,13
+Wholesale,Rest of world,13
+Wholesale,Japan,26
+Wholesale,Denmark,21
+Wholesale,South Korea,12
+Wholesale,India,14
+Wholesale,Canada,12
+Wholesale,Norway,13
