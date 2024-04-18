@@ -1,0 +1,13 @@
+Retail - Orders.Segment,Retail - Orders.Region,Sum(Retail - Orders.Profit)
+Consumer,West,57450.604
+Consumer,East,41190.9843
+Consumer,South,26913.5728
+Consumer,Central,8564.0481
+Corporate,West,34437.4299
+Corporate,East,23622.5789
+Corporate,South,15215.2232
+Corporate,Central,18703.902
+Home Office,West,16530.415
+Home Office,East,26709.2168
+Home Office,South,4620.6343
+Home Office,Central,12438.4124
