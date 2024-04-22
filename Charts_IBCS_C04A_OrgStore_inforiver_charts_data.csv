@@ -1,0 +1,39 @@
+C04.City,Sum(C04.AC),Sum(C04.PL),
+New York,211,201,"201,254,455"
+Texas,197,201,"201,1023,1224"
+California,188,154,"154,0,154"
+Ohio,131,100,"100,154,254"
+Maryland,125,123,"123,695,818"
+Maine,111,109,"109,818,927"
+New Hampshire,79,70,"70,455,525"
+New Jersey,78,109,"109,1415,1524"
+Wisconsin,76,82,"82,1224,1306"
+New Mexico,73,69,"69,626,695"
+Virginia,69,166,"166,1524,1690"
+Missouri,59,88,"88,1327,1415"
+Connecticut,50,53,"53,970,1023"
+Hawaii,49,43,"43,525,568"
+South Carolina,46,40,"40,568,608"
+Kansas,45,43,"43,927,970"
+Nevada,23,18,"18,608,626"
+Alaska,15,21,"21,1306,1327"
+Unknown2,12,10,
+Unknown9,12,10,
+Unknown10,12,11,
+Unknown13,12,11,
+Unknown16,12,11,
+Unknown19,12,10,
+Unknown20,12,10,
+Unknown1,11,10,
+Unknown4,11,9,
+Unknown5,11,11,
+Unknown6,11,9,
+Unknown7,11,10,
+Unknown8,11,9,
+Unknown11,11,10,
+Unknown12,11,10,
+Unknown15,11,11,
+Unknown3,10,10,
+Unknown18,10,8,
+Unknown14,8,10,
+Unknown17,8,9,
