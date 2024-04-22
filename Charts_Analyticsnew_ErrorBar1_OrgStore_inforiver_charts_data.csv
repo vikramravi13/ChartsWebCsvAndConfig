@@ -1,0 +1,31 @@
+Trellis.Year,Trellis.Account Level 2,Trellis.Account Level 2 ID,Sum(Trellis.PY),Sum(Trellis.FC)
+2014,(Blank),1,265,343
+2014,(Blank),2,170,54
+2014,Consulting revenue,3,121,45
+2014,Cost of sales,4,122,125
+2014,Income from discontinued operations,11,206,
+2014,Income tax expenses,10,123,
+2014,"Other financial income,net",9,134,
+2014,Other operating expenses,8,111,
+2014,Research and development expenses,5,178,200
+2014,Selling and general administrative expenses,6,-197,258
+2015,Consulting revenue,14,-221,465
+2015,Cost of sales,15,222,225
+2015,Income from discontinued operations,22,306,
+2015,Income tax expenses,21,323,
+2015,"Other financial income,net",20,234,
+2015,Other operating expenses,19,211,
+2015,Research and development expenses,16,228,300
+2015,Selling and general administrative expenses,17,297,358
+2015,Software revenue,12,465,343
+2015,Support revenue,13,270,544
+2016,Consulting revenue,25,321,545
+2016,Cost of sales,26,322,525
+2016,Income from discontinued operations,33,406,
+2016,Income tax expenses,32,423,
+2016,"Other financial income,net",31,334,
+2016,Other operating expenses,30,311,
+2016,Research and development expenses,27,328,500
+2016,Selling and general administrative expenses,28,397,398
+2016,Software revenue,23,565,643
+2016,Support revenue,24,370,440
