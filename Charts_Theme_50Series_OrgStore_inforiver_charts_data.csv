@@ -1,0 +1,1027 @@
+Orders.City,Orders.Segment,Sum(Orders.Sales),
+Aberdeen,Consumer,25.5,NaN
+Abilene,Consumer,1.3919999999999997,NaN
+Akron,Consumer,885.1879999999999,NaN
+Akron,Corporate,1821.8719999999998,NaN
+Akron,Home Office,22.926000000000002,NaN
+Albuquerque,Consumer,179.796,NaN
+Albuquerque,Corporate,957.9019999999998,NaN
+Albuquerque,Home Office,1082.462,NaN
+Alexandria,Consumer,130.82,NaN
+Alexandria,Corporate,4444.139999999999,NaN
+Alexandria,Home Office,944.61,NaN
+Allen,Consumer,290.20599999999996,NaN
+Allentown,Consumer,15.808000000000002,NaN
+Allentown,Home Office,837.444,NaN
+Altoona,Corporate,20.451,NaN
+Amarillo,Consumer,3548.082,NaN
+Amarillo,Corporate,224.98079999999996,NaN
+Anaheim,Consumer,3464.83,NaN
+Anaheim,Corporate,4522.04,NaN
+Andover,Consumer,435.85,NaN
+Ann Arbor,Corporate,736.473,NaN
+Ann Arbor,Home Office,152.79999999999998,NaN
+Antioch,Corporate,19.44,NaN
+Apopka,Consumer,193.152,NaN
+Apopka,Corporate,29.97000000000001,NaN
+Apopka,Home Office,681.4320000000001,NaN
+Apple Valley,Consumer,701.8599999999999,NaN
+Apple Valley,Corporate,1295.0249999999999,NaN
+Apple Valley,Home Office,56.136,NaN
+Appleton,Consumer,1649.75,NaN
+Appleton,Home Office,21.560000000000002,NaN
+Arlington,Consumer,16545.547000000006,NaN
+Arlington,Corporate,3395.669,NaN
+Arlington,Home Office,273.316,NaN
+Arlington Heights,Consumer,14.111999999999998,NaN
+Arvada,Corporate,503.4000000000001,NaN
+Asheville,Consumer,1432.2240000000002,NaN
+Asheville,Corporate,43.152,NaN
+Athens,Consumer,1421.94,NaN
+Athens,Corporate,298.86999999999995,NaN
+Atlanta,Consumer,12667.69,NaN
+Atlanta,Corporate,3133.7999999999997,NaN
+Atlanta,Home Office,1396.35,NaN
+Atlantic City,Corporate,23.36,NaN
+Auburn,Consumer,2562.2479999999996,NaN
+Auburn,Corporate,584.9800000000001,NaN
+Auburn,Home Office,7.9399999999999995,NaN
+Aurora,Consumer,5521.7620000000015,NaN
+Aurora,Corporate,2628.253,NaN
+Aurora,Home Office,3506.463,NaN
+Austin,Consumer,2055.8019999999997,NaN
+Austin,Corporate,3145.4380000000006,NaN
+Austin,Home Office,856.742,NaN
+Avondale,Consumer,946.808,NaN
+Bakersfield,Consumer,1312.464,NaN
+Bakersfield,Corporate,36.16,NaN
+Bakersfield,Home Office,28.666000000000004,NaN
+Baltimore,Consumer,2432.9919999999997,NaN
+Baltimore,Corporate,2344.53,NaN
+Baltimore,Home Office,1379.3200000000002,NaN
+Bangor,Corporate,1164.45,NaN
+Bartlett,Consumer,88.96000000000001,NaN
+Bayonne,Home Office,183.4,NaN
+Baytown,Corporate,10.368000000000002,NaN
+Beaumont,Consumer,459.348,NaN
+Beaumont,Corporate,12.768,NaN
+Bedford,Corporate,205.29600000000002,NaN
+Bedford,Home Office,20.96,NaN
+Belleville,Consumer,627.93,NaN
+Belleville,Corporate,1263.67,NaN
+Bellevue,Consumer,72.992,NaN
+Bellevue,Corporate,5.28,NaN
+Bellevue,Home Office,25.349999999999998,NaN
+Bellingham,Consumer,2690.74,NaN
+Bellingham,Corporate,1099.5,NaN
+Bethlehem,Consumer,1556.6940000000002,NaN
+Bethlehem,Corporate,132.94,NaN
+Beverly,Corporate,2583.1899999999996,NaN
+Billings,Corporate,8.288,NaN
+Bloomington,Consumer,1204.804,NaN
+Bloomington,Corporate,54.336000000000006,NaN
+Bloomington,Home Office,308.59999999999997,NaN
+Boca Raton,Consumer,63.00800000000001,NaN
+Boise,Consumer,89.97,NaN
+Boise,Corporate,1004.4999999999999,NaN
+Bolingbrook,Consumer,208.328,NaN
+Bolingbrook,Home Office,9.979999999999997,NaN
+Bossier City,Corporate,1417.18,NaN
+Bowling Green,Consumer,810.271,NaN
+Bowling Green,Corporate,1267.104,NaN
+Boynton Beach,Consumer,437.49700000000007,NaN
+Boynton Beach,Home Office,32.088,NaN
+Bozeman,Home Office,43.66,NaN
+Brentwood,Consumer,488.668,NaN
+Brentwood,Corporate,3779.9320000000002,NaN
+Brentwood,Home Office,821.5140000000001,NaN
+Bridgeton,Corporate,52.410000000000004,NaN
+Bristol,Consumer,121.24,NaN
+Bristol,Corporate,1062.382,NaN
+Bristol,Home Office,67.56,NaN
+Broken Arrow,Consumer,12.86,NaN
+Broken Arrow,Corporate,1604.7300000000002,NaN
+Broken Arrow,Home Office,821.94,NaN
+Broomfield,Consumer,725.072,NaN
+Broomfield,Corporate,68.43200000000002,NaN
+Brownsville,Consumer,329.47679999999997,NaN
+Brownsville,Corporate,247.78400000000002,NaN
+Brownsville,Home Office,714.966,NaN
+Bryan,Corporate,550.8159999999999,NaN
+Bryan,Home Office,65.84,NaN
+Buffalo,Consumer,7142.408000000001,NaN
+Buffalo,Corporate,1921.0879999999997,NaN
+Buffalo Grove,Consumer,831.399,NaN
+Bullhead City,Consumer,22.288000000000004,NaN
+Burbank,Home Office,3247.1580000000004,NaN
+Burlington,Consumer,3638.228,NaN
+Burlington,Corporate,15089.235999999997,NaN
+Burlington,Home Office,2940.6180000000004,NaN
+Caldwell,Corporate,455.63199999999995,NaN
+Camarillo,Consumer,14.73,NaN
+Camarillo,Corporate,1452.7875000000001,NaN
+Cambridge,Home Office,502.09000000000003,NaN
+Canton,Corporate,316.32,NaN
+Canton,Home Office,501.81000000000006,NaN
+Carlsbad,Consumer,39.176,NaN
+Carlsbad,Corporate,151.88400000000001,NaN
+Carlsbad,Home Office,228.28,NaN
+Carol Stream,Consumer,1305.81,NaN
+Carrollton,Consumer,2090.992,NaN
+Carrollton,Corporate,109.65400000000001,NaN
+Cary,Corporate,505.208,NaN
+Cedar Hill,Consumer,7.080000000000001,NaN
+Cedar Hill,Corporate,115.296,NaN
+Cedar Rapids,Consumer,278.4,NaN
+Champaign,Consumer,151.96,NaN
+Chandler,Consumer,18.24,NaN
+Chandler,Corporate,157.79500000000002,NaN
+Chandler,Home Office,900.7120000000001,NaN
+Chapel Hill,Corporate,14.015999999999998,NaN
+Charlotte,Consumer,8036.739000000001,NaN
+Charlotte,Corporate,3385.8280000000004,NaN
+Charlotte,Home Office,2270.7720000000004,NaN
+Charlottesville,Consumer,34.650000000000006,NaN
+Charlottesville,Home Office,67.96,NaN
+Chattanooga,Consumer,757.0039999999999,NaN
+Chattanooga,Corporate,140.324,NaN
+Chattanooga,Home Office,91.475,NaN
+Chesapeake,Consumer,4409.599999999999,NaN
+Chesapeake,Corporate,447.2,NaN
+Chesapeake,Home Office,1139.92,NaN
+Chester,Consumer,1106.7699999999998,NaN
+Chester,Corporate,199.491,NaN
+Chester,Home Office,662.2180000000001,NaN
+Cheyenne,Home Office,1603.1360000000002,NaN
+Chicago,Consumer,25133.803,NaN
+Chicago,Corporate,11251.219000000003,NaN
+Chicago,Home Office,12154.518999999998,NaN
+Chico,Consumer,54.17,NaN
+Chico,Corporate,753.1120000000001,NaN
+Chico,Home Office,1242.8960000000002,NaN
+Chula Vista,Consumer,375.74,NaN
+Chula Vista,Home Office,665.88,NaN
+Cincinnati,Consumer,627.8120000000001,NaN
+Cincinnati,Corporate,984.164,NaN
+Citrus Heights,Consumer,129.39000000000001,NaN
+Clarksville,Consumer,1704.2340000000002,NaN
+Clarksville,Home Office,513.4960000000001,NaN
+Cleveland,Consumer,4302.784999999999,NaN
+Cleveland,Corporate,144.904,NaN
+Cleveland,Home Office,1898.4960000000005,NaN
+Clifton,Consumer,336.82,NaN
+Clinton,Consumer,1730.681,NaN
+Clinton,Corporate,3329.65,NaN
+Clinton,Home Office,453.91999999999996,NaN
+Clovis,Consumer,111.42,NaN
+Coachella,Corporate,163.55,NaN
+College Station,Consumer,291.04200000000003,NaN
+Colorado Springs,Consumer,1345.4640000000002,NaN
+Colorado Springs,Corporate,963.4900000000002,NaN
+Colorado Springs,Home Office,1385.0549999999998,NaN
+Columbia,Consumer,13068.073999999997,NaN
+Columbia,Corporate,9351.726,NaN
+Columbia,Home Office,2863.5240000000003,NaN
+Columbus,Consumer,20142.365999999998,NaN
+Columbus,Corporate,12868.788,NaN
+Columbus,Home Office,5695.089000000001,NaN
+Commerce City,Consumer,146.352,NaN
+Concord,Consumer,5790.868,NaN
+Concord,Corporate,2169.972,NaN
+Concord,Home Office,2581.562,NaN
+Conroe,Corporate,111.67200000000001,NaN
+Conway,Consumer,301.96,NaN
+Coon Rapids,Consumer,503.13,NaN
+Coppell,Consumer,40.096000000000004,NaN
+Coppell,Corporate,95.84,NaN
+Coral Gables,Corporate,64.24799999999999,NaN
+Coral Springs,Consumer,706.096,NaN
+Coral Springs,Corporate,118.896,NaN
+Corpus Christi,Corporate,146.192,NaN
+Corpus Christi,Home Office,74.352,NaN
+Costa Mesa,Consumer,1219.96,NaN
+Costa Mesa,Home Office,277.71,NaN
+Cottage Grove,Consumer,144.35999999999999,NaN
+Covington,Corporate,46.900000000000006,NaN
+Covington,Home Office,366.78,NaN
+Cranston,Consumer,2219.436,NaN
+Cranston,Corporate,1212.74,NaN
+Cranston,Home Office,592.74,NaN
+Cuyahoga Falls,Consumer,20.742000000000004,NaN
+Cuyahoga Falls,Corporate,8.352,NaN
+Dallas,Consumer,8464.617999999999,NaN
+Dallas,Corporate,7714.713200000001,NaN
+Dallas,Home Office,3952.6009999999997,NaN
+Danbury,Home Office,27.46,NaN
+Danville,Home Office,1202.2540000000001,NaN
+Davis,Consumer,32.400000000000006,NaN
+Daytona Beach,Consumer,272.3315,NaN
+Dearborn,Corporate,1603.31,NaN
+Dearborn Heights,Consumer,1051.57,NaN
+Decatur,Consumer,2876.709,NaN
+Decatur,Corporate,3667.5840000000003,NaN
+Deer Park,Corporate,6.923999999999998,NaN
+Delray Beach,Consumer,9.912,NaN
+Delray Beach,Corporate,232.62400000000002,NaN
+Deltona,Consumer,294.28000000000003,NaN
+Deltona,Corporate,581.1039999999999,NaN
+Deltona,Home Office,17.856,NaN
+Denver,Consumer,6265.901000000002,NaN
+Denver,Corporate,5839.5960000000005,NaN
+Denver,Home Office,93.296,NaN
+Des Moines,Consumer,4525.57,NaN
+Des Moines,Corporate,785.62,NaN
+Des Moines,Home Office,152.08800000000002,NaN
+Des Plaines,Consumer,1493.212,NaN
+Detroit,Consumer,23191.460000000003,NaN
+Detroit,Corporate,15894.894,NaN
+Detroit,Home Office,3360.59,NaN
+Dover,Consumer,925.62,NaN
+Dover,Corporate,619.48,NaN
+Dover,Home Office,3332.974,NaN
+Draper,Consumer,151.72,NaN
+Draper,Corporate,111.93,NaN
+Dublin,Consumer,1343.7139999999997,NaN
+Dublin,Corporate,1057.446,NaN
+Dubuque,Consumer,263.96,NaN
+Dubuque,Home Office,1423.34,NaN
+Durham,Consumer,440.144,NaN
+Durham,Corporate,372.05600000000004,NaN
+Durham,Home Office,67.75999999999999,NaN
+Eagan,Consumer,75.9,NaN
+Eagan,Corporate,63.44,NaN
+Eagan,Home Office,74.94,NaN
+East Orange,Consumer,377.27,NaN
+East Point,Corporate,268.4,NaN
+Eau Claire,Consumer,1521.4099999999999,NaN
+Eau Claire,Corporate,32.56,NaN
+Eau Claire,Home Office,91.67999999999999,NaN
+Edinburg,Consumer,88.276,NaN
+Edmond,Consumer,959.5500000000001,NaN
+Edmonds,Consumer,2343.7219999999998,NaN
+Edmonds,Corporate,179.97,NaN
+El Cajon,Corporate,387.136,NaN
+El Cajon,Home Office,478.48,NaN
+El Paso,Consumer,3389.156,NaN
+El Paso,Corporate,145.544,NaN
+El Paso,Home Office,11.364,NaN
+Elkhart,Consumer,171.43,NaN
+Elmhurst,Home Office,891.6279999999999,NaN
+Elyria,Corporate,1.8240000000000003,NaN
+Encinitas,Consumer,591.9810000000001,NaN
+Englewood,Consumer,124.056,NaN
+Escondido,Consumer,53.94,NaN
+Escondido,Corporate,17.248,NaN
+Escondido,Home Office,23.36,NaN
+Eugene,Corporate,1465.032,NaN
+Evanston,Consumer,1753.799,NaN
+Everett,Consumer,3358.1199999999994,NaN
+Everett,Corporate,3.8560000000000003,NaN
+Everett,Home Office,2303.758,NaN
+Fairfield,Consumer,4685.749999999999,NaN
+Fairfield,Corporate,3881.5179999999996,NaN
+Fairfield,Home Office,916.5900000000001,NaN
+Fargo,Consumer,891.53,NaN
+Fargo,Home Office,28.38,NaN
+Farmington,Consumer,558.73,NaN
+Farmington,Corporate,159.99,NaN
+Fayetteville,Consumer,6339.772000000001,NaN
+Fayetteville,Corporate,538.154,NaN
+Fayetteville,Home Office,48,NaN
+Florence,Consumer,6732.25,NaN
+Florence,Corporate,866.49,NaN
+Florence,Home Office,22.98,NaN
+Fort Collins,Consumer,822.5720000000001,NaN
+Fort Collins,Home Office,112.68,NaN
+Fort Lauderdale,Consumer,2178.5165,NaN
+Fort Lauderdale,Corporate,1677.7999999999997,NaN
+Fort Lauderdale,Home Office,1073.216,NaN
+Fort Worth,Consumer,2712.2499999999995,NaN
+Fort Worth,Corporate,1739.9904000000001,NaN
+Fort Worth,Home Office,2150.466,NaN
+Frankfort,Consumer,97.632,NaN
+Franklin,Consumer,2274.619,NaN
+Franklin,Corporate,6601.71,NaN
+Franklin,Home Office,2380.708,NaN
+Freeport,Consumer,693.902,NaN
+Freeport,Corporate,45.248000000000005,NaN
+Fremont,Consumer,138.75,NaN
+Fremont,Corporate,964.34,NaN
+Fremont,Home Office,15.92,NaN
+Fresno,Consumer,6804.2925,NaN
+Fresno,Corporate,794.9900000000001,NaN
+Fresno,Home Office,289.246,NaN
+Frisco,Consumer,30.336000000000006,NaN
+Frisco,Home Office,27.168000000000003,NaN
+Gaithersburg,Corporate,405.91999999999996,NaN
+Garden City,Consumer,21.11,NaN
+Garden City,Corporate,291.27000000000004,NaN
+Garland,Consumer,28.776,NaN
+Garland,Home Office,38.928,NaN
+Gastonia,Home Office,895.0600000000001,NaN
+Georgetown,Consumer,1786.4200000000003,NaN
+Gilbert,Consumer,496.896,NaN
+Gilbert,Corporate,2792.496,NaN
+Gilbert,Home Office,882.99,NaN
+Gladstone,Consumer,164.34,NaN
+Glendale,Consumer,1426.537,NaN
+Glendale,Corporate,426.22400000000005,NaN
+Glendale,Home Office,1065.104,NaN
+Glenview,Consumer,158.376,NaN
+Goldsboro,Consumer,34.944,NaN
+Grand Island,Consumer,15.96,NaN
+Grand Prairie,Consumer,893.486,NaN
+Grand Prairie,Corporate,95.32000000000001,NaN
+Grand Prairie,Home Office,23.680000000000003,NaN
+Grand Rapids,Consumer,272.14,NaN
+Grand Rapids,Corporate,234.54999999999998,NaN
+Grand Rapids,Home Office,19.44,NaN
+Grapevine,Corporate,41.528000000000006,NaN
+Great Falls,Consumer,410.104,NaN
+Great Falls,Home Office,4195.476,NaN
+Greeley,Consumer,30.352,NaN
+Green Bay,Consumer,468.90000000000003,NaN
+Green Bay,Corporate,58.42,NaN
+Greensboro,Consumer,278.94100000000003,NaN
+Greensboro,Corporate,2127.839,NaN
+Greenville,Consumer,2062.95,NaN
+Greenville,Corporate,17.616000000000003,NaN
+Greenville,Home Office,37.264,NaN
+Greenwood,Consumer,1424.9,NaN
+Greenwood,Home Office,240.14999999999998,NaN
+Gresham,Consumer,1730.256,NaN
+Gresham,Corporate,403.168,NaN
+Grove City,Consumer,123.58799999999998,NaN
+Gulfport,Consumer,48.69,NaN
+Gulfport,Corporate,117.81,NaN
+Hackensack,Corporate,1456.16,NaN
+Hagerstown,Consumer,43.8,NaN
+Haltom City,Corporate,269.32800000000003,NaN
+Hamilton,Consumer,328.22400000000005,NaN
+Hampton,Consumer,1191.8100000000002,NaN
+Hampton,Corporate,1417.35,NaN
+Hampton,Home Office,113.10000000000001,NaN
+Harlingen,Consumer,471.404,NaN
+Harrisonburg,Consumer,1464.3799999999999,NaN
+Harrisonburg,Home Office,2924.33,NaN
+Hattiesburg,Consumer,1483.1399999999999,NaN
+Hattiesburg,Corporate,239.70000000000002,NaN
+Helena,Corporate,39.900000000000006,NaN
+Helena,Home Office,403.94000000000005,NaN
+Hempstead,Consumer,910.5260000000001,NaN
+Hempstead,Corporate,1679.06,NaN
+Henderson,Consumer,5548.77,NaN
+Henderson,Corporate,6775.548,NaN
+Henderson,Home Office,5224.749999999999,NaN
+Hendersonville,Consumer,303.32000000000005,NaN
+Hendersonville,Home Office,16.218000000000004,NaN
+Hesperia,Corporate,1213.1715,NaN
+Hialeah,Consumer,259.20500000000004,NaN
+Hialeah,Corporate,1061.4,NaN
+Hialeah,Home Office,1018.344,NaN
+Hickory,Consumer,40.764,NaN
+Highland Park,Consumer,1454.838,NaN
+Highland Park,Corporate,577.1220000000001,NaN
+Highland Park,Home Office,3.1359999999999992,NaN
+Hillsboro,Consumer,64.072,NaN
+Hillsboro,Corporate,23.766000000000002,NaN
+Holland,Consumer,7.5,NaN
+Holland,Home Office,130.36,NaN
+Hollywood,Consumer,650.208,NaN
+Hollywood,Corporate,9.216,NaN
+Hollywood,Home Office,411.05,NaN
+Holyoke,Home Office,301.96,NaN
+Homestead,Consumer,132.55200000000002,NaN
+Hoover,Corporate,525.85,NaN
+Hot Springs,Consumer,29.99,NaN
+Hot Springs,Home Office,215.83999999999997,NaN
+Houston,Consumer,34046.06459999999,NaN
+Houston,Corporate,21983.166800000003,NaN
+Houston,Home Office,8475.529,NaN
+Huntington Beach,Consumer,95.92,NaN
+Huntington Beach,Corporate,2419.12,NaN
+Huntington Beach,Home Office,12.78,NaN
+Huntsville,Consumer,2442.332,NaN
+Huntsville,Corporate,5791.0308,NaN
+Huntsville,Home Office,961.624,NaN
+Independence,Consumer,839.4300000000001,NaN
+Independence,Home Office,1577.94,NaN
+Indianapolis,Consumer,1717.9400000000003,NaN
+Indianapolis,Corporate,5948.67,NaN
+Indianapolis,Home Office,1639.8100000000002,NaN
+Inglewood,Consumer,492.736,NaN
+Inglewood,Corporate,2986.5920000000006,NaN
+Iowa City,Corporate,9.99,NaN
+Irving,Consumer,589.5640000000001,NaN
+Irving,Corporate,15.936000000000002,NaN
+Jackson,Consumer,12966.708999999999,NaN
+Jackson,Corporate,4334.436000000001,NaN
+Jackson,Home Office,7662.713000000001,NaN
+Jacksonville,Consumer,12350.130999999998,NaN
+Jacksonville,Corporate,5904.048,NaN
+Jacksonville,Home Office,26459.004,NaN
+Jamestown,Consumer,4548.81,NaN
+Jamestown,Corporate,159.98,NaN
+Jefferson City,Home Office,86.62,NaN
+Johnson City,Consumer,765.8480000000002,NaN
+Jonesboro,Consumer,2797.7000000000003,NaN
+Jonesboro,Home Office,117.62,NaN
+Jupiter,Consumer,2.064,NaN
+Keller,Consumer,6,NaN
+Kenner,Consumer,89.32000000000001,NaN
+Kenosha,Consumer,2531.8799999999997,NaN
+Kenosha,Corporate,974.9000000000001,NaN
+Kenosha,Home Office,399.95,NaN
+Kent,Consumer,1593.5880000000002,NaN
+Kent,Corporate,103.96799999999999,NaN
+Kirkwood,Consumer,241.34,NaN
+Kissimmee,Consumer,751.984,NaN
+Knoxville,Consumer,712.336,NaN
+Knoxville,Corporate,773.55,NaN
+Knoxville,Home Office,2442.28,NaN
+La Crosse,Consumer,56.82000000000001,NaN
+La Crosse,Corporate,773.5899999999999,NaN
+La Mesa,Home Office,367.53,NaN
+La Porte,Consumer,668.5920000000001,NaN
+La Porte,Corporate,383.14,NaN
+La Quinta,Corporate,46.32,NaN
+Lafayette,Consumer,5786.68,NaN
+Lafayette,Corporate,18723.069999999992,NaN
+Lafayette,Home Office,526.45,NaN
+Laguna Niguel,Corporate,74.04,NaN
+Laguna Niguel,Home Office,216.94299999999998,NaN
+Lake Charles,Consumer,69.9,NaN
+Lake Charles,Home Office,477.51,NaN
+Lake Elsinore,Consumer,283.92,NaN
+Lake Forest,Consumer,597.8599999999999,NaN
+Lake Forest,Home Office,1027.6760000000002,NaN
+Lakeland,Consumer,558.4399999999999,NaN
+Lakeland,Corporate,4318.798500000001,NaN
+Lakeland,Home Office,729.6480000000001,NaN
+Lakeville,Consumer,359.44,NaN
+Lakeville,Home Office,3901.51,NaN
+Lakewood,Consumer,4038.809,NaN
+Lakewood,Corporate,11858.721999999998,NaN
+Lakewood,Home Office,2294.516,NaN
+Lancaster,Consumer,7370.812000000002,NaN
+Lancaster,Corporate,775.4010000000001,NaN
+Lancaster,Home Office,1745.251,NaN
+Lansing,Consumer,1340.6060000000002,NaN
+Lansing,Home Office,269.68,NaN
+Laredo,Consumer,414.726,NaN
+Laredo,Corporate,609.6140000000001,NaN
+Las Cruces,Consumer,90.49,NaN
+Las Cruces,Home Office,8.28,NaN
+Las Vegas,Consumer,1596.8680000000004,NaN
+Las Vegas,Corporate,161.36,NaN
+Las Vegas,Home Office,75.792,NaN
+Laurel,Corporate,152.59,NaN
+Lawrence,Consumer,3235.98,NaN
+Lawrence,Corporate,1656.0600000000002,NaN
+Lawrence,Home Office,2762.152,NaN
+Lawton,Consumer,1057.49,NaN
+Layton,Consumer,4.96,NaN
+League City,Consumer,321.202,NaN
+League City,Home Office,554.1659999999999,NaN
+Lebanon,Consumer,248.92000000000002,NaN
+Lebanon,Home Office,239.976,NaN
+Lehi,Corporate,16.776000000000003,NaN
+Lehi,Home Office,1499.95,NaN
+Leominster,Consumer,25.869999999999997,NaN
+Leominster,Corporate,191.62,NaN
+Lewiston,Consumer,9.584000000000001,NaN
+Lewiston,Home Office,106.08000000000001,NaN
+Lincoln Park,Corporate,387.602,NaN
+Linden,Corporate,115.36,NaN
+Lindenhurst,Corporate,55.48,NaN
+Little Rock,Consumer,1922.69,NaN
+Little Rock,Corporate,1637.6600000000003,NaN
+Littleton,Consumer,72.29400000000001,NaN
+Lodi,Consumer,97.3,NaN
+Lodi,Corporate,39.68,NaN
+Logan,Consumer,280.27600000000007,NaN
+Long Beach,Consumer,8121.857999999997,NaN
+Long Beach,Corporate,3155.92,NaN
+Long Beach,Home Office,2177.2520000000004,NaN
+Longmont,Consumer,749.488,NaN
+Longmont,Corporate,165.60000000000002,NaN
+Longview,Consumer,119.21000000000001,NaN
+Lorain,Consumer,48.896,NaN
+Lorain,Corporate,1824.309,NaN
+Lorain,Home Office,141.906,NaN
+Los Angeles,Consumer,89676.64050000001,NaN
+Los Angeles,Corporate,46786.238499999985,NaN
+Los Angeles,Home Office,39388.46199999999,NaN
+Louisville,Consumer,7182.0109999999995,NaN
+Louisville,Corporate,981.768,NaN
+Louisville,Home Office,4182.027,NaN
+Loveland,Consumer,3.024,NaN
+Loveland,Corporate,17.94,NaN
+Lowell,Consumer,2358.11,NaN
+Lowell,Corporate,2479.8199999999997,NaN
+Lubbock,Consumer,571.9520000000001,NaN
+Lubbock,Corporate,9.248000000000001,NaN
+Lubbock,Home Office,11.363999999999997,NaN
+Macon,Consumer,208.28,NaN
+Macon,Corporate,155.73,NaN
+Madison,Consumer,5346.790000000002,NaN
+Malden,Consumer,39.68,NaN
+Malden,Home Office,188.7,NaN
+Manchester,Consumer,947.01,NaN
+Manchester,Corporate,1179.27,NaN
+Manhattan,Home Office,273.96,NaN
+Mansfield,Consumer,517.4050000000001,NaN
+Mansfield,Corporate,41.47200000000001,NaN
+Manteca,Home Office,452.1819999999999,NaN
+Maple Grove,Corporate,735.98,NaN
+Maple Grove,Home Office,146.89,NaN
+Margate,Consumer,15.552000000000003,NaN
+Marietta,Consumer,5.64,NaN
+Marietta,Corporate,2673.69,NaN
+Marietta,Home Office,259.28999999999996,NaN
+Marion,Consumer,1402.6119999999999,NaN
+Marion,Corporate,1852.7020000000002,NaN
+Marion,Home Office,114.032,NaN
+Marlborough,Consumer,206.64,NaN
+Marysville,Consumer,102.18,NaN
+Mason,Corporate,94.26400000000001,NaN
+Mcallen,Consumer,203.648,NaN
+Mcallen,Corporate,562.208,NaN
+Mcallen,Home Office,100.85999999999999,NaN
+Medford,Consumer,80.45600000000002,NaN
+Medford,Corporate,9.762,NaN
+Medina,Consumer,661.026,NaN
+Medina,Corporate,1816.6960000000001,NaN
+Melbourne,Corporate,95.616,NaN
+Memphis,Consumer,5090.108000000001,NaN
+Memphis,Corporate,852.2330000000002,NaN
+Mentor,Home Office,693.13,NaN
+Meriden,Consumer,322.18,NaN
+Meriden,Corporate,1217.3799999999999,NaN
+Meriden,Home Office,11.12,NaN
+Meridian,Corporate,21.312000000000005,NaN
+Meridian,Home Office,307.74,NaN
+Mesa,Consumer,2762.2570000000005,NaN
+Mesa,Corporate,1144.7790000000002,NaN
+Mesa,Home Office,130.704,NaN
+Mesquite,Corporate,52.147999999999996,NaN
+Miami,Consumer,5025.804500000001,NaN
+Miami,Corporate,3039.3580000000006,NaN
+Miami,Home Office,607.912,NaN
+Middletown,Consumer,897.6,NaN
+Middletown,Corporate,257.01,NaN
+Midland,Consumer,1276.53,NaN
+Midland,Home Office,4014.9820000000004,NaN
+Milford,Consumer,67.32000000000001,NaN
+Milford,Corporate,694.6700000000001,NaN
+Milford,Home Office,199.75,NaN
+Milwaukee,Consumer,2284.83,NaN
+Milwaukee,Corporate,5582.999999999999,NaN
+Milwaukee,Home Office,3542.39,NaN
+Minneapolis,Consumer,16036.05,NaN
+Minneapolis,Corporate,85.99000000000001,NaN
+Minneapolis,Home Office,748.4999999999999,NaN
+Miramar,Consumer,559.2,NaN
+Miramar,Corporate,552.856,NaN
+Miramar,Home Office,419.13599999999997,NaN
+Mishawaka,Consumer,776.24,NaN
+Mission Viejo,Consumer,775.986,NaN
+Missoula,Consumer,487.98400000000004,NaN
+Missouri City,Corporate,6.369999999999998,NaN
+Mobile,Consumer,2226.58,NaN
+Mobile,Corporate,3236.41,NaN
+Modesto,Consumer,273.358,NaN
+Modesto,Corporate,52.792,NaN
+Monroe,Consumer,1868.3479999999997,NaN
+Monroe,Corporate,411.20799999999997,NaN
+Monroe,Home Office,690.8779999999999,NaN
+Montebello,Corporate,27.88,NaN
+Montgomery,Consumer,1017.37,NaN
+Montgomery,Corporate,2705.3599999999997,NaN
+Moorhead,Consumer,63.96,NaN
+Moorhead,Home Office,479.90000000000003,NaN
+Moreno Valley,Consumer,972.4000000000001,NaN
+Moreno Valley,Corporate,182.72,NaN
+Moreno Valley,Home Office,107.34599999999999,NaN
+Morgan Hill,Consumer,545.01,NaN
+Morristown,Consumer,3164.6699999999996,NaN
+Morristown,Corporate,1868.43,NaN
+Mount Pleasant,Consumer,563.0799999999999,NaN
+Mount Vernon,Consumer,137.17000000000002,NaN
+Mount Vernon,Corporate,1982.462,NaN
+Murfreesboro,Corporate,337.333,NaN
+Murray,Consumer,362.538,NaN
+Murray,Home Office,48.4,NaN
+Murrieta,Consumer,484.65000000000003,NaN
+Muskogee,Home Office,1721.7,NaN
+Naperville,Consumer,853.075,NaN
+Naperville,Corporate,147.168,NaN
+Naperville,Home Office,288.06,NaN
+Nashua,Consumer,14.82,NaN
+Nashua,Corporate,21.12,NaN
+Nashville,Consumer,2736.009,NaN
+Nashville,Corporate,3160.102,NaN
+Nashville,Home Office,174.752,NaN
+New Albany,Consumer,209.54999999999998,NaN
+New Bedford,Consumer,23.18,NaN
+New Bedford,Corporate,212.79000000000002,NaN
+New Brunswick,Home Office,14.77,NaN
+New Castle,Consumer,84.61,NaN
+New Rochelle,Consumer,907.668,NaN
+New Rochelle,Home Office,347.55999999999995,NaN
+New York City,Consumer,136869.82299999995,NaN
+New York City,Corporate,63383.24900000002,NaN
+New York City,Home Office,56115.08900000002,NaN
+Newark,Consumer,19566.133,NaN
+Newark,Corporate,7610.948,NaN
+Newark,Home Office,1399.038,NaN
+Newport News,Consumer,2271.9900000000002,NaN
+Newport News,Corporate,788.86,NaN
+Newport News,Home Office,261.1,NaN
+Niagara Falls,Consumer,164.85000000000002,NaN
+Niagara Falls,Home Office,34.992000000000004,NaN
+Noblesville,Consumer,412.23999999999995,NaN
+Noblesville,Corporate,2678.94,NaN
+Norfolk,Consumer,17.43,NaN
+Normal,Home Office,366.74399999999997,NaN
+Norman,Consumer,1287.45,NaN
+Norman,Corporate,63.88,NaN
+North Charleston,Consumer,269.49,NaN
+North Charleston,Corporate,14.76,NaN
+North Las Vegas,Consumer,4908.186000000001,NaN
+North Las Vegas,Corporate,193.18,NaN
+North Las Vegas,Home Office,4699.636,NaN
+North Miami,Consumer,22.128000000000004,NaN
+Norwich,Consumer,380.5,NaN
+Norwich,Corporate,11.34,NaN
+Norwich,Home Office,22.200000000000003,NaN
+Oak Park,Corporate,591.0519999999999,NaN
+Oakland,Consumer,3009.6640000000007,NaN
+Oakland,Corporate,2465.902,NaN
+Oakland,Home Office,488.85200000000003,NaN
+Oceanside,Consumer,3684.554,NaN
+Oceanside,Corporate,653.284,NaN
+Oceanside,Home Office,12.9,NaN
+Odessa,Corporate,636.0079999999998,NaN
+Odessa,Home Office,340.116,NaN
+Oklahoma City,Consumer,4325.6799999999985,NaN
+Oklahoma City,Corporate,94.94999999999999,NaN
+Oklahoma City,Home Office,2176.19,NaN
+Olathe,Home Office,895.79,NaN
+Olympia,Consumer,1020.448,NaN
+Omaha,Consumer,5089.109999999998,NaN
+Omaha,Corporate,302.4,NaN
+Omaha,Home Office,921.0199999999999,NaN
+Ontario,Consumer,283.92,NaN
+Orange,Consumer,75.85999999999999,NaN
+Orange,Corporate,81.88000000000001,NaN
+Orange,Home Office,53.370000000000005,NaN
+Orem,Consumer,2849.2799999999997,NaN
+Orem,Corporate,11.68,NaN
+Orem,Home Office,133.12800000000001,NaN
+Orland Park,Home Office,339.96000000000004,NaN
+Orlando,Consumer,1138.6460000000002,NaN
+Orlando,Corporate,601.4340000000001,NaN
+Ormond Beach,Consumer,2.8080000000000007,NaN
+Oswego,Consumer,321.97799999999995,NaN
+Overland Park,Corporate,606.91,NaN
+Owensboro,Consumer,45.68,NaN
+Owensboro,Corporate,25.5,NaN
+Oxnard,Consumer,210.89999999999998,NaN
+Oxnard,Corporate,131.48000000000002,NaN
+Oxnard,Home Office,1215.7200000000003,NaN
+Palatine,Corporate,116.312,NaN
+Palm Coast,Consumer,24.448,NaN
+Palm Coast,Corporate,249.98000000000002,NaN
+Park Ridge,Consumer,143.85600000000002,NaN
+Park Ridge,Home Office,541.144,NaN
+Parker,Consumer,193.63400000000001,NaN
+Parker,Corporate,874.3080000000001,NaN
+Parma,Consumer,3815.788,NaN
+Parma,Home Office,63.967999999999996,NaN
+Pasadena,Consumer,3222.7439999999997,NaN
+Pasadena,Corporate,1597.828,NaN
+Pasadena,Home Office,1769.574,NaN
+Pasco,Consumer,2201.1119999999996,NaN
+Passaic,Consumer,1562.0860000000002,NaN
+Paterson,Consumer,1491.92,NaN
+Paterson,Corporate,351.8,NaN
+Paterson,Home Office,399.49,NaN
+Pearland,Consumer,470.3760000000001,NaN
+Pearland,Corporate,24.619999999999997,NaN
+Pembroke Pines,Consumer,1714.3755000000003,NaN
+Pensacola,Consumer,2.2140000000000004,NaN
+Peoria,Consumer,401.28000000000003,NaN
+Peoria,Corporate,312.746,NaN
+Peoria,Home Office,1128.8059999999998,NaN
+Perth Amboy,Consumer,723.75,NaN
+Perth Amboy,Corporate,815.12,NaN
+Perth Amboy,Home Office,178.20999999999998,NaN
+Pharr,Consumer,124.404,NaN
+Pharr,Home Office,1416.3039999999999,NaN
+Philadelphia,Consumer,63203.271999999975,NaN
+Philadelphia,Corporate,28890.84300000001,NaN
+Philadelphia,Home Office,16982.897999999997,NaN
+Phoenix,Consumer,6325.223,NaN
+Phoenix,Corporate,2669.0380000000005,NaN
+Phoenix,Home Office,2005.996,NaN
+Pico Rivera,Home Office,145.9,NaN
+Pine Bluff,Consumer,212.91000000000003,NaN
+Plainfield,Consumer,976.33,NaN
+Plainfield,Corporate,910.53,NaN
+Plainfield,Home Office,2639.99,NaN
+Plano,Consumer,3506.9026,NaN
+Plano,Corporate,9.856000000000002,NaN
+Plano,Home Office,13.616,NaN
+Plantation,Consumer,598.352,NaN
+Plantation,Corporate,838.4840000000002,NaN
+Pleasant Grove,Consumer,2126.034,NaN
+Pleasant Grove,Corporate,12.144,NaN
+Pocatello,Consumer,1344.942,NaN
+Pomona,Consumer,1061.082,NaN
+Pomona,Corporate,421.42,NaN
+Pompano Beach,Corporate,90.44,NaN
+Port Arthur,Consumer,34.048,NaN
+Port Arthur,Corporate,703.0048,NaN
+Port Orange,Consumer,7.824,NaN
+Port Saint Lucie,Consumer,17.03,NaN
+Port Saint Lucie,Corporate,231.92000000000002,NaN
+Portage,Consumer,16.28,NaN
+Portland,Consumer,3264.187,NaN
+Portland,Corporate,378.08,NaN
+Portland,Home Office,409.60200000000003,NaN
+Providence,Consumer,210.94000000000003,NaN
+Providence,Corporate,1598.9799999999998,NaN
+Providence,Home Office,14170.73,NaN
+Provo,Consumer,912.75,NaN
+Provo,Corporate,1804.0840000000003,NaN
+Provo,Home Office,44.400000000000006,NaN
+Pueblo,Consumer,881.9799999999999,NaN
+Pueblo,Corporate,3.408,NaN
+Pueblo,Home Office,801.5500000000001,NaN
+Quincy,Consumer,730.523,NaN
+Quincy,Corporate,177.17600000000004,NaN
+Quincy,Home Office,368.76,NaN
+Raleigh,Consumer,1526.8519999999999,NaN
+Raleigh,Corporate,1325.3760000000004,NaN
+Raleigh,Home Office,1655.3120000000001,NaN
+Rancho Cucamonga,Consumer,226.09199999999998,NaN
+Rancho Cucamonga,Corporate,5.76,NaN
+Rapid City,Corporate,152.64000000000001,NaN
+Reading,Consumer,312.776,NaN
+Reading,Corporate,560.936,NaN
+Redding,Consumer,333.576,NaN
+Redlands,Consumer,2876.741,NaN
+Redlands,Corporate,14.280000000000001,NaN
+Redmond,Consumer,820.6380000000001,NaN
+Redmond,Corporate,265.299,NaN
+Redmond,Home Office,12.32,NaN
+Redondo Beach,Consumer,119.75999999999999,NaN
+Redondo Beach,Corporate,1840.0430000000001,NaN
+Redwood City,Corporate,41.904,NaN
+Reno,Corporate,163.408,NaN
+Reno,Home Office,480.654,NaN
+Renton,Consumer,1242.6319999999998,NaN
+Revere,Corporate,775.9399999999999,NaN
+Revere,Home Office,57.32000000000001,NaN
+Richardson,Corporate,1288.4640000000004,NaN
+Richmond,Consumer,7390.980000000001,NaN
+Richmond,Corporate,5150.709999999998,NaN
+Richmond,Home Office,5596.240000000002,NaN
+Rio Rancho,Consumer,1114.192,NaN
+Riverside,Consumer,36.744,NaN
+Riverside,Corporate,1848.518,NaN
+Riverside,Home Office,58.98400000000001,NaN
+Rochester,Consumer,6246.153999999997,NaN
+Rochester,Corporate,1538.29,NaN
+Rochester,Home Office,190.08599999999998,NaN
+Rochester Hills,Consumer,132.52,NaN
+Rock Hill,Consumer,11.850000000000001,NaN
+Rockford,Consumer,2230.108,NaN
+Rockford,Corporate,670.1,NaN
+Rockford,Home Office,266.02,NaN
+Rockville,Consumer,469.77000000000004,NaN
+Rogers,Consumer,40.410000000000004,NaN
+Rome,Consumer,35.01,NaN
+Rome,Corporate,90.882,NaN
+Rome,Home Office,408.96000000000004,NaN
+Romeoville,Consumer,8.951999999999998,NaN
+Roseville,Consumer,331.08599999999996,NaN
+Roseville,Corporate,541.97,NaN
+Roseville,Home Office,2715.57,NaN
+Roswell,Consumer,1804.55,NaN
+Roswell,Corporate,4017.53,NaN
+Roswell,Home Office,830.24,NaN
+Round Rock,Consumer,4512.0928,NaN
+Round Rock,Corporate,341.96,NaN
+Royal Oak,Consumer,35.34,NaN
+Sacramento,Consumer,162.702,NaN
+Sacramento,Corporate,7077.756,NaN
+Sacramento,Home Office,70.82000000000001,NaN
+Saginaw,Consumer,376.1,NaN
+Saginaw,Home Office,19.76,NaN
+Saint Charles,Consumer,290.724,NaN
+Saint Charles,Corporate,10.56,NaN
+Saint Charles,Home Office,1358.3660000000002,NaN
+Saint Cloud,Corporate,1331.8200000000002,NaN
+Saint Louis,Consumer,207.45,NaN
+Saint Louis,Corporate,78.51,NaN
+Saint Paul,Corporate,192.82999999999998,NaN
+Saint Peters,Home Office,697.16,NaN
+Saint Petersburg,Consumer,248.36800000000002,NaN
+Saint Petersburg,Corporate,1442.4240000000002,NaN
+Salem,Consumer,2206.8850000000007,NaN
+Salem,Corporate,344.92,NaN
+Salem,Home Office,892.44,NaN
+Salinas,Corporate,580.634,NaN
+Salinas,Home Office,148.257,NaN
+Salt Lake City,Consumer,417.216,NaN
+Salt Lake City,Home Office,385.55999999999995,NaN
+San Angelo,Consumer,345.324,NaN
+San Angelo,Corporate,305.312,NaN
+San Antonio,Consumer,17930.519999999997,NaN
+San Antonio,Corporate,3642.3100000000004,NaN
+San Antonio,Home Office,270.69800000000004,NaN
+San Bernardino,Consumer,868.772,NaN
+San Bernardino,Home Office,110.528,NaN
+San Clemente,Consumer,90.05799999999999,NaN
+San Diego,Consumer,29393.607999999993,NaN
+San Diego,Corporate,10451.071,NaN
+San Diego,Home Office,7676.349999999999,NaN
+San Francisco,Consumer,59195.09899999996,NaN
+San Francisco,Corporate,44603.83999999998,NaN
+San Francisco,Home Office,8870.153000000004,NaN
+San Gabriel,Home Office,2061.01,NaN
+San Jose,Consumer,4800.090999999999,NaN
+San Jose,Corporate,1152.03,NaN
+San Jose,Home Office,119.108,NaN
+San Luis Obispo,Consumer,3.62,NaN
+San Marcos,Corporate,108.44399999999999,NaN
+San Mateo,Consumer,75.17999999999999,NaN
+Sandy Springs,Consumer,1302.83,NaN
+Sandy Springs,Corporate,546.04,NaN
+Sandy Springs,Home Office,148.16000000000003,NaN
+Sanford,Home Office,225.54600000000002,NaN
+Santa Ana,Consumer,3126.458,NaN
+Santa Ana,Corporate,163.392,NaN
+Santa Ana,Home Office,76.46,NaN
+Santa Barbara,Consumer,356.78999999999996,NaN
+Santa Barbara,Corporate,402.14599999999996,NaN
+Santa Barbara,Home Office,3530.2980000000002,NaN
+Santa Clara,Consumer,79.792,NaN
+Santa Clara,Corporate,142.40000000000003,NaN
+Santa Fe,Consumer,92.52,NaN
+Santa Fe,Home Office,8.4,NaN
+Santa Maria,Consumer,115.44,NaN
+Scottsdale,Consumer,685.5390000000001,NaN
+Scottsdale,Corporate,419.664,NaN
+Scottsdale,Home Office,361.104,NaN
+Seattle,Consumer,59016.309999999976,NaN
+Seattle,Corporate,36191.89000000001,NaN
+Seattle,Home Office,24332.541999999994,NaN
+Sheboygan,Home Office,79.74,NaN
+Shelton,Home Office,73.33,NaN
+Sierra Vista,Consumer,14.368000000000002,NaN
+Sierra Vista,Corporate,61.70400000000001,NaN
+Sioux Falls,Consumer,20.23,NaN
+Sioux Falls,Corporate,1117.19,NaN
+Skokie,Consumer,532.32,NaN
+Skokie,Corporate,36.51199999999999,NaN
+Smyrna,Consumer,61.162,NaN
+Smyrna,Corporate,841.9069999999999,NaN
+Smyrna,Home Office,2335.82,NaN
+South Bend,Consumer,1238.3300000000002,NaN
+Southaven,Consumer,616.14,NaN
+Southaven,Corporate,839.25,NaN
+Sparks,Consumer,79.36,NaN
+Sparks,Corporate,2396.4,NaN
+Sparks,Home Office,86.19999999999999,NaN
+Spokane,Consumer,334.76,NaN
+Spokane,Corporate,1556.8980000000001,NaN
+Spokane,Home Office,136.26,NaN
+Springdale,Home Office,4.3,NaN
+Springfield,Consumer,9148.439,NaN
+Springfield,Corporate,29443.485999999997,NaN
+Springfield,Home Office,4462.4169999999995,NaN
+Sterling Heights,Consumer,11.68,NaN
+Sterling Heights,Home Office,98.36,NaN
+Stockton,Consumer,324.04,NaN
+Stockton,Corporate,273.92,NaN
+Stockton,Home Office,629.64,NaN
+Suffolk,Consumer,196.62,NaN
+Suffolk,Corporate,1242.4700000000003,NaN
+Suffolk,Home Office,158.81,NaN
+Summerville,Corporate,406.93999999999994,NaN
+Sunnyvale,Corporate,636.21,NaN
+Superior,Home Office,1299.7299999999998,NaN
+Tallahassee,Consumer,6026.534000000001,NaN
+Tallahassee,Corporate,521.431,NaN
+Tallahassee,Home Office,702.7040000000002,NaN
+Tamarac,Corporate,1410.0660000000003,NaN
+Tamarac,Home Office,3.444000000000001,NaN
+Tampa,Consumer,2338.5769999999998,NaN
+Tampa,Corporate,604.9150000000001,NaN
+Tampa,Home Office,2252.5885000000003,NaN
+Taylor,Consumer,301.96,NaN
+Taylor,Corporate,51.739999999999995,NaN
+Temecula,Consumer,808.6660000000002,NaN
+Tempe,Consumer,330.40599999999995,NaN
+Tempe,Corporate,739.8960000000001,NaN
+Texarkana,Corporate,605.34,NaN
+Texarkana,Home Office,48.9,NaN
+Texas City,Consumer,790.972,NaN
+The Colony,Consumer,142.16,NaN
+Thomasville,Consumer,151.292,NaN
+Thornton,Consumer,765.248,NaN
+Thousand Oaks,Consumer,15.984000000000002,NaN
+Thousand Oaks,Corporate,190.07,NaN
+Thousand Oaks,Home Office,32.75,NaN
+Tigard,Consumer,1122.968,NaN
+Tigard,Corporate,65.07000000000001,NaN
+Tigard,Home Office,205.74400000000003,NaN
+Tinley Park,Corporate,22.288,NaN
+Toledo,Consumer,2670.083,NaN
+Toledo,Corporate,1072.086,NaN
+Toledo,Home Office,723.884,NaN
+Torrance,Corporate,3132.2679999999996,NaN
+Trenton,Consumer,614.1899999999999,NaN
+Trenton,Corporate,41.28,NaN
+Trenton,Home Office,1109.7250000000001,NaN
+Troy,Consumer,1929.58,NaN
+Troy,Corporate,780.2199999999999,NaN
+Troy,Home Office,1797.291,NaN
+Tucson,Consumer,2998.56,NaN
+Tucson,Corporate,2954.398,NaN
+Tucson,Home Office,360.058,NaN
+Tulsa,Consumer,3918.7400000000002,NaN
+Tulsa,Corporate,806.1899999999999,NaN
+Tulsa,Home Office,832.0400000000001,NaN
+Tuscaloosa,Home Office,175.70000000000002,NaN
+Twin Falls,Corporate,1148.8059999999998,NaN
+Tyler,Consumer,347.20599999999996,NaN
+Urbandale,Consumer,149.12,NaN
+Utica,Consumer,614.56,NaN
+Utica,Corporate,40.48,NaN
+Vacaville,Consumer,423.28,NaN
+Vallejo,Consumer,156.786,NaN
+Vallejo,Home Office,1064.624,NaN
+Vancouver,Corporate,642.816,NaN
+Vancouver,Home Office,44.02,NaN
+Vineland,Consumer,397.41599999999994,NaN
+Vineland,Corporate,250.55,NaN
+Virginia Beach,Consumer,2051.79,NaN
+Virginia Beach,Corporate,3522.5400000000004,NaN
+Virginia Beach,Home Office,177.8,NaN
+Visalia,Consumer,310.86,NaN
+Visalia,Corporate,7.92,NaN
+Waco,Consumer,605.5511999999999,NaN
+Waco,Corporate,0.5559999999999998,NaN
+Warner Robins,Consumer,41.86,NaN
+Warner Robins,Corporate,392.93999999999994,NaN
+Warwick,Corporate,2426.84,NaN
+Washington,Consumer,2753.3399999999992,NaN
+Washington,Home Office,111.67999999999999,NaN
+Waterbury,Consumer,256.55,NaN
+Waterbury,Corporate,584.7700000000001,NaN
+Waterbury,Home Office,484.74,NaN
+Waterloo,Consumer,30.32,NaN
+Watertown,Consumer,789.11,NaN
+Watertown,Corporate,3064.2419999999997,NaN
+Watertown,Home Office,191.64600000000002,NaN
+Waukesha,Consumer,54.5,NaN
+Wausau,Consumer,317.47999999999996,NaN
+Waynesboro,Consumer,2724.5699999999997,NaN
+Waynesboro,Home Office,334.2,NaN
+West Allis,Corporate,250.48000000000002,NaN
+West Jordan,Consumer,311.85,NaN
+West Palm Beach,Consumer,128.20800000000003,NaN
+West Palm Beach,Home Office,13.120000000000001,NaN
+Westfield,Corporate,161.49,NaN
+Westfield,Home Office,358.23,NaN
+Westland,Consumer,2057.976,NaN
+Westminster,Consumer,3826.646,NaN
+Wheeling,Consumer,1410.4859999999999,NaN
+Wheeling,Home Office,536.48,NaN
+Whittier,Consumer,444.76800000000003,NaN
+Wichita,Consumer,676.0699999999999,NaN
+Wichita,Home Office,149.2,NaN
+Wilmington,Consumer,3899.6229999999996,NaN
+Wilmington,Corporate,2524.938,NaN
+Wilmington,Home Office,872.5,NaN
+Wilson,Consumer,169.54399999999998,NaN
+Wilson,Corporate,191.808,NaN
+Wilson,Home Office,7.380000000000001,NaN
+Woodbury,Corporate,607.65,NaN
+Woodland,Consumer,239.98400000000004,NaN
+Woodland,Corporate,24.678,NaN
+Woodstock,Consumer,295.50000000000006,NaN
+Woodstock,Corporate,845.4879999999999,NaN
+Woodstock,Home Office,2.9120000000000004,NaN
+Woonsocket,Consumer,52.96,NaN
+Woonsocket,Corporate,142.58999999999997,NaN
+Yonkers,Consumer,7441.2660000000005,NaN
+Yonkers,Home Office,216.4,NaN
+York,Corporate,817.9780000000001,NaN
+Yucaipa,Corporate,50.8,NaN
+Yuma,Corporate,196.02400000000003,NaN
+Yuma,Home Office,644.8410000000001,NaN
