@@ -1,6 +1,6 @@
 Trellis.Year,Trellis.Account Level 2,Trellis.Account Level 2 ID,Sum(Trellis.AC),,Sum(Trellis.PY)
-2014,,1,278,"278,0,278",265
-2014,,2,920,"920,278,1198",170
+2014,,1,278,"278,920,1198",265
+2014,,2,920,"920,0,920",170
 2014,Consulting revenue,3,128,"128,1198,1326",121
 2014,Cost of sales,4,,",1326,1326",122
 2014,Income from discontinued operations,11,,",1326,1326",206
@@ -9,16 +9,16 @@ Trellis.Year,Trellis.Account Level 2,Trellis.Account Level 2 ID,Sum(Trellis.AC),
 2014,Other operating expenses,8,,",1326,1326",111
 2014,Research and development expenses,5,,",1326,1326",178
 2014,Selling and general administrative expenses,6,,",1326,1326",-197
-2015,Consulting revenue,14,428,"428,0,428",-221
-2015,Cost of sales,15,,",428,428",222
-2015,Income from discontinued operations,22,,",428,428",306
-2015,Income tax expenses,21,,",428,428",323
-2015,"Other financial income,net",20,,",428,428",234
-2015,Other operating expenses,19,,",428,428",211
-2015,Research and development expenses,16,,",428,428",228
-2015,Selling and general administrative expenses,17,,",428,428",297
-2015,Software revenue,12,578,"578,428,1006",465
-2015,Support revenue,13,620,"620,1006,1626",270
+2015,Consulting revenue,14,428,"428,1198,1626",-221
+2015,Cost of sales,15,,",1626,1626",222
+2015,Income from discontinued operations,22,,",1626,1626",306
+2015,Income tax expenses,21,,",1626,1626",323
+2015,"Other financial income,net",20,,",1626,1626",234
+2015,Other operating expenses,19,,",1626,1626",211
+2015,Research and development expenses,16,,",1626,1626",228
+2015,Selling and general administrative expenses,17,,",1626,1626",297
+2015,Software revenue,12,578,"578,620,1198",465
+2015,Support revenue,13,620,"620,0,620",270
 2016,Consulting revenue,25,528,"528,0,528",321
 2016,Cost of sales,26,,",528,528",322
 2016,Income from discontinued operations,33,,",528,528",406
