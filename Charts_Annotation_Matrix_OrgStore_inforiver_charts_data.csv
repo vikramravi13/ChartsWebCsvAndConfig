@@ -1,97 +1,97 @@
-SA Covid Data.Group,SA Covid Data.Wave,"SA Covid Data.Days ",Sum(SA Covid Data.in %),CountNonNull(SA Covid Data.Order2),
-Cases,Beta wave,"Tuesday, 29 May, 1900",63,18,"18,75,93"
-Cases,Beta wave,"Sunday, 29 April, 1900",60,17,"17,58,75"
-Cases,Beta wave,"Friday, 30 March, 1900",58,16,"16,42,58"
-Cases,Beta wave,"Wednesday, 28 February, 1900",50,15,"15,27,42"
-Cases,Beta wave,"Monday, 29 January, 1900",15,14,"14,13,27"
-Cases,Beta wave,"Saturday, 30 December, 1899",0,13,"13,0,13"
-Cases,Delta wave,"Tuesday, 29 May, 1900",100,24,"24,105,129"
-Cases,Delta wave,"Sunday, 29 April, 1900",90,23,"23,82,105"
-Cases,Delta wave,"Friday, 30 March, 1900",65,22,"22,60,82"
-Cases,Delta wave,"Wednesday, 28 February, 1900",30,21,"21,39,60"
-Cases,Delta wave,"Monday, 29 January, 1900",5,20,"20,19,39"
-Cases,Delta wave,"Saturday, 30 December, 1899",0,19,"19,0,19"
-Cases,First wave,"Tuesday, 29 May, 1900",50,12,"12,45,57"
-Cases,First wave,"Sunday, 29 April, 1900",46,11,"11,34,45"
-Cases,First wave,"Friday, 30 March, 1900",43,10,"10,24,34"
-Cases,First wave,"Wednesday, 28 February, 1900",30,9,"9,15,24"
-Cases,First wave,"Monday, 29 January, 1900",5,8,"8,7,15"
-Cases,First wave,"Saturday, 30 December, 1899",0,7,"7,0,7"
-Cases,Omicron wave,"Tuesday, 29 May, 1900",,6,"6,15,21"
-Cases,Omicron wave,"Sunday, 29 April, 1900",,5,"5,10,15"
-Cases,Omicron wave,"Friday, 30 March, 1900",,4,"4,6,10"
-Cases,Omicron wave,"Wednesday, 28 February, 1900",45,3,"3,3,6"
-Cases,Omicron wave,"Monday, 29 January, 1900",20,2,"2,1,3"
-Cases,Omicron wave,"Saturday, 30 December, 1899",0,1,"1,0,1"
-Deaths,Beta wave,"Tuesday, 29 May, 1900",87,66,"66,315,381"
-Deaths,Beta wave,"Sunday, 29 April, 1900",82,65,"65,250,315"
-Deaths,Beta wave,"Friday, 30 March, 1900",78,64,"64,186,250"
-Deaths,Beta wave,"Wednesday, 28 February, 1900",40,63,"63,123,186"
-Deaths,Beta wave,"Monday, 29 January, 1900",10,62,"62,61,123"
-Deaths,Beta wave,"Saturday, 30 December, 1899",0,61,"61,0,61"
-Deaths,Delta wave,"Tuesday, 29 May, 1900",100,72,"72,345,417"
-Deaths,Delta wave,"Sunday, 29 April, 1900",90,71,"71,274,345"
-Deaths,Delta wave,"Friday, 30 March, 1900",60,70,"70,204,274"
-Deaths,Delta wave,"Wednesday, 28 February, 1900",20,69,"69,135,204"
-Deaths,Delta wave,"Monday, 29 January, 1900",5,68,"68,67,135"
-Deaths,Delta wave,"Saturday, 30 December, 1899",0,67,"67,0,67"
-Deaths,First wave,"Tuesday, 29 May, 1900",50,60,"60,285,345"
-Deaths,First wave,"Sunday, 29 April, 1900",45,59,"59,226,285"
-Deaths,First wave,"Friday, 30 March, 1900",40,58,"58,168,226"
-Deaths,First wave,"Wednesday, 28 February, 1900",20,57,"57,111,168"
-Deaths,First wave,"Monday, 29 January, 1900",5,56,"56,55,111"
-Deaths,First wave,"Saturday, 30 December, 1899",0,55,"55,0,55"
-Deaths,Omicron wave,"Tuesday, 29 May, 1900",,54,"54,255,309"
-Deaths,Omicron wave,"Sunday, 29 April, 1900",,53,"53,202,255"
-Deaths,Omicron wave,"Friday, 30 March, 1900",,52,"52,150,202"
-Deaths,Omicron wave,"Wednesday, 28 February, 1900",10,51,"51,99,150"
-Deaths,Omicron wave,"Monday, 29 January, 1900",4,50,"50,49,99"
-Deaths,Omicron wave,"Saturday, 30 December, 1899",0,49,"49,0,49"
-Excess deaths,Beta wave,"Tuesday, 29 May, 1900",100,90,"90,435,525"
-Excess deaths,Beta wave,"Sunday, 29 April, 1900",95,89,"89,346,435"
-Excess deaths,Beta wave,"Friday, 30 March, 1900",90,88,"88,258,346"
-Excess deaths,Beta wave,"Wednesday, 28 February, 1900",60,87,"87,171,258"
-Excess deaths,Beta wave,"Monday, 29 January, 1900",20,86,"86,85,171"
-Excess deaths,Beta wave,"Saturday, 30 December, 1899",4,85,"85,0,85"
-Excess deaths,Delta wave,"Tuesday, 29 May, 1900",100,96,"96,465,561"
-Excess deaths,Delta wave,"Sunday, 29 April, 1900",80,95,"95,370,465"
-Excess deaths,Delta wave,"Friday, 30 March, 1900",60,94,"94,276,370"
-Excess deaths,Delta wave,"Wednesday, 28 February, 1900",20,93,"93,183,276"
-Excess deaths,Delta wave,"Monday, 29 January, 1900",10,92,"92,91,183"
-Excess deaths,Delta wave,"Saturday, 30 December, 1899",4,91,"91,0,91"
-Excess deaths,First wave,"Tuesday, 29 May, 1900",45,84,"84,405,489"
-Excess deaths,First wave,"Sunday, 29 April, 1900",43,83,"83,322,405"
-Excess deaths,First wave,"Friday, 30 March, 1900",40,82,"82,240,322"
-Excess deaths,First wave,"Wednesday, 28 February, 1900",20,81,"81,159,240"
-Excess deaths,First wave,"Monday, 29 January, 1900",5,80,"80,79,159"
-Excess deaths,First wave,"Saturday, 30 December, 1899",0,79,"79,0,79"
-Excess deaths,Omicron wave,"Tuesday, 29 May, 1900",,78,"78,375,453"
-Excess deaths,Omicron wave,"Sunday, 29 April, 1900",,77,"77,298,375"
-Excess deaths,Omicron wave,"Friday, 30 March, 1900",,76,"76,222,298"
-Excess deaths,Omicron wave,"Wednesday, 28 February, 1900",21,75,"75,147,222"
-Excess deaths,Omicron wave,"Monday, 29 January, 1900",10,74,"74,73,147"
-Excess deaths,Omicron wave,"Saturday, 30 December, 1899",4,73,"73,0,73"
-Hospital admissions,Beta wave,"Tuesday, 29 May, 1900",83,42,"42,195,237"
-Hospital admissions,Beta wave,"Sunday, 29 April, 1900",80,41,"41,154,195"
-Hospital admissions,Beta wave,"Friday, 30 March, 1900",70,40,"40,114,154"
-Hospital admissions,Beta wave,"Wednesday, 28 February, 1900",30,39,"39,75,114"
-Hospital admissions,Beta wave,"Monday, 29 January, 1900",20,38,"38,37,75"
-Hospital admissions,Beta wave,"Saturday, 30 December, 1899",0,37,"37,0,37"
-Hospital admissions,Delta wave,"Tuesday, 29 May, 1900",100,48,"48,225,273"
-Hospital admissions,Delta wave,"Sunday, 29 April, 1900",90,47,"47,178,225"
-Hospital admissions,Delta wave,"Friday, 30 March, 1900",70,46,"46,132,178"
-Hospital admissions,Delta wave,"Wednesday, 28 February, 1900",30,45,"45,87,132"
-Hospital admissions,Delta wave,"Monday, 29 January, 1900",10,44,"44,43,87"
-Hospital admissions,Delta wave,"Saturday, 30 December, 1899",0,43,"43,0,43"
-Hospital admissions,First wave,"Tuesday, 29 May, 1900",62,36,"36,165,201"
-Hospital admissions,First wave,"Sunday, 29 April, 1900",57,35,"35,130,165"
-Hospital admissions,First wave,"Friday, 30 March, 1900",50,34,"34,96,130"
-Hospital admissions,First wave,"Wednesday, 28 February, 1900",30,33,"33,63,96"
-Hospital admissions,First wave,"Monday, 29 January, 1900",10,32,"32,31,63"
-Hospital admissions,First wave,"Saturday, 30 December, 1899",0,31,"31,0,31"
-Hospital admissions,Omicron wave,"Tuesday, 29 May, 1900",,30,"30,135,165"
-Hospital admissions,Omicron wave,"Sunday, 29 April, 1900",,29,"29,106,135"
-Hospital admissions,Omicron wave,"Friday, 30 March, 1900",,28,"28,78,106"
-Hospital admissions,Omicron wave,"Wednesday, 28 February, 1900",30,27,"27,51,78"
-Hospital admissions,Omicron wave,"Monday, 29 January, 1900",10,26,"26,25,51"
-Hospital admissions,Omicron wave,"Saturday, 30 December, 1899",0,25,"25,0,25"
+SA Covid Data.Group,SA Covid Data.Wave,"SA Covid Data.Days ",Sum(SA Covid Data.in %),,CountNonNull(SA Covid Data.Order2)
+Cases,Beta wave,"Saturday, 30 December, 1899",0,"13,0,13",13
+Cases,Beta wave,"Monday, 29 January, 1900",15,"14,13,27",14
+Cases,Beta wave,"Wednesday, 28 February, 1900",50,"15,27,42",15
+Cases,Beta wave,"Friday, 30 March, 1900",58,"16,42,58",16
+Cases,Beta wave,"Sunday, 29 April, 1900",60,"17,58,75",17
+Cases,Beta wave,"Tuesday, 29 May, 1900",63,"18,75,93",18
+Cases,Delta wave,"Saturday, 30 December, 1899",0,"19,0,19",19
+Cases,Delta wave,"Monday, 29 January, 1900",5,"20,19,39",20
+Cases,Delta wave,"Wednesday, 28 February, 1900",30,"21,39,60",21
+Cases,Delta wave,"Friday, 30 March, 1900",65,"22,60,82",22
+Cases,Delta wave,"Sunday, 29 April, 1900",90,"23,82,105",23
+Cases,Delta wave,"Tuesday, 29 May, 1900",100,"24,105,129",24
+Cases,First wave,"Saturday, 30 December, 1899",0,"7,0,7",7
+Cases,First wave,"Monday, 29 January, 1900",5,"8,7,15",8
+Cases,First wave,"Wednesday, 28 February, 1900",30,"9,15,24",9
+Cases,First wave,"Friday, 30 March, 1900",43,"10,24,34",10
+Cases,First wave,"Sunday, 29 April, 1900",46,"11,34,45",11
+Cases,First wave,"Tuesday, 29 May, 1900",50,"12,45,57",12
+Cases,Omicron wave,"Saturday, 30 December, 1899",0,"1,0,1",1
+Cases,Omicron wave,"Monday, 29 January, 1900",20,"2,1,3",2
+Cases,Omicron wave,"Wednesday, 28 February, 1900",45,"3,3,6",3
+Cases,Omicron wave,"Friday, 30 March, 1900",,"4,6,10",4
+Cases,Omicron wave,"Sunday, 29 April, 1900",,"5,10,15",5
+Cases,Omicron wave,"Tuesday, 29 May, 1900",,"6,15,21",6
+Deaths,Beta wave,"Saturday, 30 December, 1899",0,"61,0,61",61
+Deaths,Beta wave,"Monday, 29 January, 1900",10,"62,61,123",62
+Deaths,Beta wave,"Wednesday, 28 February, 1900",40,"63,123,186",63
+Deaths,Beta wave,"Friday, 30 March, 1900",78,"64,186,250",64
+Deaths,Beta wave,"Sunday, 29 April, 1900",82,"65,250,315",65
+Deaths,Beta wave,"Tuesday, 29 May, 1900",87,"66,315,381",66
+Deaths,Delta wave,"Saturday, 30 December, 1899",0,"67,0,67",67
+Deaths,Delta wave,"Monday, 29 January, 1900",5,"68,67,135",68
+Deaths,Delta wave,"Wednesday, 28 February, 1900",20,"69,135,204",69
+Deaths,Delta wave,"Friday, 30 March, 1900",60,"70,204,274",70
+Deaths,Delta wave,"Sunday, 29 April, 1900",90,"71,274,345",71
+Deaths,Delta wave,"Tuesday, 29 May, 1900",100,"72,345,417",72
+Deaths,First wave,"Saturday, 30 December, 1899",0,"55,0,55",55
+Deaths,First wave,"Monday, 29 January, 1900",5,"56,55,111",56
+Deaths,First wave,"Wednesday, 28 February, 1900",20,"57,111,168",57
+Deaths,First wave,"Friday, 30 March, 1900",40,"58,168,226",58
+Deaths,First wave,"Sunday, 29 April, 1900",45,"59,226,285",59
+Deaths,First wave,"Tuesday, 29 May, 1900",50,"60,285,345",60
+Deaths,Omicron wave,"Saturday, 30 December, 1899",0,"49,0,49",49
+Deaths,Omicron wave,"Monday, 29 January, 1900",4,"50,49,99",50
+Deaths,Omicron wave,"Wednesday, 28 February, 1900",10,"51,99,150",51
+Deaths,Omicron wave,"Friday, 30 March, 1900",,"52,150,202",52
+Deaths,Omicron wave,"Sunday, 29 April, 1900",,"53,202,255",53
+Deaths,Omicron wave,"Tuesday, 29 May, 1900",,"54,255,309",54
+Excess deaths,Beta wave,"Saturday, 30 December, 1899",4,"85,0,85",85
+Excess deaths,Beta wave,"Monday, 29 January, 1900",20,"86,85,171",86
+Excess deaths,Beta wave,"Wednesday, 28 February, 1900",60,"87,171,258",87
+Excess deaths,Beta wave,"Friday, 30 March, 1900",90,"88,258,346",88
+Excess deaths,Beta wave,"Sunday, 29 April, 1900",95,"89,346,435",89
+Excess deaths,Beta wave,"Tuesday, 29 May, 1900",100,"90,435,525",90
+Excess deaths,Delta wave,"Saturday, 30 December, 1899",4,"91,0,91",91
+Excess deaths,Delta wave,"Monday, 29 January, 1900",10,"92,91,183",92
+Excess deaths,Delta wave,"Wednesday, 28 February, 1900",20,"93,183,276",93
+Excess deaths,Delta wave,"Friday, 30 March, 1900",60,"94,276,370",94
+Excess deaths,Delta wave,"Sunday, 29 April, 1900",80,"95,370,465",95
+Excess deaths,Delta wave,"Tuesday, 29 May, 1900",100,"96,465,561",96
+Excess deaths,First wave,"Saturday, 30 December, 1899",0,"79,0,79",79
+Excess deaths,First wave,"Monday, 29 January, 1900",5,"80,79,159",80
+Excess deaths,First wave,"Wednesday, 28 February, 1900",20,"81,159,240",81
+Excess deaths,First wave,"Friday, 30 March, 1900",40,"82,240,322",82
+Excess deaths,First wave,"Sunday, 29 April, 1900",43,"83,322,405",83
+Excess deaths,First wave,"Tuesday, 29 May, 1900",45,"84,405,489",84
+Excess deaths,Omicron wave,"Saturday, 30 December, 1899",4,"73,0,73",73
+Excess deaths,Omicron wave,"Monday, 29 January, 1900",10,"74,73,147",74
+Excess deaths,Omicron wave,"Wednesday, 28 February, 1900",21,"75,147,222",75
+Excess deaths,Omicron wave,"Friday, 30 March, 1900",,"76,222,298",76
+Excess deaths,Omicron wave,"Sunday, 29 April, 1900",,"77,298,375",77
+Excess deaths,Omicron wave,"Tuesday, 29 May, 1900",,"78,375,453",78
+Hospital admissions,Beta wave,"Saturday, 30 December, 1899",0,"37,0,37",37
+Hospital admissions,Beta wave,"Monday, 29 January, 1900",20,"38,37,75",38
+Hospital admissions,Beta wave,"Wednesday, 28 February, 1900",30,"39,75,114",39
+Hospital admissions,Beta wave,"Friday, 30 March, 1900",70,"40,114,154",40
+Hospital admissions,Beta wave,"Sunday, 29 April, 1900",80,"41,154,195",41
+Hospital admissions,Beta wave,"Tuesday, 29 May, 1900",83,"42,195,237",42
+Hospital admissions,Delta wave,"Saturday, 30 December, 1899",0,"43,0,43",43
+Hospital admissions,Delta wave,"Monday, 29 January, 1900",10,"44,43,87",44
+Hospital admissions,Delta wave,"Wednesday, 28 February, 1900",30,"45,87,132",45
+Hospital admissions,Delta wave,"Friday, 30 March, 1900",70,"46,132,178",46
+Hospital admissions,Delta wave,"Sunday, 29 April, 1900",90,"47,178,225",47
+Hospital admissions,Delta wave,"Tuesday, 29 May, 1900",100,"48,225,273",48
+Hospital admissions,First wave,"Saturday, 30 December, 1899",0,"31,0,31",31
+Hospital admissions,First wave,"Monday, 29 January, 1900",10,"32,31,63",32
+Hospital admissions,First wave,"Wednesday, 28 February, 1900",30,"33,63,96",33
+Hospital admissions,First wave,"Friday, 30 March, 1900",50,"34,96,130",34
+Hospital admissions,First wave,"Sunday, 29 April, 1900",57,"35,130,165",35
+Hospital admissions,First wave,"Tuesday, 29 May, 1900",62,"36,165,201",36
+Hospital admissions,Omicron wave,"Saturday, 30 December, 1899",0,"25,0,25",25
+Hospital admissions,Omicron wave,"Monday, 29 January, 1900",10,"26,25,51",26
+Hospital admissions,Omicron wave,"Wednesday, 28 February, 1900",30,"27,51,78",27
+Hospital admissions,Omicron wave,"Friday, 30 March, 1900",,"28,78,106",28
+Hospital admissions,Omicron wave,"Sunday, 29 April, 1900",,"29,106,135",29
+Hospital admissions,Omicron wave,"Tuesday, 29 May, 1900",,"30,135,165",30
