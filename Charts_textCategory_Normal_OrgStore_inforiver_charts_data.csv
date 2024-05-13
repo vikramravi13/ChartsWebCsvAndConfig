@@ -1,0 +1,4 @@
+Orders.Category,Sum(Orders.Profit),,Sum(Orders.Sales),Min(Orders.Customer Name)
+Furniture,18451.272799999988,NaN,741999.7953,Aaron Bergman
+Office Supplies,122490.80080000032,NaN,719047.032,Aaron Bergman
+Technology,145454.94809999995,NaN,836154.033,Aaron Bergman
