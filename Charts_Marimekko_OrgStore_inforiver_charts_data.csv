@@ -1,0 +1,21 @@
+measures-as-group,Opportunities.Product Name,Sum(Opportunities.Value)
+Value,Design app,17037200
+Value,Stand-up Desks,6948500
+Value,All-in-One,6850500
+Value,Mobile app,5565900
+Value,Tablets,4841300
+Value,Ergonomic Seating,2340700
+Value,Scanners,2251000
+Value,Laser Printers,2015700
+Value,Desktops,1705700
+Value,Webcams,1031200
+Budget,Design app,21296500
+Budget,Stand-up Desks,8685625
+Budget,All-in-One,8563125
+Budget,Mobile app,6957375
+Budget,Tablets,6051625
+Budget,Ergonomic Seating,2925875
+Budget,Scanners,2813750
+Budget,Laser Printers,2519625
+Budget,Desktops,2132125
+Budget,Webcams,1289000
