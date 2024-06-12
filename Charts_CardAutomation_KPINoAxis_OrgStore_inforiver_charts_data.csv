@@ -1,0 +1,4 @@
+Orders.Segment,blank-axis-row,Sum(Orders.Sales),Sum(Orders.Profit)
+Consumer,(Blank),1161401.345,134119.20919999966
+Corporate,(Blank),706146.3668,91979.13399999992
+Home Office,(Blank),429653.1485,60298.678500000016
