@@ -1,0 +1,11 @@
+Campaigns.Campaign Name,CountNonNull(Campaigns.Factor),
+Bing Ad Placement,1,"1,0,1"
+Commercial Tradeshow,1,"1,1,2"
+Consumer Tradeshow,1,"1,2,3"
+Customer Care Campaign,1,"1,3,4"
+Customer Follow-up,1,"1,4,5"
+Instagram,1,"1,5,6"
+Market Trends Newsletter,1,"1,6,7"
+Monthly Newsletter,1,"1,7,8"
+New Product Releases,1,"1,8,9"
+Twitter,1,"1,9,10"
