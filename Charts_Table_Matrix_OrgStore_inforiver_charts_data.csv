@@ -1,0 +1,856 @@
+Orders.Country,Orders.Category,Orders.City,CountNonNull(Orders.Row ID),Sum(Orders.Discount),Min(Orders.Order ID)
+United States,Furniture,Akron,3655,0.6000000000000001,CA-2014-164224
+United States,Furniture,Alexandria,10810,0,CA-2015-104241
+United States,Furniture,Allen,2975,0.3,CA-2015-137512
+United States,Furniture,Allentown,1528,0.2,CA-2016-122392
+United States,Furniture,Amarillo,18444,1.52,CA-2015-139731
+United States,Furniture,Anaheim,64749,0.8,CA-2016-128223
+United States,Furniture,Andover,8333,0,CA-2016-153269
+United States,Furniture,Apopka,5688,0.2,CA-2014-131541
+United States,Furniture,Apple Valley,11855,0.35,CA-2016-118332
+United States,Furniture,Arlington,56124,2.6999999999999997,CA-2014-127446
+United States,Furniture,Arvada,933,0.6000000000000001,CA-2016-142902
+United States,Furniture,Athens,8357,0,CA-2016-163174
+United States,Furniture,Atlanta,24333,0,CA-2014-116190
+United States,Furniture,Auburn,4805,0,CA-2016-145905
+United States,Furniture,Aurora,89080,8.6,CA-2014-106229
+United States,Furniture,Austin,15572,1.2,CA-2015-139374
+United States,Furniture,Bakersfield,32345,0.55,CA-2015-138534
+United States,Furniture,Baltimore,66857,0.3,CA-2015-146948
+United States,Furniture,Bangor,2257,0,CA-2016-164091
+United States,Furniture,Beaumont,9832,0.6,CA-2014-113257
+United States,Furniture,Belleville,8463,0,CA-2016-134138
+United States,Furniture,Bellevue,7295,0,CA-2015-148964
+United States,Furniture,Bellingham,2568,0,CA-2017-123967
+United States,Furniture,Bethlehem,19143,1,CA-2015-125185
+United States,Furniture,Bloomington,12684,1.1,CA-2016-154235
+United States,Furniture,Boise,4193,0,CA-2015-150875
+United States,Furniture,Bossier City,7665,0,CA-2014-151967
+United States,Furniture,Bowling Green,1842,0,CA-2016-157763
+United States,Furniture,Boynton Beach,11014,0.8,CA-2016-144344
+United States,Furniture,Brentwood,1985,0,CA-2014-164721
+United States,Furniture,Bristol,7197,0.5,US-2014-109162
+United States,Furniture,Broken Arrow,9494,0,CA-2016-105207
+United States,Furniture,Broomfield,11495,0.4,CA-2016-112109
+United States,Furniture,Brownsville,10656,0.62,CA-2014-162089
+United States,Furniture,Bryan,9920,0.3,CA-2016-149272
+United States,Furniture,Buffalo,35062,0.4,CA-2014-128209
+United States,Furniture,Buffalo Grove,5751,0.5,CA-2014-145800
+United States,Furniture,Bullhead City,4337,0.2,CA-2015-154795
+United States,Furniture,Burbank,7328,0,US-2014-131275
+United States,Furniture,Burlington,28495,0.8,CA-2015-117086
+United States,Furniture,Caldwell,5999,0.2,US-2014-112991
+United States,Furniture,Camarillo,29622,0.55,CA-2015-100146
+United States,Furniture,Cambridge,8044,0,US-2017-133081
+United States,Furniture,Canton,426,0,CA-2017-149160
+United States,Furniture,Carol Stream,6979,0.6,CA-2015-157322
+United States,Furniture,Carrollton,11505,1.2,CA-2014-122609
+United States,Furniture,Champaign,3865,0.6,CA-2015-157133
+United States,Furniture,Chandler,19338,0.9,CA-2014-138177
+United States,Furniture,Charlotte,38222,1.7999999999999998,CA-2014-117345
+United States,Furniture,Charlottesville,6674,0,CA-2015-135510
+United States,Furniture,Chattanooga,23632,0.8,CA-2016-125017
+United States,Furniture,Chesapeake,18379,0,CA-2014-127614
+United States,Furniture,Chester,10557,1,CA-2014-154963
+United States,Furniture,Cheyenne,5870,0.2,CA-2016-152247
+United States,Furniture,Chicago,341690,32.500000000000036,CA-2014-119466
+United States,Furniture,Chico,36456,0.6000000000000001,CA-2017-131807
+United States,Furniture,Chula Vista,3778,0,CA-2015-107937
+United States,Furniture,Cincinnati,2161,0.2,CA-2016-141019
+United States,Furniture,Citrus Heights,4296,0,CA-2017-169124
+United States,Furniture,Clarksville,16942,0.4,US-2017-132031
+United States,Furniture,Cleveland,39919,2.3,CA-2014-156314
+United States,Furniture,Clifton,7983,0,CA-2014-113383
+United States,Furniture,Clinton,47461,0.3,CA-2014-154095
+United States,Furniture,College Station,2151,0.3,US-2017-139969
+United States,Furniture,Colorado Springs,26399,3.0999999999999996,CA-2014-111451
+United States,Furniture,Columbia,89970,1.4,CA-2014-101560
+United States,Furniture,Columbus,231436,7.699999999999999,CA-2014-105984
+United States,Furniture,Concord,53951,1.35,CA-2014-141607
+United States,Furniture,Conway,5860,0,CA-2015-108119
+United States,Furniture,Coral Gables,8923,0.2,CA-2016-145709
+United States,Furniture,Coral Springs,11727,0.6000000000000001,CA-2017-110198
+United States,Furniture,Corpus Christi,14013,1.7999999999999998,US-2014-117744
+United States,Furniture,Costa Mesa,18992,0.2,CA-2015-114048
+United States,Furniture,Covington,7439,0,CA-2015-145457
+United States,Furniture,Cranston,50623,0.8999999999999999,CA-2014-145387
+United States,Furniture,Cuyahoga Falls,1152,0.2,CA-2015-113971
+United States,Furniture,Dallas,174159,12.100000000000001,CA-2014-120775
+United States,Furniture,Danbury,8392,0,CA-2017-110625
+United States,Furniture,Danville,4589,0,US-2017-163790
+United States,Furniture,Daytona Beach,8207,0.45,CA-2015-122266
+United States,Furniture,Dearborn,6261,0,CA-2015-138009
+United States,Furniture,Dearborn Heights,3474,0,CA-2017-111815
+United States,Furniture,Decatur,56689,3,CA-2014-163867
+United States,Furniture,Deltona,5106,0.2,CA-2014-116568
+United States,Furniture,Denver,61282,3.5,CA-2014-124737
+United States,Furniture,Des Moines,17686,0.2,CA-2016-106278
+United States,Furniture,Des Plaines,21900,1.4,CA-2014-163468
+United States,Furniture,Detroit,110700,0,CA-2014-133228
+United States,Furniture,Dover,15772,0.3,CA-2014-130092
+United States,Furniture,Draper,5547,0,CA-2017-151008
+United States,Furniture,Dublin,1951,0.6000000000000001,CA-2015-169397
+United States,Furniture,Dubuque,3427,0,CA-2015-153381
+United States,Furniture,Durham,8195,0.2,CA-2015-141327
+United States,Furniture,East Point,8077,0,CA-2015-106187
+United States,Furniture,Eau Claire,18325,0,CA-2016-160108
+United States,Furniture,Edmonds,15596,0,CA-2014-151995
+United States,Furniture,El Cajon,15119,0.4,CA-2014-147543
+United States,Furniture,El Paso,28644,1.8,CA-2014-101602
+United States,Furniture,Elmhurst,6548,0.3,CA-2014-113880
+United States,Furniture,Encinitas,3936,0.35,CA-2016-160500
+United States,Furniture,Eugene,12616,0.4,CA-2016-163328
+United States,Furniture,Evanston,1351,0.3,CA-2014-153976
+United States,Furniture,Everett,38815,0.3,CA-2014-151330
+United States,Furniture,Fairfield,50384,1.7000000000000002,CA-2014-142587
+United States,Furniture,Farmington,2437,0,CA-2017-140053
+United States,Furniture,Fayetteville,40302,1.4,CA-2014-114314
+United States,Furniture,Florence,8272,0,CA-2014-120768
+United States,Furniture,Fort Collins,16842,1.1,CA-2017-130141
+United States,Furniture,Fort Lauderdale,28446,1.5,CA-2016-104276
+United States,Furniture,Fort Worth,10949,2.14,CA-2014-103849
+United States,Furniture,Franklin,51826,1.5000000000000002,CA-2014-155887
+United States,Furniture,Freeport,17672,0.7,CA-2015-136196
+United States,Furniture,Fremont,4104,0,CA-2017-137456
+United States,Furniture,Fresno,30377,0.9000000000000001,CA-2014-143637
+United States,Furniture,Frisco,8518,0.6,CA-2017-149720
+United States,Furniture,Gaithersburg,4919,0,CA-2016-160304
+United States,Furniture,Garland,5305,0.6,US-2014-166310
+United States,Furniture,Georgetown,6037,0,CA-2016-131205
+United States,Furniture,Gilbert,30723,1.5,CA-2015-112144
+United States,Furniture,Gladstone,511,0,CA-2017-135307
+United States,Furniture,Glendale,18165,1,CA-2014-151708
+United States,Furniture,Grand Prairie,15691,1.7999999999999998,CA-2015-118955
+United States,Furniture,Greeley,8593,0.2,CA-2017-101700
+United States,Furniture,Green Bay,18655,0,CA-2016-102134
+United States,Furniture,Greensboro,20328,1,CA-2016-134516
+United States,Furniture,Greenville,15069,0.4,US-2017-134642
+United States,Furniture,Greenwood,3940,0,US-2016-143448
+United States,Furniture,Gresham,10559,0.4,CA-2014-125731
+United States,Furniture,Gulfport,3312,0,CA-2016-162747
+United States,Furniture,Hackensack,2377,0,CA-2014-120887
+United States,Furniture,Hamilton,4419,0.2,CA-2014-160157
+United States,Furniture,Hampton,31028,0,CA-2014-114321
+United States,Furniture,Harlingen,3929,0.32,CA-2016-162082
+United States,Furniture,Harrisonburg,12958,0,CA-2014-132612
+United States,Furniture,Hattiesburg,11975,0,CA-2016-163776
+United States,Furniture,Helena,7276,0,CA-2015-144519
+United States,Furniture,Hempstead,10126,0.2,CA-2015-161718
+United States,Furniture,Henderson,52309,0,CA-2014-167199
+United States,Furniture,Hendersonville,6223,0.2,CA-2017-140627
+United States,Furniture,Hesperia,10991,0.35,CA-2017-135076
+United States,Furniture,Hialeah,25191,0.8,CA-2014-143182
+United States,Furniture,Highland Park,11675,0.8999999999999999,CA-2016-153577
+United States,Furniture,Hillsboro,8743,0.2,US-2015-144771
+United States,Furniture,Hollywood,9042,0.2,CA-2014-114335
+United States,Furniture,Holyoke,2416,0,CA-2015-146087
+United States,Furniture,Hot Springs,6719,0,CA-2016-134789
+United States,Furniture,Houston,478710,34.74000000000004,CA-2014-100678
+United States,Furniture,Huntsville,66987,3.619999999999999,CA-2014-105417
+United States,Furniture,Indianapolis,9948,0,CA-2017-121559
+United States,Furniture,Inglewood,10932,0.2,CA-2017-148264
+United States,Furniture,Jackson,60680,0.8,CA-2015-121650
+United States,Furniture,Jacksonville,136548,5.750000000000002,CA-2014-145317
+United States,Furniture,Jefferson City,1037,0,CA-2016-113061
+United States,Furniture,Jonesboro,6340,0,US-2014-147627
+United States,Furniture,Kenosha,11990,0,CA-2015-105627
+United States,Furniture,Kent,1621,0,CA-2017-108560
+United States,Furniture,Kirkwood,5156,0,US-2015-124219
+United States,Furniture,Knoxville,58000,2.1999999999999997,CA-2014-169684
+United States,Furniture,La Crosse,11245,0,US-2016-124163
+United States,Furniture,La Porte,13332,0.6,CA-2016-126627
+United States,Furniture,Lafayette,44109,0,CA-2015-143119
+United States,Furniture,Laguna Niguel,1535,0.15,CA-2017-124086
+United States,Furniture,Lake Charles,2891,0,CA-2014-142727
+United States,Furniture,Lake Elsinore,800,0.2,CA-2015-101910
+United States,Furniture,Lake Forest,13636,0.2,CA-2016-101672
+United States,Furniture,Lakeland,27763,1.65,CA-2014-103989
+United States,Furniture,Lakeville,6795,0,CA-2014-131926
+United States,Furniture,Lakewood,79345,0.9500000000000001,CA-2014-164742
+United States,Furniture,Lancaster,35579,1.8000000000000003,CA-2015-128860
+United States,Furniture,Lansing,5291,0,CA-2016-146682
+United States,Furniture,Laredo,2166,0.6,CA-2016-154018
+United States,Furniture,Las Cruces,2803,0,CA-2017-143329
+United States,Furniture,Las Vegas,11024,0,CA-2015-107685
+United States,Furniture,Laurel,9132,0,CA-2017-100055
+United States,Furniture,Lawrence,46300,0.6,CA-2014-166086
+United States,Furniture,Lawton,4479,0,CA-2017-130211
+United States,Furniture,League City,13232,0.6,CA-2014-161508
+United States,Furniture,Lincoln Park,3031,0,CA-2015-168480
+United States,Furniture,Little Rock,2201,0,US-2014-165659
+United States,Furniture,Littleton,2226,0.7,CA-2016-106383
+United States,Furniture,Long Beach,41824,1.7000000000000002,CA-2014-159520
+United States,Furniture,Longmont,15065,0.4,CA-2016-107146
+United States,Furniture,Longview,6970,0,CA-2016-163937
+United States,Furniture,Lorain,9871,0.8,CA-2014-108609
+United States,Furniture,Los Angeles,776489,17.499999999999986,CA-2014-101462
+United States,Furniture,Louisville,90063,2,CA-2014-163419
+United States,Furniture,Lowell,18683,0,CA-2014-126403
+United States,Furniture,Lubbock,6082,0.6,US-2014-165589
+United States,Furniture,Macon,3623,0,CA-2014-159184
+United States,Furniture,Madison,7523,0,CA-2014-120474
+United States,Furniture,Malden,2544,0,US-2016-114174
+United States,Furniture,Manchester,370,0,CA-2016-155516
+United States,Furniture,Mansfield,8678,0.3,CA-2017-141705
+United States,Furniture,Manteca,4533,0.2,CA-2014-140403
+United States,Furniture,Marietta,4887,0,CA-2016-163167
+United States,Furniture,Marion,37983,1.5,CA-2015-101889
+United States,Furniture,Marlborough,18057,0,US-2016-152415
+United States,Furniture,Mason,9869,0.2,CA-2014-114195
+United States,Furniture,Mcallen,9301,0.3,US-2015-163433
+United States,Furniture,Medina,5508,0.9,CA-2015-111073
+United States,Furniture,Memphis,36101,2.1999999999999997,CA-2014-107811
+United States,Furniture,Mentor,13422,0.9,CA-2017-121300
+United States,Furniture,Meriden,5867,0,US-2014-117968
+United States,Furniture,Meridian,3051,0,US-2017-148054
+United States,Furniture,Mesa,33218,2.1,CA-2015-143364
+United States,Furniture,Mesquite,3708,0.6,CA-2014-120544
+United States,Furniture,Miami,43952,1.8499999999999999,CA-2014-110422
+United States,Furniture,Middletown,3755,0,CA-2014-155271
+United States,Furniture,Midland,5168,0,CA-2014-121006
+United States,Furniture,Milford,11468,0,CA-2017-143574
+United States,Furniture,Milwaukee,83082,0,CA-2014-127159
+United States,Furniture,Minneapolis,18731,0,CA-2015-120677
+United States,Furniture,Miramar,12715,0.6000000000000001,CA-2017-108112
+United States,Furniture,Mishawaka,2496,0,CA-2014-136644
+United States,Furniture,Mission Viejo,3366,0.15,CA-2014-115161
+United States,Furniture,Mobile,11118,0,CA-2014-124023
+United States,Furniture,Modesto,8125,0.2,US-2017-150070
+United States,Furniture,Monroe,32827,1,CA-2015-102778
+United States,Furniture,Montgomery,20614,0,CA-2014-110408
+United States,Furniture,Moorhead,2093,0,CA-2014-145926
+United States,Furniture,Moreno Valley,18699,0,CA-2016-114860
+United States,Furniture,Morgan Hill,15821,0.35,CA-2016-149762
+United States,Furniture,Morristown,5646,0,CA-2017-127117
+United States,Furniture,Mount Pleasant,7610,0,CA-2014-109232
+United States,Furniture,Murfreesboro,17783,0.6000000000000001,CA-2015-103870
+United States,Furniture,Murray,3009,0,CA-2016-124772
+United States,Furniture,Muskogee,1832,0,CA-2017-145884
+United States,Furniture,Naperville,6899,0.3,US-2015-165512
+United States,Furniture,Nashua,6032,0,CA-2016-101168
+United States,Furniture,Nashville,30005,1,CA-2016-156573
+United States,Furniture,New Albany,105,0,CA-2015-115742
+United States,Furniture,New Rochelle,8695,0.1,CA-2016-120355
+United States,Furniture,New York City,948974,21.19999999999999,CA-2014-103219
+United States,Furniture,Newark,90826,2,CA-2014-103331
+United States,Furniture,Newport News,7573,0,CA-2014-100916
+United States,Furniture,Noblesville,8469,0,US-2016-164196
+United States,Furniture,Normal,7002,0.3,CA-2015-104871
+United States,Furniture,North Charleston,6909,0,US-2017-135503
+United States,Furniture,North Las Vegas,23420,0.2,CA-2014-125759
+United States,Furniture,Norwich,913,0,CA-2015-133627
+United States,Furniture,Oak Park,10743,0,US-2017-136721
+United States,Furniture,Oakland,40095,0.8,CA-2014-113320
+United States,Furniture,Oceanside,35295,1,CA-2014-107916
+United States,Furniture,Odessa,9035,0.6,CA-2014-113859
+United States,Furniture,Oklahoma City,34267,0,CA-2015-110863
+United States,Furniture,Olathe,5452,0,US-2014-119081
+United States,Furniture,Olympia,4728,0.2,CA-2014-135608
+United States,Furniture,Omaha,15775,0,CA-2015-140921
+United States,Furniture,Ontario,2072,0.2,US-2017-110996
+United States,Furniture,Orem,3304,0,CA-2014-104472
+United States,Furniture,Orlando,6492,0.2,CA-2016-113845
+United States,Furniture,Oxnard,15483,0,CA-2014-112837
+United States,Furniture,Palm Coast,10876,0.4,CA-2014-103317
+United States,Furniture,Park Ridge,468,0.6,US-2015-101399
+United States,Furniture,Parker,11449,1.1,CA-2017-116946
+United States,Furniture,Parma,23238,1.2,CA-2016-124590
+United States,Furniture,Pasadena,58345,2.6,CA-2014-157924
+United States,Furniture,Pasco,4851,0.2,CA-2014-107818
+United States,Furniture,Passaic,2442,0.3,CA-2016-146934
+United States,Furniture,Paterson,50958,0,CA-2015-125934
+United States,Furniture,Pembroke Pines,6867,0.65,CA-2017-140872
+United States,Furniture,Peoria,26409,2.1999999999999997,CA-2015-118423
+United States,Furniture,Perth Amboy,9201,0,CA-2016-152688
+United States,Furniture,Pharr,10863,0.8999999999999999,US-2016-160528
+United States,Furniture,Philadelphia,537663,30.70000000000001,CA-2014-102869
+United States,Furniture,Phoenix,64365,4.5,CA-2014-124079
+United States,Furniture,Pico Rivera,1369,0,CA-2017-133249
+United States,Furniture,Plano,17253,0.9199999999999999,CA-2014-137274
+United States,Furniture,Plantation,14941,0.8,CA-2015-113628
+United States,Furniture,Pocatello,12107,0,CA-2015-141012
+United States,Furniture,Pomona,11645,0.2,CA-2015-133452
+United States,Furniture,Pompano Beach,2779,0.2,CA-2017-108322
+United States,Furniture,Port Arthur,4285,0.32,CA-2015-105690
+United States,Furniture,Port Saint Lucie,4000,0.2,US-2015-149629
+United States,Furniture,Portland,26570,1.3,CA-2015-133445
+United States,Furniture,Providence,36471,0.3,CA-2014-133592
+United States,Furniture,Provo,4030,0,CA-2015-120362
+United States,Furniture,Quincy,7195,0.3,CA-2015-127593
+United States,Furniture,Raleigh,27061,0.8,CA-2015-119634
+United States,Furniture,Rapid City,8151,0,CA-2014-167997
+United States,Furniture,Reading,20341,0.9,CA-2014-155796
+United States,Furniture,Redlands,4228,0.35,CA-2015-164882
+United States,Furniture,Redmond,7948,0.9,CA-2016-167507
+United States,Furniture,Redondo Beach,2797,0.15,CA-2014-154599
+United States,Furniture,Revere,3467,0,US-2015-147242
+United States,Furniture,Richardson,37,0.6,CA-2016-117590
+United States,Furniture,Richmond,84139,0,CA-2014-109491
+United States,Furniture,Rio Rancho,13419,0.4,CA-2015-123141
+United States,Furniture,Rochester,42301,0.8,CA-2014-134061
+United States,Furniture,Rockford,9973,0.8,CA-2016-168032
+United States,Furniture,Rockville,1178,0,CA-2016-113621
+United States,Furniture,Rome,12354,0.1,CA-2015-127327
+United States,Furniture,Roseville,13582,0,CA-2015-121783
+United States,Furniture,Roswell,5152,0,CA-2017-157854
+United States,Furniture,Round Rock,4272,0.9199999999999999,CA-2017-136539
+United States,Furniture,Sacramento,25676,0.4,CA-2014-102295
+United States,Furniture,Saginaw,2930,0,CA-2017-143434
+United States,Furniture,Saint Charles,30545,1.7999999999999998,CA-2014-118276
+United States,Furniture,Saint Cloud,3496,0,CA-2017-142034
+United States,Furniture,Saint Peters,1041,0,CA-2016-127670
+United States,Furniture,Saint Petersburg,18887,0.8,CA-2014-106810
+United States,Furniture,Salem,25125,0.5,CA-2016-145261
+United States,Furniture,Salinas,7014,0.15,CA-2017-141201
+United States,Furniture,San Angelo,18398,0.8999999999999999,CA-2016-130393
+United States,Furniture,San Antonio,49052,4.199999999999998,CA-2014-110219
+United States,Furniture,San Bernardino,9932,0.15,CA-2015-104948
+United States,Furniture,San Diego,225136,5.400000000000003,CA-2014-105648
+United States,Furniture,San Francisco,468695,10.400000000000006,CA-2014-100090
+United States,Furniture,San Gabriel,8754,0.2,CA-2014-166954
+United States,Furniture,San Jose,54300,0.9000000000000001,CA-2014-103310
+United States,Furniture,San Marcos,8581,0.6,CA-2014-130673
+United States,Furniture,Sandy Springs,12656,0,CA-2016-162355
+United States,Furniture,Sanford,8565,0.2,US-2017-108315
+United States,Furniture,Santa Ana,14256,0.4,CA-2016-148852
+United States,Furniture,Santa Barbara,9913,0.2,CA-2015-132388
+United States,Furniture,Scottsdale,8008,0.8999999999999999,CA-2014-146591
+United States,Furniture,Seattle,530477,6.000000000000003,CA-2014-103940
+United States,Furniture,Sierra Vista,6043,0.2,CA-2016-117912
+United States,Furniture,Sioux Falls,2317,0,CA-2017-122035
+United States,Furniture,Skokie,16394,1.7999999999999998,CA-2014-162866
+United States,Furniture,Smyrna,9504,0.2,CA-2015-156734
+United States,Furniture,Southaven,2278,0,CA-2014-104283
+United States,Furniture,Spokane,8280,0.2,CA-2017-142888
+United States,Furniture,Springfield,143486,5.2,CA-2014-100706
+United States,Furniture,Stockton,8889,0,CA-2017-103968
+United States,Furniture,Suffolk,9457,0,CA-2016-110254
+United States,Furniture,Sunnyvale,2122,0.2,CA-2017-158246
+United States,Furniture,Superior,7255,0,CA-2016-152730
+United States,Furniture,Tallahassee,7470,0.4,CA-2016-138695
+United States,Furniture,Tampa,41915,2.7,CA-2014-130428
+United States,Furniture,Taylor,5163,0,CA-2016-115378
+United States,Furniture,Tempe,2886,0.2,US-2016-159856
+United States,Furniture,Texarkana,5234,0,CA-2014-115084
+United States,Furniture,Texas City,22145,0.8999999999999999,CA-2014-124723
+United States,Furniture,Thornton,23661,0.6000000000000001,CA-2017-118017
+United States,Furniture,Thousand Oaks,6837,0,CA-2017-142643
+United States,Furniture,Tigard,7414,0.2,CA-2017-121125
+United States,Furniture,Tinley Park,3403,0.6,CA-2015-129700
+United States,Furniture,Toledo,16128,0.8,CA-2014-121769
+United States,Furniture,Torrance,943,0.2,CA-2016-142958
+United States,Furniture,Trenton,5823,0,CA-2014-124478
+United States,Furniture,Troy,51903,1.6,CA-2015-100657
+United States,Furniture,Tucson,38238,2.0999999999999996,CA-2014-123295
+United States,Furniture,Tulsa,37552,0,CA-2014-117765
+United States,Furniture,Tuscaloosa,7151,0,CA-2017-100412
+United States,Furniture,Twin Falls,8784,0,CA-2016-116911
+United States,Furniture,Tyler,679,0.6,US-2017-119438
+United States,Furniture,Utica,8807,0,CA-2016-113082
+United States,Furniture,Vallejo,639,0,CA-2016-115917
+United States,Furniture,Vancouver,2143,0,CA-2016-160745
+United States,Furniture,Vineland,13162,0.3,CA-2016-155166
+United States,Furniture,Virginia Beach,40655,0,CA-2014-122217
+United States,Furniture,Waco,5176,0.32,CA-2017-106432
+United States,Furniture,Warner Robins,636,0,CA-2015-168004
+United States,Furniture,Washington,4511,0,CA-2015-124450
+United States,Furniture,Waterbury,4707,0,CA-2016-158435
+United States,Furniture,Watertown,9350,0.4,CA-2014-150245
+United States,Furniture,Waynesboro,17973,0,CA-2015-137974
+United States,Furniture,West Allis,3763,0,CA-2016-156251
+United States,Furniture,West Jordan,3022,0,CA-2015-123568
+United States,Furniture,Westfield,8420,0,CA-2016-159639
+United States,Furniture,Westland,12661,0,CA-2014-167927
+United States,Furniture,Westminster,33368,0.2,CA-2017-121048
+United States,Furniture,Wheeling,14670,1.4000000000000001,CA-2017-130505
+United States,Furniture,Wichita,5363,0,CA-2016-122017
+United States,Furniture,Wilmington,22529,0.6,CA-2015-136469
+United States,Furniture,Wilson,6702,0.2,CA-2015-153535
+United States,Furniture,Woodstock,2845,0.3,US-2016-162852
+United States,Furniture,Woonsocket,3990,0,CA-2014-122588
+United States,Furniture,Yonkers,6380,0.4,CA-2017-108791
+United States,Furniture,York,2146,0.3,US-2016-152051
+United States,Office Supplies,Aberdeen,9261,0,CA-2017-167976
+United States,Office Supplies,Abilene,6990,0.8,CA-2017-165099
+United States,Office Supplies,Akron,58854,5.300000000000001,CA-2014-111360
+United States,Office Supplies,Albuquerque,45841,0.2,CA-2014-152345
+United States,Office Supplies,Alexandria,28642,0,CA-2014-102988
+United States,Office Supplies,Allen,4544,1,CA-2015-129112
+United States,Office Supplies,Allentown,38288,1.5,CA-2016-122392
+United States,Office Supplies,Altoona,7585,0.8999999999999999,CA-2015-111325
+United States,Office Supplies,Amarillo,17802,0.6000000000000001,CA-2016-111794
+United States,Office Supplies,Anaheim,116281,1.2,CA-2014-143371
+United States,Office Supplies,Andover,25001,0,CA-2016-153269
+United States,Office Supplies,Ann Arbor,17072,0.1,CA-2015-124107
+United States,Office Supplies,Antioch,1133,0,US-2016-114776
+United States,Office Supplies,Apopka,24642,2.7,CA-2014-131541
+United States,Office Supplies,Apple Valley,31389,0,CA-2017-101182
+United States,Office Supplies,Appleton,1553,0,CA-2014-130274
+United States,Office Supplies,Arlington,197509,7.199999999999999,CA-2014-111934
+United States,Office Supplies,Arlington Heights,9400,0.2,CA-2016-103128
+United States,Office Supplies,Arvada,313,0.2,CA-2016-142902
+United States,Office Supplies,Asheville,26799,1.7,CA-2014-164910
+United States,Office Supplies,Athens,23273,0,CA-2014-106054
+United States,Office Supplies,Atlanta,132013,0,CA-2014-116190
+United States,Office Supplies,Atlantic City,7505,0,CA-2016-158043
+United States,Office Supplies,Auburn,67169,0.2,CA-2015-102015
+United States,Office Supplies,Aurora,174965,13.400000000000004,CA-2014-120096
+United States,Office Supplies,Austin,128293,10.200000000000003,CA-2015-120901
+United States,Office Supplies,Avondale,27501,0.6000000000000001,CA-2014-146843
+United States,Office Supplies,Bakersfield,46504,0.8,CA-2015-141936
+United States,Office Supplies,Baltimore,129270,0,CA-2014-118976
+United States,Office Supplies,Bangor,18315,0,CA-2014-134215
+United States,Office Supplies,Bartlett,6067,0.2,CA-2015-151547
+United States,Office Supplies,Bayonne,1696,0,CA-2015-156335
+United States,Office Supplies,Baytown,3901,0.2,CA-2015-121097
+United States,Office Supplies,Beaumont,16404,1,CA-2014-124394
+United States,Office Supplies,Bedford,18206,1.4000000000000001,CA-2015-142139
+United States,Office Supplies,Belleville,18686,0,CA-2016-142545
+United States,Office Supplies,Bellevue,21296,0.4,CA-2014-138513
+United States,Office Supplies,Bellingham,2567,0.2,CA-2017-123967
+United States,Office Supplies,Bethlehem,17267,0.8999999999999999,CA-2016-107783
+United States,Office Supplies,Beverly,18891,0,CA-2014-141313
+United States,Office Supplies,Billings,3028,0.2,CA-2014-106719
+United States,Office Supplies,Bloomington,58532,1.6,CA-2015-117898
+United States,Office Supplies,Boca Raton,8956,0.8999999999999999,CA-2014-127488
+United States,Office Supplies,Boise,4466,0.2,CA-2015-163895
+United States,Office Supplies,Bolingbrook,16277,2.2,CA-2015-114468
+United States,Office Supplies,Bossier City,3064,0,CA-2014-162775
+United States,Office Supplies,Bowling Green,36014,1.5,CA-2014-106572
+United States,Office Supplies,Boynton Beach,16395,1.7,CA-2016-144344
+United States,Office Supplies,Bozeman,4075,0,CA-2015-119214
+United States,Office Supplies,Brentwood,66193,0.4,CA-2014-102330
+United States,Office Supplies,Bridgeton,3073,0,CA-2016-112389
+United States,Office Supplies,Bristol,36131,2.3,CA-2014-146500
+United States,Office Supplies,Broken Arrow,20858,0,CA-2016-105207
+United States,Office Supplies,Broomfield,5817,1.5999999999999999,CA-2016-112109
+United States,Office Supplies,Brownsville,23586,0.8,CA-2014-109932
+United States,Office Supplies,Bryan,46823,3.4000000000000004,CA-2016-149272
+United States,Office Supplies,Buffalo,12944,0.2,CA-2014-128209
+United States,Office Supplies,Bullhead City,4336,0.2,CA-2015-154795
+United States,Office Supplies,Burbank,7330,0,US-2014-131275
+United States,Office Supplies,Burlington,99005,1.9,CA-2017-121818
+United States,Office Supplies,Caldwell,12001,0,US-2014-112991
+United States,Office Supplies,Camarillo,7214,0,CA-2017-154949
+United States,Office Supplies,Cambridge,23760,0,CA-2015-115392
+United States,Office Supplies,Canton,4275,0,CA-2017-129000
+United States,Office Supplies,Carlsbad,39294,0.6000000000000001,CA-2016-131639
+United States,Office Supplies,Carol Stream,10476,0.6000000000000001,CA-2015-157322
+United States,Office Supplies,Carrollton,33974,4.2,CA-2015-127607
+United States,Office Supplies,Cary,6854,0.8,CA-2014-121286
+United States,Office Supplies,Cedar Hill,11553,0.4,CA-2014-130869
+United States,Office Supplies,Chandler,28191,0.8,CA-2017-129707
+United States,Office Supplies,Chapel Hill,267,0.2,CA-2017-136826
+United States,Office Supplies,Charlotte,150399,10.6,CA-2014-102673
+United States,Office Supplies,Charlottesville,1895,0,US-2017-108063
+United States,Office Supplies,Chattanooga,26565,1.5999999999999999,CA-2017-102610
+United States,Office Supplies,Chesapeake,52208,0,CA-2014-127614
+United States,Office Supplies,Chester,20313,3.5,CA-2015-119291
+United States,Office Supplies,Chicago,1023797,75.7999999999998,CA-2014-101147
+United States,Office Supplies,Chico,33264,0,CA-2015-155586
+United States,Office Supplies,Chula Vista,10899,0,CA-2014-112851
+United States,Office Supplies,Cincinnati,33964,4.6000000000000005,CA-2014-115973
+United States,Office Supplies,Clarksville,19521,1.3,CA-2014-140886
+United States,Office Supplies,Cleveland,149312,7.300000000000002,CA-2015-104297
+United States,Office Supplies,Clifton,7982,0,CA-2014-113383
+United States,Office Supplies,Clinton,76968,0,CA-2014-154095
+United States,Office Supplies,Clovis,5412,0.2,CA-2017-166856
+United States,Office Supplies,Coachella,2420,0,CA-2017-159597
+United States,Office Supplies,College Station,7091,1,CA-2017-121216
+United States,Office Supplies,Colorado Springs,66308,5,CA-2014-111451
+United States,Office Supplies,Columbia,288656,3,CA-2014-101560
+United States,Office Supplies,Columbus,676682,23.39999999999998,CA-2014-107398
+United States,Office Supplies,Commerce City,6604,0.2,CA-2017-146346
+United States,Office Supplies,Concord,83277,1.2,CA-2015-131128
+United States,Office Supplies,Conroe,3378,0.2,CA-2016-100671
+United States,Office Supplies,Coon Rapids,9648,0,CA-2014-150518
+United States,Office Supplies,Coppell,4491,0.6000000000000001,CA-2017-152485
+United States,Office Supplies,Coral Springs,17195,1,CA-2015-118444
+United States,Office Supplies,Corpus Christi,34396,1.6,CA-2017-162712
+United States,Office Supplies,Costa Mesa,13209,0.2,CA-2016-126158
+United States,Office Supplies,Cottage Grove,757,0,CA-2014-106803
+United States,Office Supplies,Covington,8065,0,CA-2016-169957
+United States,Office Supplies,Cranston,53163,0,CA-2014-145387
+United States,Office Supplies,Cuyahoga Falls,15908,1.4,CA-2016-113600
+United States,Office Supplies,Dallas,529214,38.79999999999997,CA-2014-120775
+United States,Office Supplies,Danville,27694,1,US-2017-144582
+United States,Office Supplies,Davis,7889,0,CA-2016-113117
+United States,Office Supplies,Daytona Beach,12543,0.4,CA-2015-112375
+United States,Office Supplies,Dearborn,1875,0.1,CA-2015-138009
+United States,Office Supplies,Dearborn Heights,38034,0,CA-2014-149104
+United States,Office Supplies,Decatur,109368,3.2,CA-2014-151001
+United States,Office Supplies,Deer Park,4139,0.8,CA-2016-117226
+United States,Office Supplies,Delray Beach,15867,0.4,CA-2014-164749
+United States,Office Supplies,Deltona,3479,0.8999999999999999,CA-2014-160773
+United States,Office Supplies,Denver,64346,5.300000000000001,CA-2014-124737
+United States,Office Supplies,Des Moines,40865,0.2,CA-2015-115924
+United States,Office Supplies,Des Plaines,14605,1,CA-2014-163468
+United States,Office Supplies,Detroit,349582,0.7,CA-2014-133228
+United States,Office Supplies,Dover,49235,0,CA-2014-163650
+United States,Office Supplies,Dublin,17311,2.4,CA-2015-169397
+United States,Office Supplies,Dubuque,3426,0,CA-2015-153381
+United States,Office Supplies,Durham,41900,1.9,CA-2015-141327
+United States,Office Supplies,Eagan,13621,0,CA-2015-130022
+United States,Office Supplies,East Orange,39254,0,CA-2016-117583
+United States,Office Supplies,East Point,8078,0,CA-2015-106187
+United States,Office Supplies,Eau Claire,17194,0,CA-2014-148761
+United States,Office Supplies,Edinburg,16012,1.2000000000000002,CA-2016-113551
+United States,Office Supplies,Edmond,159,0,CA-2016-114104
+United States,Office Supplies,Edmonds,50874,0.4,CA-2014-151995
+United States,Office Supplies,El Paso,79075,3.3999999999999995,CA-2014-103744
+United States,Office Supplies,Elkhart,4373,0,US-2017-169320
+United States,Office Supplies,Elmhurst,11394,0.6000000000000001,CA-2014-113880
+United States,Office Supplies,Elyria,8716,0.7,CA-2017-121678
+United States,Office Supplies,Encinitas,3934,0.4,CA-2016-160500
+United States,Office Supplies,Englewood,2692,0.2,US-2016-144211
+United States,Office Supplies,Escondido,14523,0.2,CA-2014-104808
+United States,Office Supplies,Eugene,25235,0.8,CA-2016-163328
+United States,Office Supplies,Everett,74506,0.2,CA-2014-151330
+United States,Office Supplies,Fairfield,147362,3.9000000000000004,CA-2014-103702
+United States,Office Supplies,Fargo,36796,0,CA-2017-111332
+United States,Office Supplies,Farmington,2094,0,CA-2015-149678
+United States,Office Supplies,Fayetteville,129992,5.300000000000001,CA-2014-114314
+United States,Office Supplies,Florence,39390,0,CA-2014-120768
+United States,Office Supplies,Fort Collins,16255,1.1,CA-2017-102218
+United States,Office Supplies,Fort Lauderdale,27784,2.2,CA-2014-108707
+United States,Office Supplies,Fort Worth,70036,7.999999999999999,CA-2014-163748
+United States,Office Supplies,Frankfort,12097,1,US-2015-168914
+United States,Office Supplies,Franklin,91300,2.5999999999999996,CA-2015-102260
+United States,Office Supplies,Freeport,29077,1.4000000000000001,CA-2014-121167
+United States,Office Supplies,Fremont,23791,0,CA-2016-137330
+United States,Office Supplies,Fresno,90745,1.2,CA-2014-141110
+United States,Office Supplies,Garden City,30956,0,CA-2017-105543
+United States,Office Supplies,Garland,9721,1.2000000000000002,CA-2017-100783
+United States,Office Supplies,Gastonia,863,0.8999999999999999,US-2016-123750
+United States,Office Supplies,Georgetown,41845,0,CA-2016-109722
+United States,Office Supplies,Gilbert,28122,1.2,CA-2014-106376
+United States,Office Supplies,Glendale,68232,4.1,CA-2014-100363
+United States,Office Supplies,Goldsboro,6720,0.2,CA-2016-130442
+United States,Office Supplies,Grand Island,5324,0,CA-2017-134439
+United States,Office Supplies,Grand Prairie,17908,2.6,CA-2014-120852
+United States,Office Supplies,Grand Rapids,44421,0,CA-2016-126284
+United States,Office Supplies,Grapevine,3183,0.4,US-2016-132423
+United States,Office Supplies,Great Falls,15501,0.2,CA-2014-110555
+United States,Office Supplies,Greeley,8592,0.2,CA-2017-101700
+United States,Office Supplies,Green Bay,760,0,CA-2017-133333
+United States,Office Supplies,Greensboro,43973,3.4000000000000004,CA-2015-133396
+United States,Office Supplies,Greenville,11887,1.1,CA-2016-123414
+United States,Office Supplies,Greenwood,28497,0,CA-2017-118213
+United States,Office Supplies,Gresham,12425,0.8999999999999999,CA-2014-125731
+United States,Office Supplies,Grove City,616,0.7,CA-2017-138611
+United States,Office Supplies,Gulfport,5857,0,CA-2016-109407
+United States,Office Supplies,Hackensack,2062,0,CA-2014-163552
+United States,Office Supplies,Hagerstown,9294,0,US-2017-116505
+United States,Office Supplies,Haltom City,20803,0.6000000000000001,CA-2015-121041
+United States,Office Supplies,Hamilton,5864,0.6000000000000001,CA-2014-140004
+United States,Office Supplies,Hampton,45028,0,CA-2014-114321
+United States,Office Supplies,Harlingen,8604,0.8,CA-2016-162082
+United States,Office Supplies,Harrisonburg,2312,0,CA-2014-136567
+United States,Office Supplies,Hattiesburg,31805,0,CA-2016-163776
+United States,Office Supplies,Helena,5152,0,CA-2017-169929
+United States,Office Supplies,Hempstead,34469,0.6000000000000001,CA-2014-113929
+United States,Office Supplies,Henderson,161827,0.2,CA-2014-129819
+United States,Office Supplies,Hendersonville,30770,1.8,CA-2016-118934
+United States,Office Supplies,Hesperia,324,0.2,CA-2016-162138
+United States,Office Supplies,Hialeah,59184,3.2,CA-2014-140165
+United States,Office Supplies,Hickory,8924,0.7,CA-2017-133928
+United States,Office Supplies,Highland Park,10547,1.8,CA-2016-153577
+United States,Office Supplies,Hillsboro,14637,0.8999999999999999,CA-2017-158120
+United States,Office Supplies,Holland,19822,0,CA-2015-169537
+United States,Office Supplies,Hollywood,62459,2.8,CA-2014-109043
+United States,Office Supplies,Homestead,9029,0.6000000000000001,CA-2017-167871
+United States,Office Supplies,Hoover,8409,0,CA-2017-122707
+United States,Office Supplies,Hot Springs,13435,0,CA-2016-134789
+United States,Office Supplies,Houston,1202495,94.19999999999975,CA-2014-100678
+United States,Office Supplies,Huntington Beach,16665,0,CA-2014-157623
+United States,Office Supplies,Huntsville,129219,5.999999999999999,CA-2014-103492
+United States,Office Supplies,Independence,3712,0,CA-2017-103877
+United States,Office Supplies,Indianapolis,91812,0,CA-2014-103100
+United States,Office Supplies,Inglewood,45576,0.2,CA-2017-118136
+United States,Office Supplies,Iowa City,4190,0,CA-2016-157714
+United States,Office Supplies,Irving,49428,2,CA-2016-104311
+United States,Office Supplies,Jackson,263223,1.4000000000000001,CA-2014-100762
+United States,Office Supplies,Jacksonville,348175,23.59999999999998,CA-2014-100293
+United States,Office Supplies,Johnson City,37304,3.5,CA-2014-116407
+United States,Office Supplies,Jonesboro,24725,0,CA-2016-117604
+United States,Office Supplies,Jupiter,5441,0.2,US-2017-153633
+United States,Office Supplies,Keller,1885,0.2,CA-2017-154718
+United States,Office Supplies,Kenner,6021,0,US-2016-156692
+United States,Office Supplies,Kenosha,3998,0,CA-2015-105627
+United States,Office Supplies,Kent,33604,0.8,CA-2014-159709
+United States,Office Supplies,Kirkwood,5155,0,US-2015-124219
+United States,Office Supplies,Knoxville,85576,3.8,CA-2014-152849
+United States,Office Supplies,La Crosse,10176,0,CA-2016-101448
+United States,Office Supplies,La Mesa,5636,0.2,CA-2017-123022
+United States,Office Supplies,La Porte,15531,0.8,CA-2016-126627
+United States,Office Supplies,Lafayette,108607,0,CA-2014-146997
+United States,Office Supplies,Laguna Niguel,13319,0,CA-2017-161459
+United States,Office Supplies,Lake Charles,9585,0,CA-2014-142727
+United States,Office Supplies,Lake Forest,29383,0,CA-2016-101672
+United States,Office Supplies,Lakeland,38362,3.3,CA-2014-103989
+United States,Office Supplies,Lakeville,12996,0,CA-2014-118339
+United States,Office Supplies,Lakewood,155601,4.6000000000000005,CA-2014-109302
+United States,Office Supplies,Lancaster,159884,9.8,CA-2014-115133
+United States,Office Supplies,Lansing,5568,0.1,CA-2015-112452
+United States,Office Supplies,Laredo,19405,2.6,CA-2014-104738
+United States,Office Supplies,Las Cruces,11862,0,CA-2015-129770
+United States,Office Supplies,Las Vegas,69887,0.8,CA-2014-102645
+United States,Office Supplies,Laurel,9133,0,CA-2017-100055
+United States,Office Supplies,Lawrence,164538,0,CA-2014-107153
+United States,Office Supplies,Lawton,20771,0,CA-2017-130211
+United States,Office Supplies,Layton,340,0,CA-2015-128167
+United States,Office Supplies,League City,29865,0.8,CA-2014-161508
+United States,Office Supplies,Lebanon,12599,0.4,CA-2015-114503
+United States,Office Supplies,Leominster,19661,0,CA-2015-117961
+United States,Office Supplies,Lewiston,14051,0.2,CA-2015-155054
+United States,Office Supplies,Lincoln Park,5244,0.1,CA-2015-168480
+United States,Office Supplies,Lindenhurst,471,0,CA-2015-154144
+United States,Office Supplies,Little Rock,83149,0,CA-2014-111500
+United States,Office Supplies,Lodi,19652,0,CA-2014-142979
+United States,Office Supplies,Logan,18716,0.4,CA-2014-114510
+United States,Office Supplies,Long Beach,257922,1,CA-2014-108147
+United States,Office Supplies,Longview,12427,0,CA-2017-149944
+United States,Office Supplies,Lorain,10128,1.3,CA-2016-118052
+United States,Office Supplies,Los Angeles,2243693,19.6,CA-2014-101931
+United States,Office Supplies,Louisville,161517,4.4,CA-2014-160094
+United States,Office Supplies,Loveland,21363,1.3,CA-2017-132738
+United States,Office Supplies,Lowell,34037,0,CA-2014-126403
+United States,Office Supplies,Lubbock,28620,2,CA-2015-109190
+United States,Office Supplies,Macon,8907,0,CA-2014-159184
+United States,Office Supplies,Madison,25834,0,CA-2014-105893
+United States,Office Supplies,Malden,4939,0,CA-2016-128111
+United States,Office Supplies,Manchester,40857,0,CA-2015-149601
+United States,Office Supplies,Mansfield,9601,0.2,CA-2017-107797
+United States,Office Supplies,Manteca,6697,0,CA-2014-140403
+United States,Office Supplies,Maple Grove,19586,0,CA-2017-150497
+United States,Office Supplies,Margate,4422,0.2,CA-2014-117016
+United States,Office Supplies,Marietta,20828,0,CA-2014-165806
+United States,Office Supplies,Marion,75484,1,CA-2015-101889
+United States,Office Supplies,Marysville,8582,0,CA-2016-127250
+United States,Office Supplies,Mason,19741,1.4,CA-2014-114195
+United States,Office Supplies,Mcallen,100582,6.3999999999999995,CA-2015-105613
+United States,Office Supplies,Medford,17177,1.3,CA-2015-101924
+United States,Office Supplies,Medina,6717,0.8999999999999999,CA-2014-129147
+United States,Office Supplies,Melbourne,44,0.2,CA-2017-139619
+United States,Office Supplies,Memphis,112281,6.000000000000001,CA-2014-107811
+United States,Office Supplies,Mentor,8952,0.4,CA-2017-121300
+United States,Office Supplies,Meriden,58605,0,CA-2014-141278
+United States,Office Supplies,Meridian,14961,0.2,CA-2017-163671
+United States,Office Supplies,Mesa,64411,6.300000000000001,CA-2014-101175
+United States,Office Supplies,Mesquite,9389,1.8,CA-2014-120544
+United States,Office Supplies,Miami,223353,14.799999999999995,CA-2014-101770
+United States,Office Supplies,Middletown,39105,0,CA-2016-122133
+United States,Office Supplies,Midland,56273,0.1,CA-2014-121006
+United States,Office Supplies,Milford,24147,0,CA-2016-146423
+United States,Office Supplies,Milwaukee,104730,0,CA-2015-106565
+United States,Office Supplies,Minneapolis,63965,0,CA-2014-116904
+United States,Office Supplies,Miramar,39820,1.5,CA-2017-104864
+United States,Office Supplies,Mishawaka,4215,0,CA-2016-164637
+United States,Office Supplies,Mission Viejo,10782,0,CA-2017-167913
+United States,Office Supplies,Missoula,1896,0.2,CA-2015-109197
+United States,Office Supplies,Missouri City,3193,0.8,CA-2017-158953
+United States,Office Supplies,Mobile,11362,0,CA-2016-108616
+United States,Office Supplies,Monroe,22620,0.4,CA-2016-115504
+United States,Office Supplies,Montgomery,11533,0,CA-2014-110408
+United States,Office Supplies,Moreno Valley,57745,0.2,CA-2014-133354
+United States,Office Supplies,Morgan Hill,15821,0,CA-2016-149762
+United States,Office Supplies,Morristown,29169,0,CA-2015-123113
+United States,Office Supplies,Mount Vernon,29805,0.2,CA-2014-103590
+United States,Office Supplies,Murfreesboro,43878,2.7,CA-2015-103870
+United States,Office Supplies,Murray,8358,0,CA-2014-129574
+United States,Office Supplies,Murrieta,1005,0,CA-2015-126445
+United States,Office Supplies,Muskogee,6573,0,CA-2017-150525
+United States,Office Supplies,Naperville,18269,2.8,CA-2014-112326
+United States,Office Supplies,Nashua,6724,0,US-2017-166394
+United States,Office Supplies,Nashville,126069,5.700000000000001,CA-2014-146731
+United States,Office Supplies,New Albany,101,0,CA-2015-115742
+United States,Office Supplies,New Bedford,19353,0,CA-2015-111297
+United States,Office Supplies,New Brunswick,1719,0,CA-2017-161984
+United States,Office Supplies,New Castle,2285,0,CA-2015-153108
+United States,Office Supplies,New Rochelle,39795,0.4,CA-2014-138198
+United States,Office Supplies,New York City,2680793,29,CA-2014-100328
+United States,Office Supplies,Newark,286246,4.2,CA-2014-103331
+United States,Office Supplies,Newport News,49067,0,CA-2014-100916
+United States,Office Supplies,Niagara Falls,2951,0.2,CA-2016-113138
+United States,Office Supplies,Noblesville,2916,0,CA-2015-134747
+United States,Office Supplies,Norfolk,5539,0,CA-2015-120551
+United States,Office Supplies,North Charleston,2449,0,CA-2015-128027
+United States,Office Supplies,North Las Vegas,50045,0.2,CA-2014-160262
+United States,Office Supplies,North Miami,12517,0.4,CA-2014-130918
+United States,Office Supplies,Norwich,14615,0,CA-2015-101000
+United States,Office Supplies,Oak Park,4860,0.2,CA-2017-136063
+United States,Office Supplies,Oakland,42937,0.4,CA-2014-113320
+United States,Office Supplies,Oceanside,52242,0.8,CA-2014-107916
+United States,Office Supplies,Odessa,21132,1.2000000000000002,CA-2016-116799
+United States,Office Supplies,Oklahoma City,60479,0,CA-2015-110863
+United States,Office Supplies,Olathe,12695,0,CA-2016-140774
+United States,Office Supplies,Olympia,4728,0,CA-2014-135608
+United States,Office Supplies,Omaha,92875,0,CA-2014-125514
+United States,Office Supplies,Orange,34718,0,CA-2014-119529
+United States,Office Supplies,Orem,31143,0.2,CA-2014-104472
+United States,Office Supplies,Orlando,51955,2.4,CA-2014-148425
+United States,Office Supplies,Ormond Beach,2121,0.7,US-2017-168690
+United States,Office Supplies,Oswego,28440,1.8,CA-2014-126193
+United States,Office Supplies,Overland Park,21981,0,CA-2016-144911
+United States,Office Supplies,Owensboro,11802,0,CA-2014-120432
+United States,Office Supplies,Oxnard,49827,0.4,CA-2015-148180
+United States,Office Supplies,Palm Coast,9000,1.5999999999999999,CA-2014-103317
+United States,Office Supplies,Park Ridge,5351,0.2,US-2017-103814
+United States,Office Supplies,Parker,7485,2.5,CA-2017-116946
+United States,Office Supplies,Parma,29872,1.2,CA-2016-124590
+United States,Office Supplies,Pasadena,83838,3.5999999999999996,CA-2014-105340
+United States,Office Supplies,Pasco,29208,0.2,CA-2014-107818
+United States,Office Supplies,Passaic,4888,0,CA-2016-146934
+United States,Office Supplies,Paterson,95459,0,CA-2015-125934
+United States,Office Supplies,Pearland,6423,1,US-2017-108245
+United States,Office Supplies,Pembroke Pines,44755,3.0999999999999996,CA-2016-116232
+United States,Office Supplies,Pensacola,4879,0.7,US-2016-131891
+United States,Office Supplies,Peoria,52778,5.8999999999999995,CA-2015-119627
+United States,Office Supplies,Perth Amboy,26066,0,CA-2015-152611
+United States,Office Supplies,Pharr,3017,0.2,US-2016-160528
+United States,Office Supplies,Philadelphia,1436121,105.90000000000018,CA-2014-101427
+United States,Office Supplies,Phoenix,172739,14.899999999999995,CA-2014-124079
+United States,Office Supplies,Pine Bluff,9254,0,CA-2017-102309
+United States,Office Supplies,Plainfield,58950,0,CA-2014-107594
+United States,Office Supplies,Plano,33996,2,CA-2014-166863
+United States,Office Supplies,Plantation,23639,2,CA-2015-113628
+United States,Office Supplies,Pleasant Grove,13954,0.4,CA-2014-126361
+United States,Office Supplies,Pocatello,24474,0.2,CA-2016-161361
+United States,Office Supplies,Pomona,12683,0,CA-2014-100860
+United States,Office Supplies,Pompano Beach,8377,0.2,CA-2017-156272
+United States,Office Supplies,Port Arthur,20170,0.8,CA-2014-126333
+United States,Office Supplies,Port Orange,1893,0.2,CA-2017-145310
+United States,Office Supplies,Port Saint Lucie,12264,0.8999999999999999,CA-2016-108567
+United States,Office Supplies,Portage,4341,0,US-2014-129609
+United States,Office Supplies,Portland,66591,4.1,CA-2014-148915
+United States,Office Supplies,Providence,89311,0,CA-2014-133592
+United States,Office Supplies,Provo,23564,0.6000000000000001,CA-2014-104829
+United States,Office Supplies,Pueblo,27114,3.2,CA-2015-107741
+United States,Office Supplies,Quincy,47104,3.4000000000000004,CA-2015-103961
+United States,Office Supplies,Raleigh,71513,3.5,CA-2015-110345
+United States,Office Supplies,Rancho Cucamonga,18032,0.2,CA-2014-130729
+United States,Office Supplies,Rapid City,8150,0,CA-2014-167997
+United States,Office Supplies,Reading,10747,0.4,CA-2015-125178
+United States,Office Supplies,Redlands,40356,0.2,CA-2015-131457
+United States,Office Supplies,Redmond,31382,1.8,CA-2016-167507
+United States,Office Supplies,Redondo Beach,23849,0.4,CA-2014-128538
+United States,Office Supplies,Redwood City,6116,0.2,CA-2016-133802
+United States,Office Supplies,Reno,11013,0.2,CA-2017-160395
+United States,Office Supplies,Renton,12728,0.2,CA-2017-110443
+United States,Office Supplies,Revere,29570,0,CA-2014-138359
+United States,Office Supplies,Richmond,338964,0,CA-2014-102274
+United States,Office Supplies,Riverside,68043,0.4,CA-2014-127866
+United States,Office Supplies,Rochester,142408,1.4,CA-2014-113362
+United States,Office Supplies,Rock Hill,3745,0,CA-2014-113047
+United States,Office Supplies,Rockford,50318,4.6,CA-2015-139738
+United States,Office Supplies,Rockville,16379,0,CA-2015-140375
+United States,Office Supplies,Rogers,5387,0,CA-2017-152786
+United States,Office Supplies,Rome,23534,0,CA-2016-101329
+United States,Office Supplies,Romeoville,8981,0.8,CA-2014-108182
+United States,Office Supplies,Roseville,113717,0.4,CA-2015-121783
+United States,Office Supplies,Roswell,37874,0,CA-2014-100895
+United States,Office Supplies,Round Rock,11353,0.6000000000000001,CA-2016-103982
+United States,Office Supplies,Royal Oak,6124,0,CA-2015-144190
+United States,Office Supplies,Sacramento,38082,0.8,CA-2015-168767
+United States,Office Supplies,Saginaw,837,0,CA-2017-135860
+United States,Office Supplies,Saint Charles,26479,0.2,CA-2015-115168
+United States,Office Supplies,Saint Louis,27396,0,CA-2014-164861
+United States,Office Supplies,Saint Paul,99,0,CA-2016-149223
+United States,Office Supplies,Saint Petersburg,68369,2.5999999999999996,CA-2014-123400
+United States,Office Supplies,Salem,131097,5.500000000000001,CA-2014-129364
+United States,Office Supplies,Salinas,9603,0.6000000000000001,CA-2016-152534
+United States,Office Supplies,Salt Lake City,39077,0.6000000000000001,CA-2014-100972
+United States,Office Supplies,San Angelo,8113,0.8,CA-2016-130393
+United States,Office Supplies,San Antonio,127292,14.800000000000006,CA-2014-139892
+United States,Office Supplies,San Bernardino,44437,0.8,CA-2015-104948
+United States,Office Supplies,San Clemente,19337,0.2,CA-2016-126270
+United States,Office Supplies,San Diego,419704,4.000000000000001,CA-2014-104780
+United States,Office Supplies,San Francisco,1555392,14.8,CA-2014-100090
+United States,Office Supplies,San Gabriel,4377,0,CA-2014-166954
+United States,Office Supplies,San Jose,150943,1.7999999999999998,CA-2014-103310
+United States,Office Supplies,San Luis Obispo,9702,0,CA-2016-105291
+United States,Office Supplies,San Marcos,17166,0.4,CA-2014-130673
+United States,Office Supplies,San Mateo,3216,0,CA-2017-150189
+United States,Office Supplies,Sandy Springs,61428,0,CA-2014-103807
+United States,Office Supplies,Sanford,8564,0.7,US-2017-108315
+United States,Office Supplies,Santa Ana,50777,0,CA-2015-154340
+United States,Office Supplies,Santa Barbara,30558,0,CA-2015-132388
+United States,Office Supplies,Santa Clara,36388,0.4,CA-2014-109918
+United States,Office Supplies,Santa Fe,9306,0,CA-2015-137603
+United States,Office Supplies,Santa Maria,6140,0,US-2015-113593
+United States,Office Supplies,Scottsdale,30998,2.5999999999999996,CA-2014-146591
+United States,Office Supplies,Seattle,1233067,15,CA-2014-101392
+United States,Office Supplies,Sheboygan,23967,0,US-2016-117793
+United States,Office Supplies,Shelton,8385,0,CA-2016-145135
+United States,Office Supplies,Sierra Vista,1295,0.4,CA-2016-103947
+United States,Office Supplies,Sioux Falls,15390,0,CA-2014-115980
+United States,Office Supplies,Skokie,26339,3.2,CA-2014-162866
+United States,Office Supplies,Smyrna,77427,2,CA-2015-103772
+United States,Office Supplies,South Bend,9264,0,CA-2015-160472
+United States,Office Supplies,Southaven,20129,0,CA-2014-104283
+United States,Office Supplies,Sparks,12542,0,CA-2015-105844
+United States,Office Supplies,Spokane,24863,0,CA-2015-102855
+United States,Office Supplies,Springdale,9761,0,CA-2017-159135
+United States,Office Supplies,Springfield,492430,12.999999999999998,CA-2014-101266
+United States,Office Supplies,Sterling Heights,10267,0,CA-2015-130610
+United States,Office Supplies,Stockton,16178,0.4,CA-2016-112893
+United States,Office Supplies,Suffolk,40521,0,CA-2015-104038
+United States,Office Supplies,Summerville,2594,0,CA-2017-128300
+United States,Office Supplies,Sunnyvale,27142,0.2,CA-2017-137463
+United States,Office Supplies,Superior,47557,0,CA-2015-153612
+United States,Office Supplies,Tallahassee,63064,3,CA-2015-110247
+United States,Office Supplies,Tamarac,7121,1.8,CA-2015-133977
+United States,Office Supplies,Tampa,104144,8.4,CA-2014-130428
+United States,Office Supplies,Taylor,306,0,CA-2014-130960
+United States,Office Supplies,Temecula,3289,0.2,CA-2015-157770
+United States,Office Supplies,Tempe,22862,2.0999999999999996,CA-2014-108189
+United States,Office Supplies,The Colony,12871,0.4,CA-2016-121601
+United States,Office Supplies,Thomasville,6851,1.1,CA-2016-121958
+United States,Office Supplies,Thornton,32077,0.8,CA-2015-128356
+United States,Office Supplies,Thousand Oaks,16477,0,CA-2015-148628
+United States,Office Supplies,Tigard,11436,1.3,CA-2014-168984
+United States,Office Supplies,Toledo,77221,7.200000000000001,CA-2015-128608
+United States,Office Supplies,Torrance,7781,0.2,CA-2016-142958
+United States,Office Supplies,Trenton,25524,0.1,CA-2014-124478
+United States,Office Supplies,Troy,75052,3.8,CA-2014-122070
+United States,Office Supplies,Tucson,49654,5.300000000000001,CA-2014-138681
+United States,Office Supplies,Tulsa,83984,0,CA-2014-117765
+United States,Office Supplies,Tuscaloosa,4937,0,CA-2017-150931
+United States,Office Supplies,Twin Falls,8783,0.2,CA-2016-116911
+United States,Office Supplies,Tyler,2194,2.4000000000000004,US-2014-115987
+United States,Office Supplies,Urbandale,4452,0,CA-2016-128867
+United States,Office Supplies,Utica,23274,0.4,CA-2014-124730
+United States,Office Supplies,Vacaville,2751,0,CA-2014-154669
+United States,Office Supplies,Vallejo,8836,0.6000000000000001,CA-2014-153479
+United States,Office Supplies,Vancouver,1001,0,CA-2016-155488
+United States,Office Supplies,Vineland,25209,0,CA-2015-116260
+United States,Office Supplies,Virginia Beach,41370,0,CA-2014-117639
+United States,Office Supplies,Visalia,22395,0,CA-2016-103709
+United States,Office Supplies,Waco,33377,2.8,CA-2016-117408
+United States,Office Supplies,Warner Robins,2341,0,CA-2016-137736
+United States,Office Supplies,Warwick,5154,0,CA-2016-127642
+United States,Office Supplies,Washington,12384,0,CA-2015-124450
+United States,Office Supplies,Waterbury,44626,0,CA-2016-133613
+United States,Office Supplies,Waterloo,6231,0,CA-2017-127656
+United States,Office Supplies,Watertown,32891,0.4,CA-2014-127523
+United States,Office Supplies,Waukesha,2772,0,CA-2016-163986
+United States,Office Supplies,Wausau,19330,0,CA-2014-120278
+United States,Office Supplies,Waynesboro,12881,0,CA-2015-137974
+United States,Office Supplies,West Allis,3764,0,CA-2016-156251
+United States,Office Supplies,West Jordan,9082,0.2,CA-2014-167164
+United States,Office Supplies,West Palm Beach,17117,0.4,CA-2015-128958
+United States,Office Supplies,Westfield,5955,0,CA-2016-152072
+United States,Office Supplies,Westland,51359,0.1,CA-2014-146703
+United States,Office Supplies,Westminster,79215,0.6000000000000001,CA-2017-119914
+United States,Office Supplies,Wheeling,33277,0.2,CA-2017-110940
+United States,Office Supplies,Wichita,23433,0,CA-2016-122017
+United States,Office Supplies,Wilmington,127514,2.0999999999999996,CA-2014-152254
+United States,Office Supplies,Wilson,40741,2,CA-2015-125696
+United States,Office Supplies,Woodbury,19436,0,CA-2015-149811
+United States,Office Supplies,Woodland,6379,0.2,US-2017-146416
+United States,Office Supplies,Woodstock,15337,1,CA-2014-153927
+United States,Office Supplies,Woonsocket,15458,0,CA-2015-119102
+United States,Office Supplies,Yonkers,43891,0.6000000000000001,CA-2014-135755
+United States,Office Supplies,York,21246,1.8,CA-2017-169404
+United States,Office Supplies,Yucaipa,3348,0,CA-2015-112014
+United States,Office Supplies,Yuma,12911,0.8999999999999999,CA-2016-106621
