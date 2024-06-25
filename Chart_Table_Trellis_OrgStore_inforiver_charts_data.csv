@@ -1,0 +1,856 @@
+Orders.Category,Orders.City,CountNonNull(Orders.Row ID),
+Furniture,Akron,3655,NaN
+Furniture,Alexandria,10810,NaN
+Furniture,Allen,2975,NaN
+Furniture,Allentown,1528,NaN
+Furniture,Amarillo,18444,NaN
+Furniture,Anaheim,64749,NaN
+Furniture,Andover,8333,NaN
+Furniture,Apopka,5688,NaN
+Furniture,Apple Valley,11855,NaN
+Furniture,Arlington,56124,NaN
+Furniture,Arvada,933,NaN
+Furniture,Athens,8357,NaN
+Furniture,Atlanta,24333,NaN
+Furniture,Auburn,4805,NaN
+Furniture,Aurora,89080,NaN
+Furniture,Austin,15572,NaN
+Furniture,Bakersfield,32345,NaN
+Furniture,Baltimore,66857,NaN
+Furniture,Bangor,2257,NaN
+Furniture,Beaumont,9832,NaN
+Furniture,Belleville,8463,NaN
+Furniture,Bellevue,7295,NaN
+Furniture,Bellingham,2568,NaN
+Furniture,Bethlehem,19143,NaN
+Furniture,Bloomington,12684,NaN
+Furniture,Boise,4193,NaN
+Furniture,Bossier City,7665,NaN
+Furniture,Bowling Green,1842,NaN
+Furniture,Boynton Beach,11014,NaN
+Furniture,Brentwood,1985,NaN
+Furniture,Bristol,7197,NaN
+Furniture,Broken Arrow,9494,NaN
+Furniture,Broomfield,11495,NaN
+Furniture,Brownsville,10656,NaN
+Furniture,Bryan,9920,NaN
+Furniture,Buffalo,35062,NaN
+Furniture,Buffalo Grove,5751,NaN
+Furniture,Bullhead City,4337,NaN
+Furniture,Burbank,7328,NaN
+Furniture,Burlington,28495,NaN
+Furniture,Caldwell,5999,NaN
+Furniture,Camarillo,29622,NaN
+Furniture,Cambridge,8044,NaN
+Furniture,Canton,426,NaN
+Furniture,Carol Stream,6979,NaN
+Furniture,Carrollton,11505,NaN
+Furniture,Champaign,3865,NaN
+Furniture,Chandler,19338,NaN
+Furniture,Charlotte,38222,NaN
+Furniture,Charlottesville,6674,NaN
+Furniture,Chattanooga,23632,NaN
+Furniture,Chesapeake,18379,NaN
+Furniture,Chester,10557,NaN
+Furniture,Cheyenne,5870,NaN
+Furniture,Chicago,341690,NaN
+Furniture,Chico,36456,NaN
+Furniture,Chula Vista,3778,NaN
+Furniture,Cincinnati,2161,NaN
+Furniture,Citrus Heights,4296,NaN
+Furniture,Clarksville,16942,NaN
+Furniture,Cleveland,39919,NaN
+Furniture,Clifton,7983,NaN
+Furniture,Clinton,47461,NaN
+Furniture,College Station,2151,NaN
+Furniture,Colorado Springs,26399,NaN
+Furniture,Columbia,89970,NaN
+Furniture,Columbus,231436,NaN
+Furniture,Concord,53951,NaN
+Furniture,Conway,5860,NaN
+Furniture,Coral Gables,8923,NaN
+Furniture,Coral Springs,11727,NaN
+Furniture,Corpus Christi,14013,NaN
+Furniture,Costa Mesa,18992,NaN
+Furniture,Covington,7439,NaN
+Furniture,Cranston,50623,NaN
+Furniture,Cuyahoga Falls,1152,NaN
+Furniture,Dallas,174159,NaN
+Furniture,Danbury,8392,NaN
+Furniture,Danville,4589,NaN
+Furniture,Daytona Beach,8207,NaN
+Furniture,Dearborn,6261,NaN
+Furniture,Dearborn Heights,3474,NaN
+Furniture,Decatur,56689,NaN
+Furniture,Deltona,5106,NaN
+Furniture,Denver,61282,NaN
+Furniture,Des Moines,17686,NaN
+Furniture,Des Plaines,21900,NaN
+Furniture,Detroit,110700,NaN
+Furniture,Dover,15772,NaN
+Furniture,Draper,5547,NaN
+Furniture,Dublin,1951,NaN
+Furniture,Dubuque,3427,NaN
+Furniture,Durham,8195,NaN
+Furniture,East Point,8077,NaN
+Furniture,Eau Claire,18325,NaN
+Furniture,Edmonds,15596,NaN
+Furniture,El Cajon,15119,NaN
+Furniture,El Paso,28644,NaN
+Furniture,Elmhurst,6548,NaN
+Furniture,Encinitas,3936,NaN
+Furniture,Eugene,12616,NaN
+Furniture,Evanston,1351,NaN
+Furniture,Everett,38815,NaN
+Furniture,Fairfield,50384,NaN
+Furniture,Farmington,2437,NaN
+Furniture,Fayetteville,40302,NaN
+Furniture,Florence,8272,NaN
+Furniture,Fort Collins,16842,NaN
+Furniture,Fort Lauderdale,28446,NaN
+Furniture,Fort Worth,10949,NaN
+Furniture,Franklin,51826,NaN
+Furniture,Freeport,17672,NaN
+Furniture,Fremont,4104,NaN
+Furniture,Fresno,30377,NaN
+Furniture,Frisco,8518,NaN
+Furniture,Gaithersburg,4919,NaN
+Furniture,Garland,5305,NaN
+Furniture,Georgetown,6037,NaN
+Furniture,Gilbert,30723,NaN
+Furniture,Gladstone,511,NaN
+Furniture,Glendale,18165,NaN
+Furniture,Grand Prairie,15691,NaN
+Furniture,Greeley,8593,NaN
+Furniture,Green Bay,18655,NaN
+Furniture,Greensboro,20328,NaN
+Furniture,Greenville,15069,NaN
+Furniture,Greenwood,3940,NaN
+Furniture,Gresham,10559,NaN
+Furniture,Gulfport,3312,NaN
+Furniture,Hackensack,2377,NaN
+Furniture,Hamilton,4419,NaN
+Furniture,Hampton,31028,NaN
+Furniture,Harlingen,3929,NaN
+Furniture,Harrisonburg,12958,NaN
+Furniture,Hattiesburg,11975,NaN
+Furniture,Helena,7276,NaN
+Furniture,Hempstead,10126,NaN
+Furniture,Henderson,52309,NaN
+Furniture,Hendersonville,6223,NaN
+Furniture,Hesperia,10991,NaN
+Furniture,Hialeah,25191,NaN
+Furniture,Highland Park,11675,NaN
+Furniture,Hillsboro,8743,NaN
+Furniture,Hollywood,9042,NaN
+Furniture,Holyoke,2416,NaN
+Furniture,Hot Springs,6719,NaN
+Furniture,Houston,478710,NaN
+Furniture,Huntsville,66987,NaN
+Furniture,Indianapolis,9948,NaN
+Furniture,Inglewood,10932,NaN
+Furniture,Jackson,60680,NaN
+Furniture,Jacksonville,136548,NaN
+Furniture,Jefferson City,1037,NaN
+Furniture,Jonesboro,6340,NaN
+Furniture,Kenosha,11990,NaN
+Furniture,Kent,1621,NaN
+Furniture,Kirkwood,5156,NaN
+Furniture,Knoxville,58000,NaN
+Furniture,La Crosse,11245,NaN
+Furniture,La Porte,13332,NaN
+Furniture,Lafayette,44109,NaN
+Furniture,Laguna Niguel,1535,NaN
+Furniture,Lake Charles,2891,NaN
+Furniture,Lake Elsinore,800,NaN
+Furniture,Lake Forest,13636,NaN
+Furniture,Lakeland,27763,NaN
+Furniture,Lakeville,6795,NaN
+Furniture,Lakewood,79345,NaN
+Furniture,Lancaster,35579,NaN
+Furniture,Lansing,5291,NaN
+Furniture,Laredo,2166,NaN
+Furniture,Las Cruces,2803,NaN
+Furniture,Las Vegas,11024,NaN
+Furniture,Laurel,9132,NaN
+Furniture,Lawrence,46300,NaN
+Furniture,Lawton,4479,NaN
+Furniture,League City,13232,NaN
+Furniture,Lincoln Park,3031,NaN
+Furniture,Little Rock,2201,NaN
+Furniture,Littleton,2226,NaN
+Furniture,Long Beach,41824,NaN
+Furniture,Longmont,15065,NaN
+Furniture,Longview,6970,NaN
+Furniture,Lorain,9871,NaN
+Furniture,Los Angeles,776489,"776489,948974,1725463"
+Furniture,Louisville,90063,NaN
+Furniture,Lowell,18683,NaN
+Furniture,Lubbock,6082,NaN
+Furniture,Macon,3623,NaN
+Furniture,Madison,7523,NaN
+Furniture,Malden,2544,NaN
+Furniture,Manchester,370,NaN
+Furniture,Mansfield,8678,NaN
+Furniture,Manteca,4533,NaN
+Furniture,Marietta,4887,NaN
+Furniture,Marion,37983,NaN
+Furniture,Marlborough,18057,NaN
+Furniture,Mason,9869,NaN
+Furniture,Mcallen,9301,NaN
+Furniture,Medina,5508,NaN
+Furniture,Memphis,36101,NaN
+Furniture,Mentor,13422,NaN
+Furniture,Meriden,5867,NaN
+Furniture,Meridian,3051,NaN
+Furniture,Mesa,33218,NaN
+Furniture,Mesquite,3708,NaN
+Furniture,Miami,43952,NaN
+Furniture,Middletown,3755,NaN
+Furniture,Midland,5168,NaN
+Furniture,Milford,11468,NaN
+Furniture,Milwaukee,83082,NaN
+Furniture,Minneapolis,18731,NaN
+Furniture,Miramar,12715,NaN
+Furniture,Mishawaka,2496,NaN
+Furniture,Mission Viejo,3366,NaN
+Furniture,Mobile,11118,NaN
+Furniture,Modesto,8125,NaN
+Furniture,Monroe,32827,NaN
+Furniture,Montgomery,20614,NaN
+Furniture,Moorhead,2093,NaN
+Furniture,Moreno Valley,18699,NaN
+Furniture,Morgan Hill,15821,NaN
+Furniture,Morristown,5646,NaN
+Furniture,Mount Pleasant,7610,NaN
+Furniture,Murfreesboro,17783,NaN
+Furniture,Murray,3009,NaN
+Furniture,Muskogee,1832,NaN
+Furniture,Naperville,6899,NaN
+Furniture,Nashua,6032,NaN
+Furniture,Nashville,30005,NaN
+Furniture,New Albany,105,NaN
+Furniture,New Rochelle,8695,NaN
+Furniture,New York City,948974,"948974,0,948974"
+Furniture,Newark,90826,NaN
+Furniture,Newport News,7573,NaN
+Furniture,Noblesville,8469,NaN
+Furniture,Normal,7002,NaN
+Furniture,North Charleston,6909,NaN
+Furniture,North Las Vegas,23420,NaN
+Furniture,Norwich,913,NaN
+Furniture,Oak Park,10743,NaN
+Furniture,Oakland,40095,NaN
+Furniture,Oceanside,35295,NaN
+Furniture,Odessa,9035,NaN
+Furniture,Oklahoma City,34267,NaN
+Furniture,Olathe,5452,NaN
+Furniture,Olympia,4728,NaN
+Furniture,Omaha,15775,NaN
+Furniture,Ontario,2072,NaN
+Furniture,Orem,3304,NaN
+Furniture,Orlando,6492,NaN
+Furniture,Oxnard,15483,NaN
+Furniture,Palm Coast,10876,NaN
+Furniture,Park Ridge,468,NaN
+Furniture,Parker,11449,NaN
+Furniture,Parma,23238,NaN
+Furniture,Pasadena,58345,NaN
+Furniture,Pasco,4851,NaN
+Furniture,Passaic,2442,NaN
+Furniture,Paterson,50958,NaN
+Furniture,Pembroke Pines,6867,NaN
+Furniture,Peoria,26409,NaN
+Furniture,Perth Amboy,9201,NaN
+Furniture,Pharr,10863,NaN
+Furniture,Philadelphia,537663,"537663,1725463,2263126"
+Furniture,Phoenix,64365,NaN
+Furniture,Pico Rivera,1369,NaN
+Furniture,Plano,17253,NaN
+Furniture,Plantation,14941,NaN
+Furniture,Pocatello,12107,NaN
+Furniture,Pomona,11645,NaN
+Furniture,Pompano Beach,2779,NaN
+Furniture,Port Arthur,4285,NaN
+Furniture,Port Saint Lucie,4000,NaN
+Furniture,Portland,26570,NaN
+Furniture,Providence,36471,NaN
+Furniture,Provo,4030,NaN
+Furniture,Quincy,7195,NaN
+Furniture,Raleigh,27061,NaN
+Furniture,Rapid City,8151,NaN
+Furniture,Reading,20341,NaN
+Furniture,Redlands,4228,NaN
+Furniture,Redmond,7948,NaN
+Furniture,Redondo Beach,2797,NaN
+Furniture,Revere,3467,NaN
+Furniture,Richardson,37,NaN
+Furniture,Richmond,84139,NaN
+Furniture,Rio Rancho,13419,NaN
+Furniture,Rochester,42301,NaN
+Furniture,Rockford,9973,NaN
+Furniture,Rockville,1178,NaN
+Furniture,Rome,12354,NaN
+Furniture,Roseville,13582,NaN
+Furniture,Roswell,5152,NaN
+Furniture,Round Rock,4272,NaN
+Furniture,Sacramento,25676,NaN
+Furniture,Saginaw,2930,NaN
+Furniture,Saint Charles,30545,NaN
+Furniture,Saint Cloud,3496,NaN
+Furniture,Saint Peters,1041,NaN
+Furniture,Saint Petersburg,18887,NaN
+Furniture,Salem,25125,NaN
+Furniture,Salinas,7014,NaN
+Furniture,San Angelo,18398,NaN
+Furniture,San Antonio,49052,NaN
+Furniture,San Bernardino,9932,NaN
+Furniture,San Diego,225136,NaN
+Furniture,San Francisco,468695,NaN
+Furniture,San Gabriel,8754,NaN
+Furniture,San Jose,54300,NaN
+Furniture,San Marcos,8581,NaN
+Furniture,Sandy Springs,12656,NaN
+Furniture,Sanford,8565,NaN
+Furniture,Santa Ana,14256,NaN
+Furniture,Santa Barbara,9913,NaN
+Furniture,Scottsdale,8008,NaN
+Furniture,Seattle,530477,NaN
+Furniture,Sierra Vista,6043,NaN
+Furniture,Sioux Falls,2317,NaN
+Furniture,Skokie,16394,NaN
+Furniture,Smyrna,9504,NaN
+Furniture,Southaven,2278,NaN
+Furniture,Spokane,8280,NaN
+Furniture,Springfield,143486,NaN
+Furniture,Stockton,8889,NaN
+Furniture,Suffolk,9457,NaN
+Furniture,Sunnyvale,2122,NaN
+Furniture,Superior,7255,NaN
+Furniture,Tallahassee,7470,NaN
+Furniture,Tampa,41915,NaN
+Furniture,Taylor,5163,NaN
+Furniture,Tempe,2886,NaN
+Furniture,Texarkana,5234,NaN
+Furniture,Texas City,22145,NaN
+Furniture,Thornton,23661,NaN
+Furniture,Thousand Oaks,6837,NaN
+Furniture,Tigard,7414,NaN
+Furniture,Tinley Park,3403,NaN
+Furniture,Toledo,16128,NaN
+Furniture,Torrance,943,NaN
+Furniture,Trenton,5823,NaN
+Furniture,Troy,51903,NaN
+Furniture,Tucson,38238,NaN
+Furniture,Tulsa,37552,NaN
+Furniture,Tuscaloosa,7151,NaN
+Furniture,Twin Falls,8784,NaN
+Furniture,Tyler,679,NaN
+Furniture,Utica,8807,NaN
+Furniture,Vallejo,639,NaN
+Furniture,Vancouver,2143,NaN
+Furniture,Vineland,13162,NaN
+Furniture,Virginia Beach,40655,NaN
+Furniture,Waco,5176,NaN
+Furniture,Warner Robins,636,NaN
+Furniture,Washington,4511,NaN
+Furniture,Waterbury,4707,NaN
+Furniture,Watertown,9350,NaN
+Furniture,Waynesboro,17973,NaN
+Furniture,West Allis,3763,NaN
+Furniture,West Jordan,3022,NaN
+Furniture,Westfield,8420,NaN
+Furniture,Westland,12661,NaN
+Furniture,Westminster,33368,NaN
+Furniture,Wheeling,14670,NaN
+Furniture,Wichita,5363,NaN
+Furniture,Wilmington,22529,NaN
+Furniture,Wilson,6702,NaN
+Furniture,Woodstock,2845,NaN
+Furniture,Woonsocket,3990,NaN
+Furniture,Yonkers,6380,NaN
+Furniture,York,2146,NaN
+Office Supplies,Aberdeen,9261,NaN
+Office Supplies,Abilene,6990,NaN
+Office Supplies,Akron,58854,NaN
+Office Supplies,Albuquerque,45841,NaN
+Office Supplies,Alexandria,28642,NaN
+Office Supplies,Allen,4544,NaN
+Office Supplies,Allentown,38288,NaN
+Office Supplies,Altoona,7585,NaN
+Office Supplies,Amarillo,17802,NaN
+Office Supplies,Anaheim,116281,NaN
+Office Supplies,Andover,25001,NaN
+Office Supplies,Ann Arbor,17072,NaN
+Office Supplies,Antioch,1133,NaN
+Office Supplies,Apopka,24642,NaN
+Office Supplies,Apple Valley,31389,NaN
+Office Supplies,Appleton,1553,NaN
+Office Supplies,Arlington,197509,NaN
+Office Supplies,Arlington Heights,9400,NaN
+Office Supplies,Arvada,313,NaN
+Office Supplies,Asheville,26799,NaN
+Office Supplies,Athens,23273,NaN
+Office Supplies,Atlanta,132013,NaN
+Office Supplies,Atlantic City,7505,NaN
+Office Supplies,Auburn,67169,NaN
+Office Supplies,Aurora,174965,NaN
+Office Supplies,Austin,128293,NaN
+Office Supplies,Avondale,27501,NaN
+Office Supplies,Bakersfield,46504,NaN
+Office Supplies,Baltimore,129270,NaN
+Office Supplies,Bangor,18315,NaN
+Office Supplies,Bartlett,6067,NaN
+Office Supplies,Bayonne,1696,NaN
+Office Supplies,Baytown,3901,NaN
+Office Supplies,Beaumont,16404,NaN
+Office Supplies,Bedford,18206,NaN
+Office Supplies,Belleville,18686,NaN
+Office Supplies,Bellevue,21296,NaN
+Office Supplies,Bellingham,2567,NaN
+Office Supplies,Bethlehem,17267,NaN
+Office Supplies,Beverly,18891,NaN
+Office Supplies,Billings,3028,NaN
+Office Supplies,Bloomington,58532,NaN
+Office Supplies,Boca Raton,8956,NaN
+Office Supplies,Boise,4466,NaN
+Office Supplies,Bolingbrook,16277,NaN
+Office Supplies,Bossier City,3064,NaN
+Office Supplies,Bowling Green,36014,NaN
+Office Supplies,Boynton Beach,16395,NaN
+Office Supplies,Bozeman,4075,NaN
+Office Supplies,Brentwood,66193,NaN
+Office Supplies,Bridgeton,3073,NaN
+Office Supplies,Bristol,36131,NaN
+Office Supplies,Broken Arrow,20858,NaN
+Office Supplies,Broomfield,5817,NaN
+Office Supplies,Brownsville,23586,NaN
+Office Supplies,Bryan,46823,NaN
+Office Supplies,Buffalo,12944,NaN
+Office Supplies,Bullhead City,4336,NaN
+Office Supplies,Burbank,7330,NaN
+Office Supplies,Burlington,99005,NaN
+Office Supplies,Caldwell,12001,NaN
+Office Supplies,Camarillo,7214,NaN
+Office Supplies,Cambridge,23760,NaN
+Office Supplies,Canton,4275,NaN
+Office Supplies,Carlsbad,39294,NaN
+Office Supplies,Carol Stream,10476,NaN
+Office Supplies,Carrollton,33974,NaN
+Office Supplies,Cary,6854,NaN
+Office Supplies,Cedar Hill,11553,NaN
+Office Supplies,Chandler,28191,NaN
+Office Supplies,Chapel Hill,267,NaN
+Office Supplies,Charlotte,150399,NaN
+Office Supplies,Charlottesville,1895,NaN
+Office Supplies,Chattanooga,26565,NaN
+Office Supplies,Chesapeake,52208,NaN
+Office Supplies,Chester,20313,NaN
+Office Supplies,Chicago,1023797,NaN
+Office Supplies,Chico,33264,NaN
+Office Supplies,Chula Vista,10899,NaN
+Office Supplies,Cincinnati,33964,NaN
+Office Supplies,Clarksville,19521,NaN
+Office Supplies,Cleveland,149312,NaN
+Office Supplies,Clifton,7982,NaN
+Office Supplies,Clinton,76968,NaN
+Office Supplies,Clovis,5412,NaN
+Office Supplies,Coachella,2420,NaN
+Office Supplies,College Station,7091,NaN
+Office Supplies,Colorado Springs,66308,NaN
+Office Supplies,Columbia,288656,NaN
+Office Supplies,Columbus,676682,NaN
+Office Supplies,Commerce City,6604,NaN
+Office Supplies,Concord,83277,NaN
+Office Supplies,Conroe,3378,NaN
+Office Supplies,Coon Rapids,9648,NaN
+Office Supplies,Coppell,4491,NaN
+Office Supplies,Coral Springs,17195,NaN
+Office Supplies,Corpus Christi,34396,NaN
+Office Supplies,Costa Mesa,13209,NaN
+Office Supplies,Cottage Grove,757,NaN
+Office Supplies,Covington,8065,NaN
+Office Supplies,Cranston,53163,NaN
+Office Supplies,Cuyahoga Falls,15908,NaN
+Office Supplies,Dallas,529214,NaN
+Office Supplies,Danville,27694,NaN
+Office Supplies,Davis,7889,NaN
+Office Supplies,Daytona Beach,12543,NaN
+Office Supplies,Dearborn,1875,NaN
+Office Supplies,Dearborn Heights,38034,NaN
+Office Supplies,Decatur,109368,NaN
+Office Supplies,Deer Park,4139,NaN
+Office Supplies,Delray Beach,15867,NaN
+Office Supplies,Deltona,3479,NaN
+Office Supplies,Denver,64346,NaN
+Office Supplies,Des Moines,40865,NaN
+Office Supplies,Des Plaines,14605,NaN
+Office Supplies,Detroit,349582,NaN
+Office Supplies,Dover,49235,NaN
+Office Supplies,Dublin,17311,NaN
+Office Supplies,Dubuque,3426,NaN
+Office Supplies,Durham,41900,NaN
+Office Supplies,Eagan,13621,NaN
+Office Supplies,East Orange,39254,NaN
+Office Supplies,East Point,8078,NaN
+Office Supplies,Eau Claire,17194,NaN
+Office Supplies,Edinburg,16012,NaN
+Office Supplies,Edmond,159,NaN
+Office Supplies,Edmonds,50874,NaN
+Office Supplies,El Paso,79075,NaN
+Office Supplies,Elkhart,4373,NaN
+Office Supplies,Elmhurst,11394,NaN
+Office Supplies,Elyria,8716,NaN
+Office Supplies,Encinitas,3934,NaN
+Office Supplies,Englewood,2692,NaN
+Office Supplies,Escondido,14523,NaN
+Office Supplies,Eugene,25235,NaN
+Office Supplies,Everett,74506,NaN
+Office Supplies,Fairfield,147362,NaN
+Office Supplies,Fargo,36796,NaN
+Office Supplies,Farmington,2094,NaN
+Office Supplies,Fayetteville,129992,NaN
+Office Supplies,Florence,39390,NaN
+Office Supplies,Fort Collins,16255,NaN
+Office Supplies,Fort Lauderdale,27784,NaN
+Office Supplies,Fort Worth,70036,NaN
+Office Supplies,Frankfort,12097,NaN
+Office Supplies,Franklin,91300,NaN
+Office Supplies,Freeport,29077,NaN
+Office Supplies,Fremont,23791,NaN
+Office Supplies,Fresno,90745,NaN
+Office Supplies,Garden City,30956,NaN
+Office Supplies,Garland,9721,NaN
+Office Supplies,Gastonia,863,NaN
+Office Supplies,Georgetown,41845,NaN
+Office Supplies,Gilbert,28122,NaN
+Office Supplies,Glendale,68232,NaN
+Office Supplies,Goldsboro,6720,NaN
+Office Supplies,Grand Island,5324,NaN
+Office Supplies,Grand Prairie,17908,NaN
+Office Supplies,Grand Rapids,44421,NaN
+Office Supplies,Grapevine,3183,NaN
+Office Supplies,Great Falls,15501,NaN
+Office Supplies,Greeley,8592,NaN
+Office Supplies,Green Bay,760,NaN
+Office Supplies,Greensboro,43973,NaN
+Office Supplies,Greenville,11887,NaN
+Office Supplies,Greenwood,28497,NaN
+Office Supplies,Gresham,12425,NaN
+Office Supplies,Grove City,616,NaN
+Office Supplies,Gulfport,5857,NaN
+Office Supplies,Hackensack,2062,NaN
+Office Supplies,Hagerstown,9294,NaN
+Office Supplies,Haltom City,20803,NaN
+Office Supplies,Hamilton,5864,NaN
+Office Supplies,Hampton,45028,NaN
+Office Supplies,Harlingen,8604,NaN
+Office Supplies,Harrisonburg,2312,NaN
+Office Supplies,Hattiesburg,31805,NaN
+Office Supplies,Helena,5152,NaN
+Office Supplies,Hempstead,34469,NaN
+Office Supplies,Henderson,161827,NaN
+Office Supplies,Hendersonville,30770,NaN
+Office Supplies,Hesperia,324,NaN
+Office Supplies,Hialeah,59184,NaN
+Office Supplies,Hickory,8924,NaN
+Office Supplies,Highland Park,10547,NaN
+Office Supplies,Hillsboro,14637,NaN
+Office Supplies,Holland,19822,NaN
+Office Supplies,Hollywood,62459,NaN
+Office Supplies,Homestead,9029,NaN
+Office Supplies,Hoover,8409,NaN
+Office Supplies,Hot Springs,13435,NaN
+Office Supplies,Houston,1202495,NaN
+Office Supplies,Huntington Beach,16665,NaN
+Office Supplies,Huntsville,129219,NaN
+Office Supplies,Independence,3712,NaN
+Office Supplies,Indianapolis,91812,NaN
+Office Supplies,Inglewood,45576,NaN
+Office Supplies,Iowa City,4190,NaN
+Office Supplies,Irving,49428,NaN
+Office Supplies,Jackson,263223,NaN
+Office Supplies,Jacksonville,348175,NaN
+Office Supplies,Johnson City,37304,NaN
+Office Supplies,Jonesboro,24725,NaN
+Office Supplies,Jupiter,5441,NaN
+Office Supplies,Keller,1885,NaN
+Office Supplies,Kenner,6021,NaN
+Office Supplies,Kenosha,3998,NaN
+Office Supplies,Kent,33604,NaN
+Office Supplies,Kirkwood,5155,NaN
+Office Supplies,Knoxville,85576,NaN
+Office Supplies,La Crosse,10176,NaN
+Office Supplies,La Mesa,5636,NaN
+Office Supplies,La Porte,15531,NaN
+Office Supplies,Lafayette,108607,NaN
+Office Supplies,Laguna Niguel,13319,NaN
+Office Supplies,Lake Charles,9585,NaN
+Office Supplies,Lake Forest,29383,NaN
+Office Supplies,Lakeland,38362,NaN
+Office Supplies,Lakeville,12996,NaN
+Office Supplies,Lakewood,155601,NaN
+Office Supplies,Lancaster,159884,NaN
+Office Supplies,Lansing,5568,NaN
+Office Supplies,Laredo,19405,NaN
+Office Supplies,Las Cruces,11862,NaN
+Office Supplies,Las Vegas,69887,NaN
+Office Supplies,Laurel,9133,NaN
+Office Supplies,Lawrence,164538,NaN
+Office Supplies,Lawton,20771,NaN
+Office Supplies,Layton,340,NaN
+Office Supplies,League City,29865,NaN
+Office Supplies,Lebanon,12599,NaN
+Office Supplies,Leominster,19661,NaN
+Office Supplies,Lewiston,14051,NaN
+Office Supplies,Lincoln Park,5244,NaN
+Office Supplies,Lindenhurst,471,NaN
+Office Supplies,Little Rock,83149,NaN
+Office Supplies,Lodi,19652,NaN
+Office Supplies,Logan,18716,NaN
+Office Supplies,Long Beach,257922,NaN
+Office Supplies,Longview,12427,NaN
+Office Supplies,Lorain,10128,NaN
+Office Supplies,Los Angeles,2243693,"2243693,2680793,4924486"
+Office Supplies,Louisville,161517,NaN
+Office Supplies,Loveland,21363,NaN
+Office Supplies,Lowell,34037,NaN
+Office Supplies,Lubbock,28620,NaN
+Office Supplies,Macon,8907,NaN
+Office Supplies,Madison,25834,NaN
+Office Supplies,Malden,4939,NaN
+Office Supplies,Manchester,40857,NaN
+Office Supplies,Mansfield,9601,NaN
+Office Supplies,Manteca,6697,NaN
+Office Supplies,Maple Grove,19586,NaN
+Office Supplies,Margate,4422,NaN
+Office Supplies,Marietta,20828,NaN
+Office Supplies,Marion,75484,NaN
+Office Supplies,Marysville,8582,NaN
+Office Supplies,Mason,19741,NaN
+Office Supplies,Mcallen,100582,NaN
+Office Supplies,Medford,17177,NaN
+Office Supplies,Medina,6717,NaN
+Office Supplies,Melbourne,44,NaN
+Office Supplies,Memphis,112281,NaN
+Office Supplies,Mentor,8952,NaN
+Office Supplies,Meriden,58605,NaN
+Office Supplies,Meridian,14961,NaN
+Office Supplies,Mesa,64411,NaN
+Office Supplies,Mesquite,9389,NaN
+Office Supplies,Miami,223353,NaN
+Office Supplies,Middletown,39105,NaN
+Office Supplies,Midland,56273,NaN
+Office Supplies,Milford,24147,NaN
+Office Supplies,Milwaukee,104730,NaN
+Office Supplies,Minneapolis,63965,NaN
+Office Supplies,Miramar,39820,NaN
+Office Supplies,Mishawaka,4215,NaN
+Office Supplies,Mission Viejo,10782,NaN
+Office Supplies,Missoula,1896,NaN
+Office Supplies,Missouri City,3193,NaN
+Office Supplies,Mobile,11362,NaN
+Office Supplies,Monroe,22620,NaN
+Office Supplies,Montgomery,11533,NaN
+Office Supplies,Moreno Valley,57745,NaN
+Office Supplies,Morgan Hill,15821,NaN
+Office Supplies,Morristown,29169,NaN
+Office Supplies,Mount Vernon,29805,NaN
+Office Supplies,Murfreesboro,43878,NaN
+Office Supplies,Murray,8358,NaN
+Office Supplies,Murrieta,1005,NaN
+Office Supplies,Muskogee,6573,NaN
+Office Supplies,Naperville,18269,NaN
+Office Supplies,Nashua,6724,NaN
+Office Supplies,Nashville,126069,NaN
+Office Supplies,New Albany,101,NaN
+Office Supplies,New Bedford,19353,NaN
+Office Supplies,New Brunswick,1719,NaN
+Office Supplies,New Castle,2285,NaN
+Office Supplies,New Rochelle,39795,NaN
+Office Supplies,New York City,2680793,"2680793,0,2680793"
+Office Supplies,Newark,286246,NaN
+Office Supplies,Newport News,49067,NaN
+Office Supplies,Niagara Falls,2951,NaN
+Office Supplies,Noblesville,2916,NaN
+Office Supplies,Norfolk,5539,NaN
+Office Supplies,North Charleston,2449,NaN
+Office Supplies,North Las Vegas,50045,NaN
+Office Supplies,North Miami,12517,NaN
+Office Supplies,Norwich,14615,NaN
+Office Supplies,Oak Park,4860,NaN
+Office Supplies,Oakland,42937,NaN
+Office Supplies,Oceanside,52242,NaN
+Office Supplies,Odessa,21132,NaN
+Office Supplies,Oklahoma City,60479,NaN
+Office Supplies,Olathe,12695,NaN
+Office Supplies,Olympia,4728,NaN
+Office Supplies,Omaha,92875,NaN
+Office Supplies,Orange,34718,NaN
+Office Supplies,Orem,31143,NaN
+Office Supplies,Orlando,51955,NaN
+Office Supplies,Ormond Beach,2121,NaN
+Office Supplies,Oswego,28440,NaN
+Office Supplies,Overland Park,21981,NaN
+Office Supplies,Owensboro,11802,NaN
+Office Supplies,Oxnard,49827,NaN
+Office Supplies,Palm Coast,9000,NaN
+Office Supplies,Park Ridge,5351,NaN
+Office Supplies,Parker,7485,NaN
+Office Supplies,Parma,29872,NaN
+Office Supplies,Pasadena,83838,NaN
+Office Supplies,Pasco,29208,NaN
+Office Supplies,Passaic,4888,NaN
+Office Supplies,Paterson,95459,NaN
+Office Supplies,Pearland,6423,NaN
+Office Supplies,Pembroke Pines,44755,NaN
+Office Supplies,Pensacola,4879,NaN
+Office Supplies,Peoria,52778,NaN
+Office Supplies,Perth Amboy,26066,NaN
+Office Supplies,Pharr,3017,NaN
+Office Supplies,Philadelphia,1436121,NaN
+Office Supplies,Phoenix,172739,NaN
+Office Supplies,Pine Bluff,9254,NaN
+Office Supplies,Plainfield,58950,NaN
+Office Supplies,Plano,33996,NaN
+Office Supplies,Plantation,23639,NaN
+Office Supplies,Pleasant Grove,13954,NaN
+Office Supplies,Pocatello,24474,NaN
+Office Supplies,Pomona,12683,NaN
+Office Supplies,Pompano Beach,8377,NaN
+Office Supplies,Port Arthur,20170,NaN
+Office Supplies,Port Orange,1893,NaN
+Office Supplies,Port Saint Lucie,12264,NaN
+Office Supplies,Portage,4341,NaN
+Office Supplies,Portland,66591,NaN
+Office Supplies,Providence,89311,NaN
+Office Supplies,Provo,23564,NaN
+Office Supplies,Pueblo,27114,NaN
+Office Supplies,Quincy,47104,NaN
+Office Supplies,Raleigh,71513,NaN
+Office Supplies,Rancho Cucamonga,18032,NaN
+Office Supplies,Rapid City,8150,NaN
+Office Supplies,Reading,10747,NaN
+Office Supplies,Redlands,40356,NaN
+Office Supplies,Redmond,31382,NaN
+Office Supplies,Redondo Beach,23849,NaN
+Office Supplies,Redwood City,6116,NaN
+Office Supplies,Reno,11013,NaN
+Office Supplies,Renton,12728,NaN
+Office Supplies,Revere,29570,NaN
+Office Supplies,Richmond,338964,NaN
+Office Supplies,Riverside,68043,NaN
+Office Supplies,Rochester,142408,NaN
+Office Supplies,Rock Hill,3745,NaN
+Office Supplies,Rockford,50318,NaN
+Office Supplies,Rockville,16379,NaN
+Office Supplies,Rogers,5387,NaN
+Office Supplies,Rome,23534,NaN
+Office Supplies,Romeoville,8981,NaN
+Office Supplies,Roseville,113717,NaN
+Office Supplies,Roswell,37874,NaN
+Office Supplies,Round Rock,11353,NaN
+Office Supplies,Royal Oak,6124,NaN
+Office Supplies,Sacramento,38082,NaN
+Office Supplies,Saginaw,837,NaN
+Office Supplies,Saint Charles,26479,NaN
+Office Supplies,Saint Louis,27396,NaN
+Office Supplies,Saint Paul,99,NaN
+Office Supplies,Saint Petersburg,68369,NaN
+Office Supplies,Salem,131097,NaN
+Office Supplies,Salinas,9603,NaN
+Office Supplies,Salt Lake City,39077,NaN
+Office Supplies,San Angelo,8113,NaN
+Office Supplies,San Antonio,127292,NaN
+Office Supplies,San Bernardino,44437,NaN
+Office Supplies,San Clemente,19337,NaN
+Office Supplies,San Diego,419704,NaN
+Office Supplies,San Francisco,1555392,"1555392,4924486,6479878"
+Office Supplies,San Gabriel,4377,NaN
+Office Supplies,San Jose,150943,NaN
+Office Supplies,San Luis Obispo,9702,NaN
+Office Supplies,San Marcos,17166,NaN
+Office Supplies,San Mateo,3216,NaN
+Office Supplies,Sandy Springs,61428,NaN
+Office Supplies,Sanford,8564,NaN
+Office Supplies,Santa Ana,50777,NaN
+Office Supplies,Santa Barbara,30558,NaN
+Office Supplies,Santa Clara,36388,NaN
+Office Supplies,Santa Fe,9306,NaN
+Office Supplies,Santa Maria,6140,NaN
+Office Supplies,Scottsdale,30998,NaN
+Office Supplies,Seattle,1233067,NaN
+Office Supplies,Sheboygan,23967,NaN
+Office Supplies,Shelton,8385,NaN
+Office Supplies,Sierra Vista,1295,NaN
+Office Supplies,Sioux Falls,15390,NaN
+Office Supplies,Skokie,26339,NaN
+Office Supplies,Smyrna,77427,NaN
+Office Supplies,South Bend,9264,NaN
+Office Supplies,Southaven,20129,NaN
+Office Supplies,Sparks,12542,NaN
+Office Supplies,Spokane,24863,NaN
+Office Supplies,Springdale,9761,NaN
+Office Supplies,Springfield,492430,NaN
+Office Supplies,Sterling Heights,10267,NaN
+Office Supplies,Stockton,16178,NaN
+Office Supplies,Suffolk,40521,NaN
+Office Supplies,Summerville,2594,NaN
+Office Supplies,Sunnyvale,27142,NaN
+Office Supplies,Superior,47557,NaN
+Office Supplies,Tallahassee,63064,NaN
+Office Supplies,Tamarac,7121,NaN
+Office Supplies,Tampa,104144,NaN
+Office Supplies,Taylor,306,NaN
+Office Supplies,Temecula,3289,NaN
+Office Supplies,Tempe,22862,NaN
+Office Supplies,The Colony,12871,NaN
+Office Supplies,Thomasville,6851,NaN
+Office Supplies,Thornton,32077,NaN
+Office Supplies,Thousand Oaks,16477,NaN
+Office Supplies,Tigard,11436,NaN
+Office Supplies,Toledo,77221,NaN
+Office Supplies,Torrance,7781,NaN
+Office Supplies,Trenton,25524,NaN
+Office Supplies,Troy,75052,NaN
+Office Supplies,Tucson,49654,NaN
+Office Supplies,Tulsa,83984,NaN
+Office Supplies,Tuscaloosa,4937,NaN
+Office Supplies,Twin Falls,8783,NaN
+Office Supplies,Tyler,2194,NaN
+Office Supplies,Urbandale,4452,NaN
+Office Supplies,Utica,23274,NaN
+Office Supplies,Vacaville,2751,NaN
+Office Supplies,Vallejo,8836,NaN
+Office Supplies,Vancouver,1001,NaN
+Office Supplies,Vineland,25209,NaN
+Office Supplies,Virginia Beach,41370,NaN
+Office Supplies,Visalia,22395,NaN
+Office Supplies,Waco,33377,NaN
+Office Supplies,Warner Robins,2341,NaN
+Office Supplies,Warwick,5154,NaN
+Office Supplies,Washington,12384,NaN
+Office Supplies,Waterbury,44626,NaN
+Office Supplies,Waterloo,6231,NaN
+Office Supplies,Watertown,32891,NaN
+Office Supplies,Waukesha,2772,NaN
+Office Supplies,Wausau,19330,NaN
+Office Supplies,Waynesboro,12881,NaN
+Office Supplies,West Allis,3764,NaN
+Office Supplies,West Jordan,9082,NaN
+Office Supplies,West Palm Beach,17117,NaN
+Office Supplies,Westfield,5955,NaN
+Office Supplies,Westland,51359,NaN
+Office Supplies,Westminster,79215,NaN
+Office Supplies,Wheeling,33277,NaN
+Office Supplies,Wichita,23433,NaN
+Office Supplies,Wilmington,127514,NaN
+Office Supplies,Wilson,40741,NaN
+Office Supplies,Woodbury,19436,NaN
+Office Supplies,Woodland,6379,NaN
+Office Supplies,Woodstock,15337,NaN
+Office Supplies,Woonsocket,15458,NaN
+Office Supplies,Yonkers,43891,NaN
+Office Supplies,York,21246,NaN
+Office Supplies,Yucaipa,3348,NaN
+Office Supplies,Yuma,12911,NaN
