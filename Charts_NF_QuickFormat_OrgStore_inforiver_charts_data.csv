@@ -1,0 +1,13 @@
+Trellis.Account Level 2,Sum(Trellis.PY),Sum(Trellis.PL),Sum(Trellis.FC),
+Software revenue,1030,1912,986,"1030,0,1030"
+Income from discontinued operations,918,984,,"918,1030,1948"
+Income tax expenses,869,870,,"869,1948,2817"
+Research and development expenses,734,,1000,"734,2817,3551"
+"Other financial income,net",702,795,,"702,3551,4253"
+Cost of sales,666,,875,"666,4253,4919"
+Support revenue,640,1690,984,"640,4919,5559"
+Other operating expenses,633,647,,"633,5559,6192"
+Selling and general administrative expenses,497,,1014,"497,6192,6689"
+(Blank),435,801,397,"435,6689,7124"
+Consulting revenue,221,872,1055,"221,7124,7345"
+Other operating income,,1389,,",7345,7345"
